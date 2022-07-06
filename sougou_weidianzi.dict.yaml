@@ -1,0 +1,714 @@
+# 搜狗微电子
+
+name: sougou_weidianzi
+version: "1"
+sort: by_weight
+
+...
+爱因斯坦关系	ai yb si tj gr xi	1
+按比例缩小	an bi li so xn	1
+暗电流	an dm lq	1
+摆幅	bd fu	1
+白噪声	bd zc ug	1
+半导体	bj dc ti	1
+半速率	bj su lv	1
+版图	bj tu	1
+薄层电阻	bc cg dm zu	1
+饱和区	bc he qu	1
+保护环	bc hu hr	1
+薄膜混合	bc mo hy he	1
+薄膜晶体	bc mo jk ti	1
+倍增	bw zg	1
+倍增因子	bw zg yb zi	1
+本底掺杂	bf di ij za	1
+本底载流子	bf di zd lq zi	1
+本征	bf vg	1
+本征半导体	bf vg bj dc ti	1
+闭环带宽	bi hr dd kr	1
+闭环增益集电极	bi hr zg yi ji dm ji	1 
+闭锁	bi so	1
+边界条件	bm jp tn jm	1
+扁平封装	bm pk fg vl	1
+边墙电容	bm ql dm rs	1
+变容管	bm rs gr	1
+变阻器	bm zu qi	1
+并行数据	bk xk uu ju	1
+波导	bo dc	1
+波尔兹曼	bo er zi mj	1
+波粒二相性	bo li er xl xk	1
+波数	bo uu	1
+泊松方程	bo ss fh ig	1
+波特图	bo te tu	1
+补偿半导体	bu ih bj dc ti	1
+补偿运放	bu ih yy fh	1
+补偿杂质	bu ih za vi	1
+捕获	bu ho	1
+捕获范围	bu ho fj ww	1
+捕获时间	bu ho ui jm	1
+布局布线	bu ju bu xm	1
+布里渊	bu li yr	1
+布里渊区	bu li yr qu	1
+布洛赫	bu lo he	1
+布线	bu xm	1
+采样电路	cd yh dm lu	1
+参数	cj uu	1
+层错	cg co	1
+差分运放	ia ff yy fh	1
+差模输入	ia mo uu ru	1
+产生复合	ij ug fu he	1
+掺杂半导体	ij za bj dc ti	1
+掺杂剂	ij za ji	1
+掺杂浓度	ij za ns du	1
+场效应晶体管	ih xn yk jk ti gr	1
+场氧化层	ih yh hx cg	1
+超晶格	ic jk ge	1
+衬底	if di	1
+驰豫	ii yu	1
+驰豫时间	ii yu ui jm	1
+触发器翻转	iu fa qi fj vr	1
+串并转换	ir bk vr hr	1
+传感器	ir gj qi	1
+穿交	ir jn	1
+串联	ir lm	1
+串联电感	ir lm dm gj	1
+传输函数	ir uu hj uu	1
+传输器	ir uu qi	1
+传输线	ir uu xm	1
+传输延时	ir uu yj ui	1
+穿通	ir ts	1
+串行	ir xk	1
+串行数据	ir xk uu ju	1
+次平面	ci pk mm	1
+存储时间	cy iu ui jm	1
+待命状态	dd mk vl td	1
+氮化硅	dj hx gv	1
+单结	dj jp	1
+单晶	dj jk	1
+单位增益频率	dj ww zg yi pb lv	1
+单向开关	dj xl kd gr	1
+导带	dc dd	1
+导带态	dc dd td	1
+倒核子	dc he zi	1
+导纳允带	dc na yy dd	1
+导体	dc ti	1
+德拜长度	de bd ih du	1
+德布洛意	de bu lo yi	1
+等离子体	dg li zi ti	1
+等能面	dg ng mm	1
+等效电路	dg xn dm lu	1
+狄拉克分布	di la ke ff bu	1
+狄氏效应	di ui xn yk	1
+电导	dm dc	1
+电导率	dm dc lv	1
+电感	dm gj	1
+电荷泵	dm he bg	1
+电荷泵锁相环	dm he bg so xl hr	1
+电荷电荷补偿效应	dm he dm he bu ih xn yk	1
+电荷共享	dm he gs xl	1
+电荷守恒	dm he uz hg	1
+电极	dm ji	1
+淀积薄膜	dm ji bc mo	1
+淀积工艺	dm ji gs yi	1
+点接触	dm jp iu	1
+电离	dm li	1
+电离能	dm li ng	1
+电流饱和区	dm lq bc he qu	1
+电流舵	dm lq do	1
+电流镜	dm lq jk	1
+电流密度	dm lq mi du	1
+电流模	dm lq mo	1
+电流漂移	dm lq pn yi	1
+电流取样	dm lq qu yh	1
+电流失配	dm lq ui pw	1
+电迁移	dm qm yi	1
+电容	dm rs	1
+电中性条件	dm vs xk tn jm	1
+电子伏	dm zi fu	1
+电子俘获中心	dm zi fu ho vs xb	1
+电子级纯水	dm zi ji iy uv	1
+电子能	dm zi ng	1
+电子气	dm zi qi	1
+电子亲和势	dm zi qb he ui	1
+电子束曝光	dm zi uu bc gl	1
+电阻率	dm zu lv	1
+电阻增量	dm zu zg ll	1
+定制集成电路	dk vi ji ig dm lu	1
+动态范围	ds td fj ww	1
+动态属性	ds td uu xk	1
+动态阻抗	ds td zu kh	1
+抖动	dz ds	1
+渡越时间	du yt ui jm	1
+短沟道	dr gz dc	1
+对准	dv vy	1
+钝化	dy hx	1
+钝化界面	dy hx jp mm	1
+多晶	do jk	1
+多晶硅	do jk gv	1
+多路复用	do lu fu ys	1
+厄利效应	ee li xn yk	1
+俄歇	ee xp	1
+俄歇过程	ee xp go ig	1
+二分频	er ff pb	1
+二极管	er ji gr	1
+二进制代码	er jb vi dd ma	1
+二氧化硅	er yh hx gv	1
+二元化合物半导体	er yr hx he wu bj dc ti	1
+发光二极管	fa gl er ji gr	1
+发射极	fa ue ji	1
+发射极集边效应	fa ue ji ji bm xn yk	1
+发射极耦合对	fa ue ji ou he dv	1
+发射极耦合逻辑	fa ue ji ou he lo ji	1
+反掺杂	fj ij za	1
+反馈	fj kv	1
+反向工作	fj xl gs zo	1
+反向偏置	fj xl pm vi	1
+反相器	fj xl qi	1
+反型	fj xk	1
+反应溅射源	fj yk jm ue yr	1
+放大器	fh da qi	1
+放电	fh dm	1
+非本征	fw bf vg	1
+非挥发性	fw hv fa xk	1
+非接触式掩模	fw jp iu ui yj mo	1
+非晶体	fw jk ti	1
+菲克方程	fw ke fh ig	1
+费米	fw mi	1
+费米狄拉克分布	fw mi di la ke ff bu	1
+费米能级	fw mi ng ji	1
+费米势	fw mi ui	1
+非平衡	fw pk hg	1
+非线性鉴相器	fw xm xk jm xl qi	1
+分贝	ff bw	1
+分布电容	ff bu dm rs	1
+分布模型	ff bu mo xk	1
+分立元件	ff li yr jm	1
+分凝	ff nk	1
+分子晶体	ff zi jk ti	1
+峰点电压	fg dm dm ya	1
+峰值电压	fg vi dm ya	1
+封装	fg vl	1
+幅度	fu du	1
+负反馈	fu fj kv	1
+复合	fu he	1
+氟化氢刻蚀	fu hx qk ke ui	1
+俘获截面	fu ho jp mm	1
+俘获载流子	fu ho zd lq zi	1
+浮栅	fu uj	1
+辐射保护	fu ue bc hu	1
+辐射电导率	fu ue dm dc lv	1
+辐射加固	fu ue jx gu	1
+辐射加固器件	fu ue jx gu qi jm	1
+辐射损伤	fu ue sy uh	1
+辐射通量密度	fu ue ts ll mi du	1
+负温度系数	fu wf du xi uu	1
+负载线	fu zd xm	1
+辐照	fu vc	1
+辐照复合	fu vc fu he	1
+负阻	fu zu	1
+概率密度	gd lv mi du	1
+概率密度函数	gd lv mi du hj uu	1
+干法腐蚀	gj fa fu ui	1
+坩埚	gj go	1
+感应沟道	gj yk gz dc	1
+高场特性	gc ih te xk	1
+高斯	gc si	1
+高斯掺杂分布	gc si ij za ff bu	1
+高斯分布	gc si ff bu	1
+隔离岛	ge li dc	1
+葛谋潘模型	ge mz pj mo xk	1
+各向同性	ge xl ts xk	1
+各向异性	ge xl yi xk	1
+功放	gs fh	1
+功函数	gs hj uu	1
+功耗	gs hc	1
+共价键	gs jx jm	1
+共阶跨交	gs jp kx jn	1
+共漏	gs lz	1
+功率晶体管	gs lv jk ti gr	1
+功率谱	gs lv pu	1
+共模输入	gs mo uu ru	1
+共模抑制比	gs mo yi vi bi	1
+共模增益	gs mo zg yi	1
+共溶	gs rs	1
+共栅	gs uj	1
+共射频率	gs ue pb lv	1
+工艺	gs yi	1
+共源	gs yr	1
+工作点	gs zo dm	1
+工作偏置	gs zo pm vi	1
+工作周期	gs zo vz qi	1
+沟道掺杂	gz dc ij za	1
+沟道电流	gz dc dm lq	1
+沟道击穿	gz dc ji ir	1
+沟道宽度	gz dc kr du	1
+沟道缩短	gz dc so dr	1
+谷间散射	gu jm sj ue	1
+固溶度	gu rs du	1
+固体电路	gu ti dm lu	1
+管脚	gr jn	1
+光猝灭	gl cu mp	1
+光电池	gl dm ii	1
+光电导	gl dm dc	1
+光电二极管	gl dm er ji gr	1
+光电效应	gl dm xn yk	1
+光刻	gl ke	1
+光刻工艺	gl ke gs yi	1
+光耦合隔离器	gl ou he ge li qi	1
+光通信	gl ts xb	1
+光跃迁	gl yt qm	1
+光致抗蚀剂	gl vi kh ui ji	1
+光子	gl zi	1
+光子器件	gl zi qi jm	1
+归一化	gv yi hx	1
+过冲	go is	1
+过度金属硅化物	go du jb uu gv hx wu	1
+过渡区	go du qu	1
+国际单位制	go ji dj ww vi	1
+过流保护	go lq bc hu	1
+过剩载流子	go ug zd lq zi	1
+过压保护	go ya bc hu	1
+过载	go zd	1
+耗尽层	hc jb cg	1
+耗尽接触	hc jb jp iu	1
+耗尽近似	hc jb jb si	1
+耗尽区	hc jb qu	1
+耗尽深度	hc jb uf du	1
+耗尽效应	hc jb xn yk	1
+合金结器件	he jb jp qi jm	1
+恒定源扩散	hg dk yr ko sj	1
+横向	hg xl	1
+厚膜技术	hz mo ji uu	1
+互补达林顿电路	hu bu da lb dy dm lu	1
+互补金属氧化物半导体场效应晶体管	hu bu jb uu yh hx wu bj dc ti ih xn yk jk ti gr	1
+互连	hu lm	1
+互连延时	hu lm yj ui	1
+化合物半导体	hx he wu bj dc ti	1
+划片格	hx pm ge	1
+化学腐蚀法	hx xt fu ui fa	1
+化学机械抛光	hx xt ji xp pc gl	1
+化学抛光	hx xt pc gl	1
+缓变沟道	hr bm gz dc	1
+缓变结晶粒	hr bm jp jk li	1
+环路参数	hr lu cj uu	1
+环路带宽	hr lu dd kr	1
+环路滤波器	hr lu lv bo qi	1
+环路相应	hr lu xl yk	1
+环形振荡器	hr xk vf dh qi	1
+恢复二极管	hv fu er ji gr	1
+恢复时间	hv fu ui jm	1
+混合集成	hy he ji ig	1
+霍尔效应	ho er xn yk	1
+急变时间	ji bm ui jm	1
+集成注入逻辑	ji ig vu ru lo ji	1
+击穿	ji ir	1
+寄存器	ji cy qi	1
+集电极	ji dm ji	1
+激发能	ji fa ng	1
+激发态	ji fa td	1
+几何尺寸	ji he ii cy	1
+激活	ji ho	1
+激活能	ji ho ng	1
+基极	ji ji	1
+积累层	ji lw cg	1
+积累接触	ji lw jp iu	1
+积累区	ji lw qu	1
+级联	ji lm	1
+基区渡越时间	ji qu du yt ui jm	1
+基区接触	ji qu jp iu	1
+基区宽度调制	ji qu kr du tn vi	1
+基区扩展效应	ji qu ko vj xn yk	1
+基区输运系数	ji qu uu yy xi uu	1
+寄生晶体管	ji ug jk ti gr	1
+寄生效应	ji ug xn yk	1
+寄生振荡	ji ug vf dh	1
+基矢	ji ui	1
+极性	ji xk	1
+基准点	ji vy dm	1
+激子	ji zi	1
+集总模型	ji zs mo xk	1
+价带	jx dd	1
+价带顶	jx dd dk	1
+价电子	jx dm zi	1
+夹断	jx dr	1
+价键	jx jm	1
+加速实验	jx su ui yj	1
+简并半导体	jm bk bj dc ti	1
+简并度	jm bk du	1
+键合	jm he	1
+键合点	jm he dm	1
+简立方	jm li fh	1
+建立时间	jm li ui jm	1
+鉴频	jm pb	1
+鉴频鉴相	jm pb jm xl	1
+溅射	jm ue	1
+减速	jm su	1
+鉴相	jm xl	1
+交迭	jn dp	1
+交互式结构	jn hu ui jp gz	1
+结侧壁	jp ce bi	1
+接触电势	jp iu dm ui	1
+接触孔	jp iu ks	1
+接触式掩模	jp iu ui yj mo	1
+介电	jp dm	1
+结隔离	jp ge li	1
+结构组态	jp gz zu td	1
+结间距	jp jm ju	1
+解理面	jp li mm	1
+界面	jp mm	1
+结型场效应管	jp xk ih xn yk gr	1
+截止	jp vi	1
+介质隔离	jp vi ge li	1
+禁带	jb dd	1
+金属半导体	jb uu bj dc ti	1
+金属氧化物半导体场效应晶体管	jb uu yh hx wu bj dc ti ih xn yk jk ti gr	1
+进位输出	jb ww uu iu	1
+进位输入	jb ww uu ru	1
+晶胞	jk bc	1
+晶格	jk ge	1
+晶格畸变	jk ge ji bm	1
+晶格结合力	jk ge jp he li	1
+晶面	jk mm	1
+晶片波动方程	jk pm bo ds fh ig	1
+静态特性	jk td te xk	1
+晶体管老化	jk ti gr lc hx	1
+晶体缺陷	jk ti qt xm	1
+晶向	jk xl	1
+镜象力碰撞电离	jk xl li pg vl dm li	1
+晶闸管	jk va gr	1
+聚合物半导体	ju he wu bj dc ti	1
+绝对抖动	jt dv dz ds	1
+绝缘硅	jt yr gv	1
+绝缘栅	jt yr uj	1
+绝缘体	jt yr ti	1
+均匀分布	jy yy ff bu	1
+开环带宽	kd hr dd kr	1
+开路	kd lu	1
+抗腐蚀剂	kh fu ui ji	1
+抗蚀剂掩模	kh ui ji yj mo	1
+可擦取存储器	ke ca qu cy iu qi	1
+可动离子	ke ds li zi	1
+可靠性	ke kc xk	1
+可控硅	ke ks gv	1
+可渗透基区	ke uf tz ji qu	1
+刻蚀剂	ke ui ji	1
+空带	ks dd	1
+空间电荷	ks jm dm he	1
+空位	ks ww	1
+空穴	ks xt	1
+空载时间	ks zd ui jm	1
+跨导	kx dc	1
+快恢复	kk hv fu	1
+快界面态	kk jp mm td	1
+扩频	ko pb	1
+扩频通信	ko pb ts xb	1
+扩散常数	ko sj ih uu	1
+扩散电容	ko sj dm rs	1
+扩散率	ko sj lv	1
+扩散势垒	ko sj ui lw	1
+扩散系数	ko sj xi uu	1
+扩音器	ko yb qi	1
+扩展电阻	ko vj dm zu	1
+扩展频谱	ko vj pb pu	1
+蓝宝石	lj bc ui	1
+浪涌能力	lh ys ng li	1
+里德二极管	li de er ji gr	1
+李奇	li qi	1
+离子	li zi	1
+离子刻蚀	li zi ke ui	1
+离子束	li zi uu	1
+离子注入	li zi vu ru	1
+连续性方程	lm xu xk fh ig	1
+连续性条件	lm xu xk tn jm	1
+量子化	ll zi hx	1
+量子效应	ll zi xn yk	1
+临界	lb jp	1
+灵敏度	lk mb du	1
+漏电流	lz dm lq	1
+逻辑摆幅	lo ji bd fu	1
+洛沦兹	lo ly zi	1
+裸片	lo pm	1
+螺旋电感	lo xr dm gj	1
+铝钝化	lv dy hx	1
+铝氧化物	lv yh hx wu	1
+码型	ma xk	1
+脉冲宽度调制	md is kr du tn vi	1
+脉冲调制	md is tn vi	1
+埋沟	md gz	1
+麦克斯韦	md ke si ww	1
+曼彻斯特码	mj ie si te ma	1
+满带	mj dd	1
+蒙特卡洛	mg te ka lo	1
+密堆积结构	mi dv ji jp gz	1
+密勒指数	mi le vi uu	1
+面心立方	mm xb li fh	1
+模拟板	mo ni bj	1
+模拟比较器	mo ni bi jn qi	1
+南开	nj kd	1
+南开大学	nj kd da xt	1
+内插法	nw ia fa	1
+内建	nw jm	1
+内建电场	nw jm dm ih	1
+能带	ng dd	1
+能带间隙	ng dd jm xi	1
+能级深陷阱	ng ji uf xm jk	1
+能态	ng td	1
+耦合	ou he	1
+偶极层直接耦合	ou ji cg vi jp ou he	1
+偶极畴	ou ji iz	1
+欧姆接触	ou mu jp iu	1
+硼硅玻璃	pg gv bo li	1
+匹配	pi pw	1
+偏差	pm ia	1
+偏置	pm vi	1
+偏置电流	pm vi dm lq	1
+偏置电压	pm vi dm ya	1
+漂移电场	pn yi dm ih	1
+频率漂移噪声	pb lv pn yi zc ug	1
+频率响应函数	pb lv xl yk hj uu	1
+品质因子	pb vi yb zi	1
+平带	pk dd	1
+平衡多子	pk hg do zi	1
+平衡少子	pk hg uc zi	1
+平均工作时间	pk jy gs zo ui jm	1
+平均自由程	pk jy zi yz ig	1
+平面工艺	pk mm gs yi	1
+平面晶体管	pk mm jk ti gr	1
+汽相	qi xl	1
+箝位	qm ww	1
+箝位二极管	qm ww er ji gr	1
+潜行通路	qm xk ts lu	1
+迁移率	qm yi lv	1
+前置放大器	qm vi fh da qi	1
+切克劳斯基技术	qp ke lc si ji ji uu	1
+球面	qq mm	1
+球形键合	qq xk jm he	1
+趋肤效应	qu fu xn yk	1
+曲率	qu lv	1
+全速率	qr su lv	1
+确定抖动	qt dk dz ds	1
+缺陷	qt xm	1
+热沉	re if	1
+热导率	re dc lv	1
+热激发	re ji fa	1
+热平衡	re pk hg	1
+热氧化	re yh hx	1
+热运动	re yy ds	1
+热载流子	re zd lq zi	1
+热阻	re zu	1
+容差	rs ia	1
+三重扩散	sj is ko sj	1
+三角波发生器	sj jn bo fa ug qi	1
+散粒噪声	sj li zc ug	1
+散热器	sj re qi	1
+散射	sj ue	1
+扇出	uj iu	1
+扇入	uj ru	1
+闪烁存储器	uj uo cy iu qi	1
+闪烁噪声	uj uo zc ug	1
+栅氧化层	uj yh hx cg	1
+上跳变	uh tn bm	1
+少数载流子	uc uu zd lq zi	1
+射频微电子	ue pb ww dm zi	1
+射随器	ue sv qi	1
+射线	ue xm	1
+深度杂质	uf du za vi	1
+砷化钾	uf hx jx	1
+深施主能级	uf ui vu ng ji	1
+深受主能级	uf uz vu ng ji	1
+升华	ug hx	1
+生长结	ug vh jp	1
+声子谱	ug zi pu	1
+湿法氧化	ui fa yh hx	1
+势阱	ui jk	1
+势垒	ui lw	1
+势垒层	ui lw cg	1
+势垒宽度	ui lw kr du	1
+失配	ui pw	1
+失锁	ui so	1
+石英玻璃	ui yk bo li	1
+时钟触发器	ui vs iu fa qi	1
+时钟发生器	ui vs fa ug qi	1
+时钟恢复	ui vs hv fu	1
+时钟频率	ui vs pb lv	1
+时钟与数据恢复	ui vs yu uu ju hv fu	1
+施主耗尽	ui vu hc jb	1
+受激发射	uz ji fa ue	1
+受激复合	uz ji fu he	1
+受控	uz ks	1
+寿命测试	uz mk ce ui	1
+受主	uz vu	1
+受主原子	uz vu yr zi	1
+输出电压摆幅	uu iu dm ya bd fu	1
+输出特性	uu iu te xk	1
+束缚电子	uu fu dm zi	1
+数据转换器	uu ju vr hr qi	1
+输入失调电压	uu ru ui tn dm ya	1
+梳状发射极结	uu vl fa ue ji jp	1
+数字电路	uu zi dm lu	1
+双极	ul ji	1
+双极晶体管	ul ji jk ti gr	1
+双扩散	ul ko sj	1
+双列直插式封装	ul lp vi ia ui fg vl	1
+双向开关	ul xl kd gr	1
+瞬态	uy td	1
+瞬态仿真	uy td fh vf	1
+速度功耗乘积	su du gs hc ig ji	1
+隧穿	sv ir	1
+隧道电流	sv dc dm lq	1
+随机抖动	sv ji dz ds	1
+锁相环	so xl hr	1
+态密度	td mi du	1
+太阳能电池	td yh ng dm ii	1
+碳化硅	tj hx gv	1
+探针	tj vf	1
+陶瓷	tc ci	1
+套刻	tc ke	1
+特征阻抗	te vg zu kh	1
+体复合	ti fu he	1
+体立心结构	ti li xb jp gz	1
+替位式	ti ww ui	1
+体吸收	ti xi uz	1
+体心立方	ti xb li fh	1
+调制器	tn vi qi	1
+铜互连系统	ts hu lm xi ts	1
+突变结	tu bm jp	1
+退火	tv ho	1
+推挽	tv wj	1
+推挽输出	tv wj uu iu	1
+椭球	to qq	1
+外推法	wd tv fa	1
+外延	wd yj	1
+外延层	wd yj cg	1
+外延片	wd yj pm	1
+弯曲	wj qu	1
+伪差分	ww ia ff	1
+位错	ww co	1
+微电子	ww dm zi	1
+微电子学	ww dm zi xt	1
+微分电容扩散结	ww ff dm rs ko sj jp	1
+伪随机	ww sv ji	1
+卫星谷	ww xk gu	1
+温差电动势率	wf ia dm ds ui lv	1
+稳压管	wf ya gr	1
+卧式外延反应器	wo ui wd yj fj yk qi	1
+物理常数	wu li ih uu	1
+无源器件	wu yr qi jm	1
+无源元件	wu yr yr jm	1
+下标	xx bn	1
+下降时间	xx jl ui jm	1
+陷阱电荷	xm jk dm he	1
+线性度	xm xk du	1
+线性鉴相器	xm xk jm xl qi	1
+相位噪声	xl ww zc ug	1
+相移	xl yi	1
+响应时间	xl yk ui jm	1
+肖克莱二极管	xn ke ld er ji gr	1
+肖特基	xn te ji	1
+肖特基接触	xn te ji jp iu	1
+肖特基势垒	xn te ji ui lw	1
+谐波失真	xp bo ui vf	1
+谐振	xp vf	1
+芯片	xb pm	1
+芯片成品率	xb pm ig pb lv	1
+信噪比	xb zc bi	1
+行为级模型	xk ww ji mo xk	1
+悬挂键	xr gx jm	1
+选择性	xr ze xk	1
+雪崩击穿	xt bg ji ir	1
+雪崩激发	xt bg ji fa	1
+薛定谔	xt dk ee	1
+压电效应	ya dm xn yk	1
+压焊点	ya hj dm	1
+亚阈值	ya yu vi	1
+掩膜板	yj mo bj	1
+掩模序号	yj mo xu hc	1
+掩模组	yj mo zu	1
+延时锁相环	yj ui so xl hr	1
+眼图	yj tu	1
+氧化	yh hx	1
+氧化层钝化	yh hx cg dy hx	1
+氧化物	yh hx wu	1
+液氮	ye dj	1
+液相外延生长技术	ye xl wd yj ug vh ji uu	1
+一次性电可擦除只读存储器	yi ci xk dm ke ca iu vi du cy iu qi	1
+译码	yi ma	1
+异质结	yi vi jp	1
+异质结结构	yi vi jp jp gz	1
+异质结双极型晶体	yi vi jp ul ji xk jk ti	1
+阴极	yb ji	1
+隐埋扩散区	yb md ko sj qu	1
+铟锡氧化物	yb xi yh hx wu	1
+银须	yb xu	1
+印制电路板	yb vi dm lu bj	1
+应力	yk li	1
+膺势发	yk ui fa	1
+永久存储电路	ys jq cy iu dm lu	1
+有机半导体	yz ji bj dc ti	1
+有效质量	yz xn vi ll	1
+有源放大区	yz yr fh da qu	1
+有源器件	yz yr qi jm	1
+有源区有源元	yz yr qu yz yr yr	1
+余误差函数	yu wu ia hj uu	1
+阈值	yu vi	1
+元胞	yr bc	1
+源极	yr ji	1
+元素半导体	yr su bj dc ti	1
+源随器	yr sv qi	1
+跃迁	yt qm	1
+跃迁几率	yt qm ji lv	1
+运放	yy fh	1
+运算放大器	yy sr fh da qi	1
+杂质半导体	za vi bj dc ti	1
+载波进位位	zd bo jb ww ww	1
+载流子	zd lq zi	1
+早期失效	zc qi ui xn	1
+噪声容限	zc ug rs xm	1
+增强型模式	zg ql xk mo ui	1
+增益	zg yi	1
+增益级	zg yi ji	1
+展频	vj pb	1
+张量	vh ll	1
+折射率	ve ue lv	1
+振荡器	vf dh qi	1
+真值表	vf vi bn	1
+整流电阻	vg lq dm zu	1
+整流接触	vg lq jp iu	1
+整流器	vg lq qi	1
+正向导通	vg xl dc ts	1
+正向偏置	vg xl pm vi	1
+正向阻断	vg xl zu dr	1
+直接带隙半导体	vi jp dd xi bj dc ti	1
+直接跃迁	vi jp yt qm	1
+直立单晶	vi li dj jk	1
+质量守恒定律	vi ll uz hg dk lv	1
+志散射	vi sj ue	1
+重掺杂	vs ij za	1
+中心频率	vs xb pb lv	1
+周期表	vz qi bn	1
+周期抖动	vz qi dz ds	1
+周期周期抖动	vz qi vz qi dz ds	1
+主从触发器	vu cs iu fa qi	1
+柱面	vu mm	1
+主平面	vu pk mm	1
+注入	vu ru	1
+注入剂量	vu ru ji ll	1
+注入离子	vu ru li zi	1
+主轴	vu vz	1
+转换器	vr hr qi	1
+转移电子	vr yi dm zi	1
+转移特性	vr yi te xk	1
+准费米能级	vy fw mi ng ji	1
+子带	zi dd	1
+自对准	zi dv vy	1
+自发发射	zi fa fa ue	1
+籽晶	zi jk	1
+自举电路	zi ju dm lu	1
+自举射极跟随器	zi ju ue ji gf sv qi	1
+自扩散	zi ko sj	1
+自旋	zi xr	1
+纵向	zs xl	1
+阻挡接触	zu dh jp iu	1
+阻挡能带	zu dh ng dd	1
+阻抗不完整结构	zu kh bu wj vg jp gz	1
+阻尼因子	zu ni yb zi	1
+组态	zu td	1

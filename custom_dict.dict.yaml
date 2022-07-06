@@ -1,0 +1,7 @@
+# 自行添加
+
+name: custom_dict
+version: "1"
+sort: by_weight
+
+...
