@@ -81,8 +81,8 @@ symbol_support:
   tips: all
 
 speller:
-  alphabet: "zyxwvutsrqponmlkjihgfedcba;"
-  initials: "zyxwvutsrqponmlkjihgfedcba"
+  alphabet: "zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA;"
+  initials: "zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA"
   delimiter: " '"
   algebra:
     # 基础
