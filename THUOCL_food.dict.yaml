@@ -41,7 +41,7 @@ sort: by_weight
 磷酸	lb sr	131081
 托盘	to pj	128371
 青梅	qk mw	127492
-丁香	dk xl	125472s
+丁香	dk xl	125472
 沙拉	ua la	121544
 奶油	nd yz	115847
 石膏	ui gc	114616
@@ -340,7 +340,6 @@ sort: by_weight
 重庆火锅	is qk ho go	11555
 炸酱面	va jl mm	11531
 鹌鹑蛋	an iy dj	11479
-色香味俱全	se xl ww ju qr	11452
 莴笋	wo sy	11416
 辣椒粉	la jn ff	11414
 肉粥	rz vz	11386
@@ -568,13 +567,11 @@ sort: by_weight
 炒栗子	ic li zi	5519
 糖醋排骨	th cu pd gu	5465
 汇泉	hv qr	5422
-磷酸二氢钾	lb sr er qk jx	5419
 佛跳墙	fu tn ql	5400
 咸亨	xm hg	5380
 沙士	ua ui	5368
 阳春面	yh iy mm	5353
 鲥鱼	ui yu	5331
-葡萄糖酸钙	pu tc th sr gd	5330
 稻花香	dc hx xl	5282
 叉烧包	ia uc bc	5272
 香辣蟹	xl la xp	5265
@@ -582,7 +579,6 @@ sort: by_weight
 速溶咖啡	su rs ka fw	5246
 老边	lc bm	5240
 西冷	xi lg	5235
-巧克力蛋糕	qn ke li dj gc	5229
 消泡剂	xn pc ji	5225
 便宜坊	pm yi fh	5219
 冰沙	bk ua	5177
@@ -621,7 +617,6 @@ sort: by_weight
 卡赛	ka sd	4584
 三得利	sj de li	4581
 文昌鸡	wf ih ji	4556
-皮蛋瘦肉粥	pi dj uz rz vz	4539
 干丝	gj si	4535
 金威啤酒	jb ww pi jq	4514
 金鸡独立	jb ji du li	4492
@@ -664,11 +659,9 @@ sort: by_weight
 广州酒家	gl vz jq jx	4048
 黄袍加身	hl pc jx uf	4031
 黄山毛峰	hl uj mc fg	4018
-爱尔兰咖啡	ai er lj ka fw	4017
 冰醋酸	bk cu sr	4012
 耳朵眼	er do yj	4011
 云吞面	yy ty mm	3989
-狗不理包子	gz bu li bc zi	3981
 百鸟朝凤	bd nn ic fg	3979
 猫耳朵	mc er do	3978
 白灼	bd vo	3973
@@ -678,7 +671,6 @@ sort: by_weight
 韭黄	jq hl	3930
 谭鱼头	tj yu tz	3930
 二龙戏珠	er ls xi vu	3905
-南美白对虾	nj mw bd dv xx	3902
 煎饼果子	jm bk go zi	3896
 麦片粥	md pm vz	3878
 沙枣	ua zc	3854
@@ -774,7 +766,6 @@ sort: by_weight
 葱油饼	cs yz bk	3015
 火宫殿	ho gs dm	3012
 麻辣牛肉	ma la nq rz	2997
-葡萄糖酸锌	pu tc th sr xb	2992
 中台湾	vs td wj	2976
 杭州菜	hh vz cd	2973
 黄茶	hl ia	2967
@@ -783,7 +774,6 @@ sort: by_weight
 沧浪亭	ch lh tk	2954
 五芳斋	wu fh vd	2952
 辣椒红	la jn hs	2944
-大白兔奶糖	da bd tu nd th	2931
 牛油果	nq yz go	2909
 手抓羊肉	uz vx yh rz	2908
 椰子汁	ye zi vi	2907
@@ -816,7 +806,6 @@ sort: by_weight
 豆乳	dz ru	2740
 浙菜	ve cd	2740
 苏打饼干	su da bk gj	2730
-乳酸菌饮料	ru sr jy yb ln	2709
 贻贝	yi bw	2696
 肋排	le pd	2694
 香蒜	xl sr	2691
@@ -828,7 +817,6 @@ sort: by_weight
 三鼎	sj dk	2649
 灯影牛肉	dg yk nq rz	2648
 氢氧化钾	qk yh hx jx	2643
-营养强化剂	yk yh ql hx ji	2626
 冰粉	bk ff	2624
 红烧排骨	hs uc pd gu	2609
 鹿角胶	lu jn jn	2606
@@ -848,7 +836,6 @@ sort: by_weight
 大面包	da mm bc	2566
 马提尼	ma ti ni	2561
 云腿	yy tv	2557
-葡萄籽提取物	pu tc zi ti qu wu	2545
 虾池	xx ii	2537
 低聚果糖	di ju go th	2536
 杏仁饼	xk rf bk	2535
@@ -894,7 +881,6 @@ sort: by_weight
 杏仁露	xk rf lu	2300
 白灵菇	bd lk gu	2299
 吞拿鱼	ty na yu	2297
-王老吉凉茶	wh lc ji ll ia	2295
 金星啤酒	jb xk pi jq	2295
 烩菜	hv cd	2293
 阳光地带	yh gl di dd	2285
@@ -913,7 +899,6 @@ sort: by_weight
 焦圈	jn qr	2227
 亚硫酸钠	ya lq sr na	2226
 百香果	bd xl go	2218
-麻辣牛肉干	ma la nq rz gj	2210
 水果蛋糕	uv go dj gc	2208
 牛肉饼	nq rz bk	2195
 银耳汤	yb er th	2193
@@ -953,7 +938,6 @@ sort: by_weight
 凤尾鱼	fg ww yu	2012
 酿皮	nl pi	2006
 君乐	jy le	2002
-天门冬氨酸	tm mf ds an sr	2001
 糯米团	no mi tr	1971
 熙园	xi yr	1969
 大卫杜夫	da ww du fu	1949
@@ -967,11 +951,9 @@ sort: by_weight
 蚂蚁上树	ma yi uh uu	1901
 智德	vi de	1896
 五凤楼	wu fg lz	1892
-红烧狮子头	hs uc ui zi tz	1874
 法餐	fa cj	1864
 卡拉胶	ka la jn	1855
 乳铁蛋白	ru tp dj bd	1854
-库尔勒香梨	ku er lw xl li	1850
 虾饼	xx bk	1838
 山东菜	uj ds cd	1835
 氢氧化钙	qk yh hx gd	1827
@@ -995,8 +977,6 @@ sort: by_weight
 砂锅鱼	ua go yu	1792
 棒棒鸡	bh bh ji	1787
 凤凰展翅	fg hl vj ii	1786
-麻辣小龙虾	ma la xn ls xx	1767
-三聚磷酸钠	sj ju lb sr na	1766
 速溶茶	su rs ia	1765
 炖羊肉	dy yh rz	1764
 牛奶咖啡	nq nd ka fw	1759
@@ -1058,7 +1038,6 @@ sort: by_weight
 液体石蜡	ye ti ui la	1580
 鸡蛋糕	ji dj gc	1580
 姜黄素	jl hl su	1576
-意大利美食	yi da li mw ui	1565
 六堡茶	lq bc ia	1564
 醉鸡	zv ji	1559
 腊汁肉	la vi rz	1556
@@ -1067,7 +1046,6 @@ sort: by_weight
 健康乐	jm kh le	1550
 陶陶居	tc tc ju	1546
 杂粮面	za ll mm	1541
-草莓奶油蛋糕	cc mw nd yz dj gc	1540
 鸿宾楼	hs bb lz	1538
 老鸭煲	lc ya bc	1536
 龙须菜	ls xu cd	1532
@@ -1084,10 +1062,8 @@ sort: by_weight
 脑磷脂	nc lb vi	1468
 鱼香味	yu xl ww	1467
 糯米粥	no mi vz	1460
-轻质碳酸钙	qk vi tj sr gd	1460
 水发海参	uv fa hd uf	1458
 羊羔肉	yh gc rz	1457
-过氧化苯甲酰	go yh hx bf jx xm	1453
 酸莓	sr mw	1450
 牛里脊	nq li ji	1446
 肥肠粉	fw ih ff	1443
@@ -1096,7 +1072,6 @@ sort: by_weight
 小米饭	xn mi fj	1433
 越桔	yt ju	1431
 森参	sf cj	1430
-木瓜蛋白酶	mu gx dj bd mw	1429
 夏威夷果	xx ww yi go	1425
 鸡仔饼	ji zd bk	1420
 鲜奶蛋糕	xm nd dj gc	1415
@@ -1117,7 +1092,6 @@ sort: by_weight
 晒青毛茶	ud qk mc ia	1368
 博普	bo pu	1366
 焖大虾	mf da xx	1364
-兰州牛肉面	lj vz nq rz mm	1363
 香辣鸡	xl la ji	1359
 三杯鸡	sj bw ji	1355
 酸鱼	sr yu	1350
@@ -1135,33 +1109,24 @@ sort: by_weight
 燃面	rj mm	1327
 荔枝肉	li vi rz	1324
 核桃酥	he tc su	1323
-新奥尔良烤翅	xb ao er ll kc ii	1323
 香糕	xl gc	1319
 艇仔粥	tk zd vz	1317
-慕尼黑啤酒	mu ni hw pi jq	1314
-昌化鸡血石	ih hx ji xp ui	1314
 煎堆	jm dv	1313
-红烧牛肉面	hs uc nq rz mm	1310
 金包银	jb bc yb	1310
 地三鲜	de sj xm	1307
 滑肉	hx rz	1305
-冰淇淋蛋糕	bk qi lb dj gc	1305
 倒巴	dc ba	1301
-小葱拌豆腐	xn cs bj dz fu	1296
 拍黄瓜	pd hl gx	1295
 泮溪	pj xi	1295
 涪陵榨菜	fu lk va cd	1291
 老四川	lc si ir	1290
 酱板鸭	jl bj ya	1290
-油炸臭豆腐	yz va iz dz fu	1289
 碳酸钾	tj sr jx	1287
 水晶粉	uv jk ff	1280
 马蹄糕	ma ti gc	1277
-黑森林蛋糕	hw sf lb dj gc	1273
 荷叶饼	he ye bk	1272
 独品	du pb	1272
 膨松剂	pg ss ji	1272
-临安山核桃	lb an uj he tc	1269
 炒土豆丝	ic tu dz si	1269
 青椒肉丝	qk jn rz si	1263
 沾化冬枣	vj hx ds zc	1262
@@ -1179,13 +1144,10 @@ sort: by_weight
 烧汁	uc vi	1237
 西多士	xi do ui	1234
 杨梅罐头	yh mw gr tz	1232
-葡萄糖酸亚铁	pu tc th sr ya tp	1230
-十全大补汤	ui qr da bu th	1226
 养生汤	yh ug th	1222
 北台湾	bw td wj	1218
 罐茶	gr ia	1216
 起司蛋糕	qi si dj gc	1216
-吐鲁番葡萄	tu lu fj pu tc	1216
 果丹皮	go dj pi	1215
 考维	kc ww	1212
 甜叶菊	tm ye ju	1211
@@ -1200,11 +1162,9 @@ sort: by_weight
 虫胶	is jn	1195
 小绍兴	xn uc xk	1185
 天福号	tm fu hc	1183
-蛋白混合饮料	dj bd hy he yb ln	1183
 巴旦杏	ba dj xk	1183
 小豆芽	xn dz ya	1181
 七子饼茶	qi zi bk ia	1181
-洞庭碧螺春	ds tk bi lo iy	1181
 思朗	si lh	1174
 炸猪排	va vu pd	1174
 冰皮月饼	bk pi yt bk	1174
@@ -1220,7 +1180,6 @@ sort: by_weight
 山楂果	uj va go	1157
 西餐厨师	xi cj iu ui	1152
 亚硒酸钠	ya xi sr na	1150
-西红柿炒蛋	xi hs ui ic dj	1147
 松鹤延年	ss he yj nm	1144
 合梅	he mw	1143
 光饼	gl bk	1142
@@ -1242,7 +1201,6 @@ sort: by_weight
 拉肠	la ih	1113
 杭州龙井	hh vz ls jk	1110
 车厘子	ie li zi	1110
-庐山云雾茶	lu uj yy wu ia	1110
 干啤	gj pi	1109
 羊杂汤	yh za th	1106
 巧克力派	qn ke li pd	1104
@@ -1254,12 +1212,10 @@ sort: by_weight
 香草蛋糕	xl cc dj gc	1094
 艾窝窝	ai wo wo	1089
 火井	ho jk	1085
-牛羊肉泡馍	nq yh rz pc mo	1085
 蛋散	dj sj	1083
 苯甲醇	bf jx iy	1081
 砂锅鱼头	ua go yu tz	1080
 咖啡糖	ka fw th	1077
-微晶纤维素	ww jk xm ww su	1076
 白兰瓜	bd lj gx	1076
 屯绿	ty lv	1073
 喜立	xi li	1073
@@ -1326,7 +1282,6 @@ sort: by_weight
 虾籽	xx zi	969
 联苯醚	lm bf mi	968
 正阳楼	vg yh lz	967
-康师傅冰红茶	kh ui fu bk hs ia	965
 春蕊	iy rv	963
 藻蓝	zc lj	962
 奶酪蛋糕	nd lc dj gc	961
@@ -1353,7 +1308,6 @@ sort: by_weight
 红烧鲤鱼	hs uc li yu	921
 卷粉	jr ff	920
 蟹壳黄	xp ke hl	917
-耳朵眼炸糕	er do yj va gc	915
 美国菜	mw go cd	914
 金澳	jb ao	913
 籽瓜	zi gx	909
@@ -1361,13 +1315,10 @@ sort: by_weight
 起士林	qi ui lb	905
 八宝鸭	ba bc ya	904
 葡式蛋挞	pu ui dj ta	902
-酒心巧克力	jq xb qn ke li	901
-酸辣土豆丝	sr la tu dz si	896
 虾面	xx mm	896
 月桂叶	yt gv ye	895
 兴隆咖啡	xk ls ka fw	893
 松鼠桂鱼	ss uu gv yu	892
-焦亚硫酸钠	jn ya lq sr na	891
 伊府面	yi fu mm	890
 番茄蛋汤	fj qp dj th	885
 烤馕	kc nh	882
@@ -1380,7 +1331,6 @@ sort: by_weight
 科劳	ke lc	874
 杨裕兴	yh yu xk	871
 荷月	he yt	868
-哥伦比亚咖啡	ge ly bi ya ka fw	867
 海绵蛋糕	hd mm dj gc	864
 柠檬酸钠	nk mg sr na	861
 串烤肉	ir kc rz	861
@@ -1391,7 +1341,6 @@ sort: by_weight
 鱿鱼卷	yz yu jr	856
 川北凉粉	ir bw ll ff	856
 抱罗粉	bc lo ff	854
-十八街麻花	ui ba jp ma hx	853
 色果子	se go zi	851
 钵钵鸡	bo bo ji	850
 牛板筋	nq bj jb	850
@@ -1404,7 +1353,6 @@ sort: by_weight
 韭花	jq hx	835
 水果派	uv go pd	835
 烟熏排骨	yj xy pd gu	832
-羧甲基纤维素钠	so jx ji xm ww su na	829
 豌豆粉	wj dz ff	829
 金糕	jb gc	828
 鑫鼎	xb dk	826
@@ -1414,11 +1362,9 @@ sort: by_weight
 搅团	jn tr	820
 阿拉伯胶	aa la bo jn	819
 油梨	yz li	818
-六偏磷酸钠	lq pm lb sr na	817
 制川乌	vi ir wu	817
 鲤鱼汤	li yu th	816
 炸丸子	va wj zi	815
-陈麻婆豆腐	if ma po dz fu	814
 都匀毛尖	dz yy mc jm	812
 礼饼	li bk	807
 酒酿圆子	jq nl yr zi	807
@@ -1442,7 +1388,6 @@ sort: by_weight
 五香花生	wu xl hx ug	782
 麻薯	ma uu	779
 卤鸡蛋	lu ji dj	779
-水杨酸甲酯	uv yh sr jx vi	779
 蛋白糖	dj bd th	778
 油爆虾	yz bc xx	776
 乌毡帽	wu vj mc	776
@@ -1466,7 +1411,6 @@ sort: by_weight
 过油肉	go yz rz	754
 麻球	ma qq	754
 肉类罐头	rz lw gr tz	753
-酪蛋白磷酸肽	lc dj bd lb sr td	750
 糖醋鲤鱼	th cu li yu	750
 凤梨罐头	fg li gr tz	747
 素火腿	su ho tv	745
@@ -1547,7 +1491,6 @@ sort: by_weight
 咕噜肉	gu lu rz	654
 马肉米粉	ma rz mi ff	653
 沙翁	ua wg	653
-南京盐水鸭	nj jk yj uv ya	653
 戚风蛋糕	qi fg dj gc	652
 海棠糕	hd th gc	651
 小圆面包	xn yr mm bc	651
@@ -1557,10 +1500,8 @@ sort: by_weight
 三丁包	sj dk bc	648
 坛子肉	tj zi rz	646
 洋葱汤	yh cs th	645
-荷叶粉蒸肉	he ye ff vg rz	643
 老友面	lc yz mm	641
 桂醛	gv qr	637
-番茄炒鸡蛋	fj qp ic ji dj	636
 九转大肠	jq vr da ih	635
 香辣鸡翅	xl la ji ii	635
 松江鲈鱼	ss jl lu yu	635
@@ -1568,21 +1509,17 @@ sort: by_weight
 麦香鱼	md xl yu	634
 油炸鬼	yz va gv	631
 花生酥	hx ug su	631
-护国寺小吃	hu go si xn ii	627
 夹心蛋糕	jx xb dj gc	626
 海棠果	hd th go	626
 叉烧酥	ia uc su	621
-干煸四季豆	gj bm si ji dz	619
 血糕	xt gc	618
 珍珠丸子	vf vu wj zi	618
 烧鹅仔	uc ee zd	617
-紫菜蛋花汤	zi cd dj hx th	617
 浆水面	jl uv mm	617
 磷酸镁	lb sr mw	616
 卤豆腐	lu dz fu	616
 薄皮包	bc pi bc	615
 盐酥鸡	yj su ji	614
-松露巧克力	ss lu qn ke li	613
 聚福楼	ju fu lz	612
 白吉馍	bd ji mo	612
 叶儿粑	ye er ba	612
@@ -1607,21 +1544,17 @@ sort: by_weight
 和其正	he qi vg	587
 蛋黄酥	dj hl su	585
 蜜麻花	mi ma hx	585
-鱼头豆腐汤	yu tz dz fu th	584
 奎元馆	kv yr gr	583
 人心果	rf xb go	582
-亚硫酸氢钠	ya lq sr qk na	579
 红薯粉丝	hs uu ff si	579
 柳泉居	lq qr ju	578
 炭烧咖啡	tj uc ka fw	577
 第一春	di yi iy	576
-五芳斋粽子	wu fh vd zs zi	576
 水晶饼	uv jk bk	576
 清炒虾仁	qk ic xx rf	575
 萨其玛	sa qi ma	574
 小熊饼干	xn xs bk gj	573
 烤兔肉	kc tu rz	572
-乙基麦芽酚	yi ji md ya ff	572
 德发长	de fa vh	572
 猪肠粉	vu ih ff	571
 血糯米	xt no mi	570
@@ -1641,17 +1574,13 @@ sort: by_weight
 马拉糕	ma la gc	552
 菜煎饼	cd jm bk	552
 老八大	lc ba da	549
-土豆炖牛肉	tu dz dy nq rz	547
 豆面糕	dz mm gc	547
 孝感麻糖	xn gj ma th	547
 炒饵块	ic er kk	546
 樱桃肉	yk tc rz	544
 奶油泡芙	nd yz pc fu	544
-岐山臊子面	qi uj sc zi mm	543
 三鲜豆皮	sj xm dz pi	543
 炒萝卜	ic lo bo	542
-西印度樱桃	xi yb du yk tc	542
-李连贵熏肉大饼	li lm gv xy rz da bk	542
 板豆腐	bj dz fu	541
 叶醇	ye iy	541
 丝袜奶茶	si wa nd ia	541
@@ -1668,11 +1597,9 @@ sort: by_weight
 好清香	hc qk xl	536
 醋溜白菜	cu lq bd cd	535
 烧肘子	uc vz zi	534
-上海老饭店	uh hd lc fj dm	534
 酥锅	su go	534
 绿柳居	lv lq ju	534
 玄明粉	xr mk ff	534
-清蒸武昌鱼	qk vg wu ih yu	533
 东北酒	ds bw jq	532
 毛叔	mc uu	531
 油旋	yz xr	527
@@ -1683,7 +1610,6 @@ sort: by_weight
 芥末粉	jp mo ff	520
 秀珍菇	xq vf gu	519
 玫瑰露酒	mw gv lu jq	518
-维也纳咖啡	ww ye na ka fw	518
 煎鹅肝	jm ee gj	517
 素菜包	su cd bc	515
 冰糖莲子	bk th lm zi	514
@@ -1710,12 +1636,10 @@ sort: by_weight
 白肠	bd ih	499
 大朴	da pu	499
 五加皮酒	wu jx pi jq	498
-富马酸亚铁	fu ma sr ya tp	498
 肉桂醛	rz gv qr	497
 蓝莓蛋糕	lj mw dj gc	497
 肉松面包	rz ss mm bc	496
 拔丝苹果	ba si pk go	495
-五香豆腐干	wu xl dz fu gj	494
 黑樱桃	hw yk tc	494
 蔬菜饼干	uu cd bk gj	492
 鱼鲞	yu xl	492
@@ -1726,23 +1650,19 @@ sort: by_weight
 骨牛排	gu nq pd	489
 羊肉粥	yh rz vz	488
 爆腰花	bc yc hx	488
-中华猕猴桃	vs hx mi hz tc	487
 肇庆裹蒸	vc qk go vg	486
 花生糕	hx ug gc	486
 黑椒牛柳	hw jn nq lq	484
 芡实糕	qm ui gc	484
-新奥尔良烤鸡腿堡	xb ao er ll kc ji tv bc	484
 盛记	ug ji	483
 拌海蜇	bj hd ve	482
 五花茶	wu hx ia	480
 竹节虾	vu jp xx	480
-冰激凌蛋糕	bk ji lk dj gc	479
 白糖糕	bd th gc	479
 香酥饼	xl su bk	479
 抗结剂	kh jp ji	476
 臭鳜鱼	iz gv yu	476
 口味蛇	kz ww ue	475
-天下第一鲜	tm xx di yi xm	473
 芋头糕	yu tz gc	472
 海蛎煎	hd li jm	472
 松仁玉米	ss rf yu mi	472
@@ -1753,13 +1673,10 @@ sort: by_weight
 耗儿鱼	hc er yu	468
 红醋栗	hs cu li	467
 泽合	ze he	467
-巴西棕榈蜡	ba xi zs lv la	466
-南翔小笼包	nj xl xn ls bc	466
 车轮饼	ie ly bk	465
 羊角面包	yh jn mm bc	465
 清平鸡	qk pk ji	464
 粉利	ff li	462
-比利时巧克力	bi li ui qn ke li	462
 抗浪鱼	kh lh yu	461
 椒麻鸡	jn ma ji	459
 丁香酚	dk xl ff	459
@@ -1774,7 +1691,6 @@ sort: by_weight
 海带结	hd dd jp	451
 炒凉粉	ic ll ff	451
 皮蛋糕	pi dj gc	450
-生物碳酸钙	ug wu tj sr gd	450
 三大炮	sj da pc	449
 松鼠鳜鱼	ss uu gv yu	447
 美禄	mw lu	447
@@ -1785,10 +1701,8 @@ sort: by_weight
 英国菜	yk go cd	445
 杏汁	xk vi	443
 山东煎饼	uj ds jm bk	443
-庆丰包子铺	qk fg bc zi pu	442
 芙蓉蛋	fu rs dj	441
 增味剂	zg ww ji	440
-老北京鸡肉卷	lc bw jk ji rz jr	437
 豆花面	dz hx mm	434
 胶东菜	jn ds cd	434
 黄泥螺	hl ni lo	433
@@ -1798,7 +1712,6 @@ sort: by_weight
 凉拌豆腐	ll bj dz fu	429
 太仓肉松	td ch rz ss	428
 九龙斋	jq ls vd	428
-咸蛋蒸肉饼	xm dj vg rz bk	428
 圣嘉	ug jx	426
 熏肠	xy ih	425
 蜜汁叉烧	mi vi ia uc	424
@@ -1813,40 +1726,28 @@ sort: by_weight
 蚝油牛肉	hc yz nq rz	419
 万和春	wj he iy	417
 栗子糕	li zi gc	417
-生姜羊肉汤	ug jl yh rz th	417
 辣子面	la zi mm	417
 黑松沙士	hw ss ua ui	416
-恋爱豆腐果	lm ai dz fu go	416
-武汉热干面	wu hj re gj mm	416
 西湖藕粉	xi hu ou ff	416
 冷啖杯	lg dj bw	416
 姜黄粉	jl hl ff	414
-巧克力慕斯	qn ke li mu si	414
 腊羊肉	la yh rz	413
-乳酸链球菌素	ru sr lm qq jy su	413
 苯乙醇	bf yi iy	412
 花雕鸡	hx dn ji	412
-磷酸氢二钠	lb sr qk er na	412
-土耳其咖啡	tu er qi ka fw	410
 泰和乌鸡	td he wu ji	409
 拨鱼	bo yu	409
-夏威夷果仁	xx ww yi go rf	408
 芦笋罐头	lu sy gr tz	407
 植酸钠	vi sr na	407
 清汤鱼	qk th yu	407
 凉拌海带	ll bj hd dd	406
-清汤牛肉面	qk th nq rz mm	405
 风味小炒	fg ww xn ic	405
-贾三灌汤包	jx sj gr th bc	405
 核桃糕	he tc gc	402
 谢村黄酒	xp cy hl jq	401
 葫芦鸡	hu lu ji	400
 芝麻汤圆	vi ma th yr	400
 白水羊头	bd uv yh tz	398
-劲爆鸡米花	jb bc ji mi hx	397
 沔阳三蒸	mm yh sj vg	397
 葱爆羊肉	cs bc yh rz	397
-八公山豆腐	ba gs uj dz fu	396
 泰山三美	td uj sj mw	395
 卤鸭翅	lu ya ii	395
 甑糕	zg gc	395
@@ -1859,7 +1760,6 @@ sort: by_weight
 茯苓饼	fu lk bk	393
 盲公饼	mh gs bk	393
 柿叶茶	ui ye ia	392
-羧甲基淀粉钠	so jx ji dm ff na	391
 怪味鸡	gk ww ji	391
 蛙鱼	wa yu	391
 卷煎	jr jm	390
@@ -1872,7 +1772,6 @@ sort: by_weight
 玫瑰饼	mw gv bk	389
 泡凤爪	pc fg vc	388
 黄桂稠酒	hl gv iz jq	387
-墨西哥鸡肉卷	mo xi ge ji rz jr	387
 幸福双	xk fu ul	387
 福建菜	fu jm cd	386
 核桃奶	he tc nd	386
@@ -1886,7 +1785,6 @@ sort: by_weight
 麻芝	ma vi	379
 烘山芋	hs uj yu	379
 奶酪魏	nd lc ww	377
-磷酸二氢钠	lb sr er qk na	377
 千层油糕	qm cg yz gc	376
 石子馍	ui zi mo	376
 婺绿	wu lv	376
@@ -1898,23 +1796,19 @@ sort: by_weight
 农夫茶	ns fu ia	373
 燕喜堂	yj xi th	372
 锅盖面	go gd mm	372
-毛家红烧肉	mc jx hs uc rz	372
 水晶虾饺	uv jk xx jn	371
 双乙酸钠	ul yi sr na	371
 胡椒饼	hu jn bk	370
 日本酱油	ri bf jl yz	370
 菊花糕	ju hx gc	370
-哈尔滨红肠	ha er bb hs ih	370
 红油抄手	hs yz ic uz	369
 红薯粉条	hs uu ff tn	369
 建新园	jm xb yr	368
 葱油鸡	cs yz ji	366
 糖不甩	th bu uk	365
 合川桃片	he ir tc pm	365
-黄山毛峰茶	hl uj mc fg ia	364
 风猪	fg vu	364
 南翔馒头	nj xl mj tz	363
-清炖蟹粉狮子头	qk dy xp ff ui zi tz	363
 蔗糖酯	ve th vi	362
 伤心凉粉	uh xb ll ff	361
 粉饺	ff jn	361
@@ -1927,17 +1821,12 @@ sort: by_weight
 猪骨煲	vu gu bc	357
 燕云楼	yj yy lz	357
 炒丝瓜	ic si gx	356
-农家小炒肉	ns jx xn ic rz	356
 定胜糕	dk ug gc	356
 奶油炸糕	nd yz va gc	355
-毛氏红烧肉	mc ui hs uc rz	355
-土豆烧排骨	tu dz uc pd gu	355
 滇红茶	dm hs ia	354
-西湖牛肉羹	xi hu nq rz gg	353
 波波糖	bo bo th	353
 小麦啤酒	xn md pi jq	352
 喜鹊登枝	xi qt dg vi	349
-君山银针茶	jy uj yb vf ia	349
 菊花火锅	ju hx ho go	349
 麻辣子鸡	ma la zi ji	349
 白啤酒	bd pi jq	348
@@ -1949,7 +1838,6 @@ sort: by_weight
 火爆腰花	ho bc yc hx	344
 黄金堡	hl jb bc	343
 盐饼	yj bk	343
-干煸牛肉丝	gj bm nq rz si	343
 豆腐圆子	dz fu yr zi	342
 焦磷酸钠	jn lb sr na	342
 家常面	jx ih mm	342
@@ -1978,13 +1866,10 @@ sort: by_weight
 排骨酥	pd gu su	330
 香甜酒	xl tm jq	329
 豆沙月饼	dz ua yt bk	328
-酸度调节剂	sr du tn jp ji	328
 英德红茶	yk de hs ia	328
 镜糕	jk gc	326
-泥鳅钻豆腐	ni qq zr dz fu	325
 米冻	mi ds	324
 炒南瓜	ic nj gx	323
-桂花糯米藕	gv hx no mi ou	323
 四季柚	si ji yz	323
 甜醅	tm pw	323
 食品香料	ui pb xl ln	322
@@ -2005,8 +1890,6 @@ sort: by_weight
 绿杨村	lv yh cy	314
 涮牛肚	ur nq du	314
 虫茶	is ia	314
-五香茶叶蛋	wu xl ia ye dj	313
-天下第一菜	tm xx di yi cd	313
 麻酥糖	ma su th	312
 银鱼干	yb yu gj	311
 冻糕	ds gc	310
@@ -2017,7 +1900,6 @@ sort: by_weight
 龙虾汤	ls xx th	308
 醋溜鱼	cu lq yu	308
 眼镜面	yj jk mm	308
-信阳毛尖茶	xb yh mc jm ia	307
 太师饼	td ui bk	307
 拔丝地瓜	ba si di gx	307
 鸡肉饼	ji rz bk	307
@@ -2027,16 +1909,10 @@ sort: by_weight
 乳酸乙酯	ru sr yi vi	305
 红焖肉	hs mf rz	304
 水晶肴肉	uv jk yc rz	304
-香辣鸡腿堡	xl la ji tv bc	304
 五柳鱼	wu lq yu	304
-磷酸二氢钙	lb sr er qk gd	304
-吴裕泰茶庄	wu yu td ia vl	303
-烟熏三文鱼	yj xy sj wf yu	302
 酥油饼	su yz bk	302
-桂发祥麻花	gv fa xl ma hx	301
 健美茶	jm mw ia	301
 紫光液	zi gl ye	301
-面粉处理剂	mm ff iu li ji	301
 白云猪手	bd yy vu uz	300
 解酒方	jp jq fh	300
 稻香春	dc xl iy	300
@@ -2046,26 +1922,18 @@ sort: by_weight
 冻米糖	ds mi th	299
 清炖羊肉	qk dy yh rz	299
 粉汤饺子	ff th jn zi	299
-阿里山高山茶	aa li uj gc uj ia	299
-盱眙小龙虾	xu yi xn ls xx	298
 凌云白毫	lk yy bd hc	298
 海鲜拼盘	hd xm pb pj	298
-西班牙海鲜饭	xi bj ya hd xm fj	298
-比利时啤酒	bi li ui pi jq	298
 羊肉汤锅	yh rz th go	297
 豆腐面	dz fu mm	297
 兰花根	lj hx gf	297
 鱼肉肠	yu rz ih	297
-鲫鱼豆腐汤	ji yu dz fu th	296
-金枪鱼沙拉	jb ql yu ua la	296
 沙朗牛排	ua lh nq pd	296
-客家酿豆腐	ke jx nl dz fu	296
 天使蛋糕	tm ui dj gc	296
 粽子糖	zs zi th	295
 蛋烘糕	dj hs gc	294
 欧式蛋糕	ou ui dj gc	294
 拔丝山药	ba si uj yc	294
-锦芳小吃店	jb fh xn ii dm	294
 手撕包菜	uz si bc cd	294
 冰拿铁	bk na tp	293
 清蒸桂鱼	qk vg gv yu	293
@@ -2073,8 +1941,6 @@ sort: by_weight
 三丁包子	sj dk bc zi	293
 鲤跃龙门	li yt ls mf	292
 金丝蜜枣	jb si mi zc	291
-樊记腊汁肉	fj ji la vi rz	291
-香茅草烤鱼	xl mc cc kc yu	290
 烧鱼头	uc yu tz	289
 响油鳝糊	xl yz uj hu	288
 虎皮尖椒	hu pi jm jn	288
@@ -2093,7 +1959,6 @@ sort: by_weight
 炒西兰花	ic xi lj hx	284
 鲜肉小笼	xm rz xn ls	284
 葡聚糖酶	pu ju th mw	284
-白菜豆腐汤	bd cd dz fu th	283
 枣泥糕	zc ni gc	283
 韭菜包	jq cd bc	283
 临潼石榴	lb ts ui lq	283
@@ -2119,7 +1984,6 @@ sort: by_weight
 涌溪火青	ys xi ho qk	274
 碗仔翅	wj zd ii	274
 炉鸭	lu ya	274
-拆烩鲢鱼头	id hv lm yu tz	273
 辣椒仔	la jn zd	273
 凯撒沙拉	kd sa ua la	273
 鼎湖上素	dk hu uh su	272
@@ -2128,7 +1992,6 @@ sort: by_weight
 香叶醇	xl ye iy	270
 虫草鸭	is cc ya	270
 樟茶鸭子	vh ia ya zi	269
-八角茴香油	ba jn hv xl yz	269
 水果塔	uv go ta	269
 云南咖啡	yy nj ka fw	269
 朱鸿兴	vu hs xk	268
@@ -2140,8 +2003,6 @@ sort: by_weight
 萝卜牛腩	lo bo nq nj	266
 粉蒸牛肉	ff vg nq rz	266
 红曲红	hs qu hs	265
-小绍兴鸡粥	xn uc xk ji vz	265
-武夷山岩茶	wu yi uj yj ia	264
 酸辣白菜	sr la bd cd	263
 司岗里	si gh li	263
 川芎茶	ir qs ia	262
@@ -2152,13 +2013,11 @@ sort: by_weight
 新丰小吃	xb fg xn ii	261
 蜜番茄	mi fj qp	261
 东安子鸡	ds an zi ji	260
-阿拉伯咖啡	aa la bo ka fw	260
 珍珠圆子	vf vu yr zi	260
 平水珠茶	pk uv vu ia	260
 丁香粉	dk xl ff	258
 庐山石鸡	lu uj ui ji	256
 方便粥	fh bm vz	256
-清汤柳叶燕菜	qk th lq ye yj cd	255
 西湖绸伞	xi hu iz sj	255
 牛油面	nq yz mm	254
 马祥兴	ma xl xk	254
@@ -2176,17 +2035,13 @@ sort: by_weight
 肉末烧饼	rz mo uc bk	251
 腊八豆腐	la ba dz fu	251
 油塔子	yz ta zi	251
-海带排骨汤	hd dd pd gu th	251
 荔枝罐头	li vi gr tz	250
 爆炒腰花	bc ic yc hx	250
 芦荟酒	lu hv jq	250
 情中情	qk vs qk	250
 台湾青枣	td wj qk zc	250
 京式月饼	jk ui yt bk	250
-单县羊肉汤	dj xm yh rz th	250
 栗子球	li zi qq	249
-蓝色珊瑚礁	lj se uj hu jn	249
-电解质饮料	dm jp vi yb ln	248
 叫化童鸡	jn hx ts ji	248
 糟鸭	zc ya	248
 肉夹饼	rz jx bk	248
@@ -2203,11 +2058,9 @@ sort: by_weight
 生姜粉	ug jl ff	244
 何首乌粉	he uz wu ff	243
 雪蛋	xt dj	243
-六必居酱菜	lq bi ju jl cd	242
 大叶乌龙	da ye wu ls	242
 金钱肉	jb qm rz	242
 锅巴肉片	go ba rz pm	241
-无锡水蜜桃	wu xi uv mi tc	241
 美味牛肉	mw ww nq rz	241
 古老肉	gu lc rz	240
 圣堡罗	ug bc lo	240
@@ -2225,41 +2078,34 @@ sort: by_weight
 双皮刀鱼	ul pi dc yu	236
 香蕉蛋糕	xl jn dj gc	235
 宫饼	gs bk	235
-六必居酱园	lq bi ju jl yr	235
 锅贴饺	go tp jn	235
 胡麻饼	hu ma bk	234
 原壳鲍鱼	yr ke bc yu	234
-抗坏血酸钠	kh hk xt sr na	233
 沸腾可乐	fw tg ke le	233
 礼品蛋糕	li pb dj gc	233
 脆皮乳鸽	cv pi ru ge	233
 鱼汤面	yu th mm	233
-水分保持剂	uv ff bc ii ji	232
 鲤鱼焙面	li yu bw mm	232
 煌佳	hl jx	232
 朝天锅	ic tm go	232
 雪顶咖啡	xt dk ka fw	232
 沙棘黄	ua ji hl	232
 炒小白菜	ic xn bd cd	231
-巧克力奶茶	qn ke li nd ia	231
 番薯糖水	fj uu th uv	231
 登瀛楼	dg yk lz	231
 水产罐头	uv ij gr tz	230
 悠泡水	yz pc uv	229
 萝卜红	lo bo hs	229
 大刀面	da dc mm	229
-高邮咸鸭蛋	gc yz xm ya dj	228
 鲜鸡汤	xm ji th	228
 清蒸甲鱼	qk vg jx yu	228
 太平燕	td pk yj	228
 盐局鸡	yj ju ji	228
 豌豆面	wj dz mm	227
-霉干菜烧肉	mw gj cd uc rz	226
 拔丝香蕉	ba si xl jn	226
 一品豆腐	yi pb dz fu	226
 鸡鸭血汤	ji ya xt th	226
 锅边糊	go bm hu	225
-胶姆糖基础剂	jn mu th ji iu ji	225
 烧鱿鱼	uc yz yu	225
 红薯饭	hs uu fj	224
 大树菠萝	da uu bo lo	224
@@ -2268,7 +2114,6 @@ sort: by_weight
 蜜三刀	mi sj dc	223
 怪味胡豆	gk ww hu dz	223
 闪子	uj zi	222
-异抗坏血酸	yi kh hk xt sr	222
 过氧化钙	go yh hx gd	222
 大叶芹	da ye qb	222
 草粿	cc go	221
@@ -2288,7 +2133,6 @@ sort: by_weight
 红烧牛腩	hs uc nq nj	218
 西樵大饼	xi qn da bk	218
 红酒醋	hs jq cu	217
-夏威夷风光	xx ww yi fg gl	217
 清蒸白鱼	qk vg bd yu	217
 湖南腊肉	hu nj la rz	217
 炸元宵	va yr xn	217
@@ -2305,14 +2149,11 @@ sort: by_weight
 软炸里脊	rr va li ji	215
 小酥肉	xn su rz	215
 古月胡	gu yt hu	214
-火边子牛肉	ho bm zi nq rz	214
 豆焖饭	dz mf fj	214
 槽子糕	cc zi gc	214
 小卷粉	xn jr ff	213
 烧饵块	uc er kk	213
-南翔小笼馒头	nj xl xn ls mj tz	212
 冰之恋	bk vi lm	212
-东江盐焗鸡	ds jl yj ju ji	212
 紫糯米	zi no mi	212
 王四酒家	wh si jq jx	212
 冷粉	lg ff	212
@@ -2321,7 +2162,6 @@ sort: by_weight
 乳茶	ru ia	211
 馓子麻花	sj zi ma hx	210
 小青椒	xn qk jn	210
-明溪肉脯干	mk xi rz pu gj	210
 深州蜜桃	uf vz mi tc	210
 爆炒鱿鱼	bc ic yz yu	210
 红烧鱼块	hs uc yu kk	209
@@ -2344,10 +2184,7 @@ sort: by_weight
 椰酱	ye jl	207
 茶馓	ia sj	206
 韧性饼干	rf xk bk gj	206
-聚二甲基硅氧烷	ju er jx ji gv yh wj	206
-异麦芽酮糖	yi md ya ts th	206
 绿茶蛋糕	lv ia dj gc	206
-呈味核苷酸二钠	ig ww he gj sr er na	206
 虾爆鳝面	xx bc uj mm	206
 黑椒牛扒	hw jn nq ba	205
 袜底酥	wa di su	205
@@ -2355,10 +2192,8 @@ sort: by_weight
 香茅醇	xl mc iy	204
 沙棘汁	ua ji vi	204
 山楂饼	uj va bk	204
-柠檬酸铁铵	nk mg sr tp an	204
 沙茶牛肉	ua ia nq rz	204
 海城馅饼	hd ig xm bk	204
-法国红磨坊	fa go hs mo fh	203
 红烧海参	hs uc hd uf	203
 如意卷	ru yi jr	203
 三鲜水饺	sj xm uv jn	203
@@ -2368,13 +2203,10 @@ sort: by_weight
 水盆羊肉	uv pf yh rz	202
 溜肝尖	lq gj jm	202
 荷叶鸡	he ye ji	202
-面粉改良剂	mm ff gd ll ji	201
 事事平安	ui ui pk an	201
-巧克力奶昔	qn ke li nd xi	201
 冰泉豆浆	bk qr dz jl	201
 糖醋白菜	th cu bd cd	201
 酱椒鱼头	jl jn yu tz	201
-状元及第粥	vl yr ji di vz	201
 杏皮水	xk pi uv	200
 被膜剂	bw mo ji	200
 邮亭鲫鱼	yz tk ji yu	199
@@ -2388,16 +2220,12 @@ sort: by_weight
 豆沙糕	dz ua gc	198
 蚝仔煎	hc zd jm	198
 聚丰德	ju fg de	197
-萧山萝卜干	xn uj lo bo gj	197
 套四宝	tc si bc	197
 印糕	yb gc	197
-雀巢淡奶油	qt ic dj nd yz	196
 乳化硅油	ru hx gv yz	196
 椒盐排骨	jn yj pd gu	196
 山大皇	uj da hl	196
 哲司	ve si	196
-泡椒墨鱼仔	pc jn mo yu zd	196
-腊味煲仔饭	la ww bc zd fj	196
 麻辣兔头	ma la tu tz	196
 酥合	su he	196
 烤小猪	kc xn vu	196
@@ -2414,7 +2242,6 @@ sort: by_weight
 仙人掌茶	xm rf vh ia	193
 豌豆糕	wj dz gc	193
 芥末墩儿	jp mo dy er	192
-上杭萝卜干	uh hh lo bo gj	192
 肉燕皮	rz yj pi	192
 冰糖湘莲	bk th xl lm	192
 西瓜盅	xi gx vs	192
@@ -2425,9 +2252,7 @@ sort: by_weight
 华夫饼干	hx fu bk gj	191
 俄罗斯菜	ee lo si cd	190
 刷把头	ux ba tz	190
-贾三灌汤包子	jx sj gr th bc zi	190
 羊腥汤	yh xk th	190
-特级橄榄油	te ji gj lj yz	189
 葱包桧	cs bc gv	189
 萝卜饼	lo bo bk	189
 扒海参	ba hd uf	188
@@ -2437,20 +2262,14 @@ sort: by_weight
 青海带	qk hd dd	187
 秦镇米皮	qb vf mi pi	187
 蒸熊掌	vg xs vh	187
-长汀豆腐干	ih tk dz fu gj	187
 洋姑娘	yh gu nl	187
 泡椒牛蛙	pc jn nq wa	187
 老半斋	lc bj vd	186
 荠菜饺	ji cd jn	186
 杂糖	za th	186
-灌汤小笼包	gr th xn ls bc	185
-赣南小炒鱼	gj nj xn ic yu	185
-乙二胺四乙酸二钠	yi er an si yi sr er na	185
 长春卷	ih iy jr	185
 鸡豆花	ji dz hx	184
 低醇啤酒	di iy pi jq	184
-雷州狗肉煲	lw vz gz rz bc	184
-西红柿牛肉汤	xi hs ui nq rz th	184
 煎酿三宝	jm nl sj bc	184
 芙蓉汤	fu rs th	184
 粿汁	go vi	183
@@ -2462,10 +2281,8 @@ sort: by_weight
 温泉蛋	wf qr dj	182
 龙眼包子	ls yj bc zi	182
 蔗糖素	ve th su	182
-得莫利炖活鱼	de mo li dy ho yu	182
 蜜汁火方	mi vi ho fh	182
 丙酸钠	bk sr na	181
-番茄蛋花汤	fj qp dj hx th	181
 草莓慕斯	cc mw mu si	181
 温泉鸡	wf qr ji	181
 糖油粑	th yz ba	180
@@ -2481,7 +2298,6 @@ sort: by_weight
 核桃酪	he tc lc	179
 益胃汤	yi ww th	179
 宜宾燃面	yi bb rj mm	179
-泰山赤鳞鱼	td uj ii lb yu	179
 赤藓糖醇	ii xm th iy	179
 芝麻杆	vi ma gj	178
 泡椒田鸡	pc jn tm ji	178
@@ -2493,7 +2309,6 @@ sort: by_weight
 尕面片	ga mm pm	177
 布丁蛋糕	bu dk dj gc	177
 杨麻子	yh ma zi	176
-连城地瓜干	lm ig di gx gj	176
 蓬莱小面	pg ld xn mm	176
 东坡饼	ds po bk	176
 花生浆	hx ug jl	176
@@ -2502,28 +2317,21 @@ sort: by_weight
 清炖甲鱼	qk dy jx yu	175
 糕粑	gc ba	175
 赛螃蟹	sd ph xp	175
-葡萄糖酸内酯	pu tc th sr nw vi	175
 泡椒牛肉	pc jn nq rz	174
 老妈蹄花	lc ma ti hx	174
 黑肠	hw ih	174
 甜水面	tm uv mm	174
-白市驿板鸭	bd ui yi bj ya	174
 喝螺	he lo	174
 全家富	qr jx fu	173
 迷迭香叶	mi dp xl ye	173
 酥皮月饼	su pi yt bk	173
-苯甲酸苄酯	bf jx sr bm vi	172
 小肚儿	xn du er	171
-咸鸭烧黄豆	xm ya uc hl dz	171
 糖芋头	th yu tz	171
-黄桂柿子饼	hl gv ui zi bk	171
 氯化锰	lv hx mg	171
 玫瑰花粥	mw gv hx vz	171
 车厘哥夫	ie li ge fu	170
-藜蒿炒腊肉	li hc ic la rz	170
 爪哇咖啡	vc wa ka fw	170
 奶汤面	nd th mm	170
-凤尾鱼罐头	fg ww yu gr tz	170
 素烩	su hv	170
 骨髓壮	gu sv vl	170
 沛县狗肉	pw xm gz rz	170
@@ -2531,7 +2339,6 @@ sort: by_weight
 氧化铁黑	yh hx tp hw	170
 圣诞布丁	ug dj bu dk	169
 柑桔黄	gj ju hl	169
-泰山女儿茶	td uj nv er ia	169
 绍兴麻鸭	uc xk ma ya	169
 竹筒鸡	vu ts ji	169
 香酥麻鸭	xl su ma ya	168
@@ -2539,13 +2346,10 @@ sort: by_weight
 重阳花糕	is yh hx gc	168
 槐豆胶	hk dz jn	168
 玉液泉	yu ye qr	167
-甜玉米罐头	tm yu mi gr tz	167
 孜然牛肉	zi rj nq rz	166
 青精饭	qk jk fj	166
-蟹壳黄烧饼	xp ke hl uc bk	166
 天府花生	tm fu hx ug	166
 欢喜坨	hr xi to	166
-清蒸加吉鱼	qk vg jx ji yu	165
 素烧鹅	su uc ee	165
 香菜圆子	xl cd yr zi	165
 马奶子酒	ma nd zi jq	165
@@ -2562,7 +2366,6 @@ sort: by_weight
 凤戏牡丹	fg xi mu dj	162
 蓝莓芝士	lj mw vi ui	162
 稀豆粉	xi dz ff	162
-大理石蛋糕	da li ui dj gc	162
 雪花羊肉	xt hx yh rz	162
 葡萄鱼	pu tc yu	162
 红烧猪手	hs uc vu uz	161
@@ -2574,18 +2377,12 @@ sort: by_weight
 火锅粉	ho go ff	160
 富顺豆花	fu uy dz hx	160
 酒肠	jq ih	160
-黑椒牛仔骨	hw jn nq zd gu	160
 拌肚丝	bj du si	159
 海米冬瓜	hd mi ds gx	159
-莜面栲栳栳	yz mm kc lc lc	159
 薄烤饼	bc kc bk	158
-江津米花糖	jl jb mi hx th	158
 薄荷素油	bo he su yz	158
 金钱饼	jb qm bk	158
 潘趣酒	pj qu jq	158
-金针菇罐头	jb vf gu gr tz	158
-鲔鱼三明治	ww yu sj mk vi	157
-苏州茉莉花茶	su vz mo li hx ia	157
 藕粉圆子	ou ff yr zi	157
 都督烧卖	du du uc md	157
 薄脆饼干	bc cv bk gj	157
@@ -2593,36 +2390,25 @@ sort: by_weight
 铺盖面	pu gd mm	157
 馕坑肉	nh kg rz	157
 脆皮肠	cv pi ih	156
-宁化老鼠干	nk hx lc uu gj	156
 荷叶糍粑	he ye ci ba	156
 石头饼	ui tz bk	156
 菊花鱼生	ju hx yu ug	156
 广藿香油	gl ho xl yz	156
 香蒜面包	xl sr mm bc	156
-干锅茶树菇	gj go ia uu gu	155
-重庆老火锅	is qk lc ho go	155
 干锅兔	gj go tu	155
-贴饽饽熬小鱼	tp bo bo ao xn yu	155
-正山小种红茶	vg uj xn vs hs ia	155
-城隍庙五香豆	ig hl mn wu xl dz	155
-老孙家羊肉泡	lc sy jx yh rz pc	155
 京冬菜	jk ds cd	155
-蒙自过桥米线	mg zi go qn mi xm	155
 菜豆花	cd dz hx	155
 炖鸡面	dy ji mm	154
 百果年糕	bd go nm gc	154
 三色蛋	sj se dj	154
 荞面饸饹	qn mm he le	154
 鸠坑毛尖	jq kg mc jm	154
-独山盐酸菜	du uj yj sr cd	154
 钱钱饭	qm qm fj	153
 蒸蛋糕	vg dj gc	153
 焖扁豆	mf bm dz	153
 宜红茶	yi hs ia	153
 馕包肉	nh bc rz	153
 抓炒全鱼	vx ic qr yu	153
-叶绿素铜钠盐	ye lv su ts na yj	153
-面包改良剂	mm bc gd ll ji	153
 孔府糕点	ks fu gc dm	152
 清咽茶	qk yj ia	152
 纸杯蛋糕	vi bw dj gc	152
@@ -2630,41 +2416,31 @@ sort: by_weight
 酸木瓜	sr mu gx	152
 粉皮面筋	ff pi mm jb	152
 遵义毛峰	zy yi mc fg	151
-抹茶冰淇淋	mo ia bk qi lb	151
-单硬脂酸甘油酯	dj yk vi sr gj yz vi	151
 干菜焖肉	gj cd mf rz	151
 五彩球	wu cd qq	151
 干贝汤	gj bw th	151
 碳酸氢钾	tj sr qk jx	150
-武平猪胆干	wu pk vu dj gj	150
 高梁红	gc ll hs	150
 香芋扣肉	xl yu kz rz	150
-重庆辣子鸡	is qk la zi ji	150
 干锅肥肠	gj go fw ih	150
 扬州酱菜	yh vz jl cd	150
 松子糕	ss zi gc	149
 富硒酵母	fu xi jn mu	149
-外婆家醉鱼	wd po jx zv yu	149
 桔红糕	ju hs gc	149
 鱼羊鲜	yu yh xm	149
 甘露糖醇	gj lu th iy	148
 盘丝饼	pj si bk	148
-小月担仔面	xn yt dj zd mm	148
 萧山花边	xn uj hx bm	148
 韭菜炒肉	jq cd ic rz	148
 西泠印泥	xi lk yb ni	148
 爆鱼面	bc yu mm	148
 枫泾丁蹄	fg jk dk ti	147
-度小月担仔面	du xn yt dj zd mm	147
-扒原壳鲍鱼	ba yr ke bc yu	147
-乙基香兰素	yi ji xl lj su	147
 破酥包	po su bc	147
 石岐乳鸽	ui qi ru ge	147
 日月生辉	ri yt ug hv	147
 八仙茶	ba xm ia	147
 印度奶茶	yb du nd ia	147
 赊店老酒	ue dm lc jq	147
-芦蒿炒香干	lu hc ic xl gj	147
 宜兴百合	yi xk bd he	147
 小西米	xn xi mi	146
 水晶肉	uv jk rz	146
@@ -2677,14 +2453,9 @@ sort: by_weight
 燕窝酥	yj wo su	145
 炒米糖	ic mi th	145
 百花糕	bd hx gc	144
-对羟基苯甲酸酯	dv ql ji bf jx sr vi	144
-菠菜猪肝汤	bo cd vu gj th	144
 萝卜鱼	lo bo yu	144
 怀远石榴	hk yr ui lq	144
-冰糖莲子汤	bk th lm zi th	144
-清蒸石斑鱼	qk vg ui bj yu	144
 焖黄鳝	mf hl uj	144
-帕尔玛火腿	pa er ma ho tv	143
 绿豆粉皮	lv dz ff pi	143
 米肠子	mi ih zi	143
 白果烧鸡	bd go uc ji	143
@@ -2699,7 +2470,6 @@ sort: by_weight
 御珍	yu vf	142
 白玉翡翠	bd yu fw cv	142
 沃凯诺	wo kd no	141
-迷迭香提取物	mi dp xl ti qu wu	141
 天麻酒	tm ma jq	141
 杜康牌	du kh pd	141
 枣泥酥	zc ni su	141
@@ -2707,11 +2477,9 @@ sort: by_weight
 南山庄园	nj uj vl yr	141
 丁酸乙酯	dk sr yi vi	141
 脆皮炸鸡	cv pi va ji	140
-玉米汁饮料	yu mi vi yb ln	140
 万州烤鱼	wj vz kc yu	140
 焖狗肉	mf gz rz	139
 青岩茗翠	qk yj mk cv	139
-酪蛋白钙肽	lc dj bd gd td	139
 绍兴香糕	uc xk xl gc	138
 扭结糖	nq jp th	138
 灯芯糕	dg xb gc	138
@@ -2719,38 +2487,29 @@ sort: by_weight
 炒米线	ic mi xm	138
 红烧大虾	hs uc da xx	138
 米粉蒸肉	mi ff vg rz	138
-麦辣鸡腿汉堡	md la ji tv hj bc	138
 千层蛋	qm cg dj	138
 糟田螺	zc tm lo	137
 清汤燕菜	qk th yj cd	137
 风鸭	fg ya	136
-蔗糖脂肪酸酯	ve th vi fh sr vi	136
-王星记扇子	wh xk ji uj zi	136
 白云凤爪	bd yy fg vc	136
 姜葱炒蟹	jl cs ic xp	136
 琥珀鸽蛋	hu po ge dj	136
 梅花粥	mw hx vz	136
 蒸肠粉	vg ih ff	135
-香菇鸡肉粥	xl gu ji rz vz	135
 牛腰子	nq yc zi	135
 蒙自年糕	mg zi nm gc	135
-磷酸氢二钾	lb sr qk er jx	135
 清蒸刀鱼	qk vg dc yu	134
-乙酰磺胺酸钾	yi xm hl an sr jx	134
 芒果班戟	mh go bj ji	134
 胆钙化醇	dj gd hx iy	134
 柚子蜜	yz zi mi	134
-异抗坏血酸钠	yi kh hk xt sr na	134
 当归鸡	dh gv ji	134
 荔枝茶	li vi ia	134
 菊花鲈鱼	ju hx lu yu	134
-宝庆猪血丸子	bc qk vu xt wj zi	133
 蒸江团	vg jl tr	133
 雪梨酒	xt li jq	133
 油卵	yz lr	133
 瓤豆腐	rh dz fu	133
 芙蓉干贝	fu rs gj bw	132
-硒化卡拉胶	xi hx ka la jn	132
 野太阳	ye td yh	132
 芋头酥	yu tz su	132
 黄家烤肉	hl jx kc rz	132
@@ -2758,12 +2517,9 @@ sort: by_weight
 白煮肉	bd vu rz	131
 庐山石耳	lu uj ui er	131
 清蒸海鲜	qk vg hd xm	131
-毛哥老鸭汤	mc ge lc ya th	131
 乳糖醇	ru th iy	130
 红丸子	hs wj zi	130
 干烧鱼翅	gj uc yu ii	130
-吮指原味鸡	uy vi yr ww ji	130
-天然薄荷脑	tm rj bo he nc	130
 斋卤味	vd lu ww	130
 生炒菜心	ug ic cd xb	130
 白丸子	bd wj zi	129
@@ -2772,11 +2528,8 @@ sort: by_weight
 凤尾酥	fg ww su	128
 酥角	su jn	128
 地瓜饼	di gx bk	128
-芙蓉鲜蔬汤	fu rs xm uu th	128
-异麦芽酮糖醇	yi md ya ts th iy	128
 柑橘黄	gj ju hl	128
 雪山梅	xt uj mw	128
-亚铁氰化钾	ya tp qk hx jx	128
 玉带糕	yu dd gc	127
 组庵鱼翅	zu an yu ii	127
 煎丸子	jm wj zi	127
@@ -2785,13 +2538,9 @@ sort: by_weight
 金丝饼	jb si bk	127
 烧花鸭	uc hx ya	127
 青芥末	qk jp mo	127
-白家肥肠粉	bd jx fw ih ff	127
 黑米稀饭	hw mi xi fj	127
 东莞腊肠	ds gr la ih	127
-六味斋酱肉	lq ww vd jl rz	126
-卡夫奇妙酱	ka fu qi mn jl	126
 牛外脊	nq wd ji	126
-玫瑰大头菜	mw gv da tz cd	126
 丁二酮	dk er ts	126
 猪油年糕	vu yz nm gc	126
 清蒸江团	qk vg jl tr	126
@@ -2799,28 +2548,18 @@ sort: by_weight
 蜂蜜麻糖	fg mi ma th	126
 海鲫鱼	hd ji yu	126
 毛毛面	mc mc mm	126
-梅干菜烧肉	mw gj cd uc rz	125
-南京雨花茶	nj jk yu hx ia	125
 虾子面	xx zi mm	124
 红烧划水	hs uc hx uv	124
 炒血鸭	ic xt ya	124
-赖氨酸盐酸盐	ld an sr yj sr yj	124
 锅塌豆腐	go ta dz fu	124
 珍珠元子	vf vu yr zi	124
 圣杞乐	ug qi le	124
-凉拌折耳根	ll bj ve er gf	124
-威士忌苏打	ww ui ji su da	124
-菊花酿鱼肚	ju hx nl yu du	124
-金线吊葫芦	jb xm dn hu lu	124
 油炸臭干	yz va iz gj	124
 花生枣	hx ug zc	124
-简阳羊肉汤	jm yh yh rz th	124
-蜂蜜凉粽子	fg mi ll zs zi	123
 带子上朝	dd zi uh ic	123
 炖梅	dy mw	123
 琥珀桃仁	hu po tc rf	123
 拌鸡丝	bj ji si	123
-沟帮子熏鸡	gz bh zi xy ji	122
 虾肉小笼	xx rz xn ls	122
 小凤饼	xn fg bk	122
 焖肉面	mf rz mm	122
@@ -2828,17 +2567,13 @@ sort: by_weight
 柠乐	nk le	122
 荷花酥	he hx su	122
 美国蛇果	mw go ue go	121
-四季美汤包	si ji mw th bc	121
-圆筒冰淇淋	yr ts bk qi lb	121
 广东月饼	gl ds yt bk	121
-凤翔腊驴肉	fg xl la lv rz	121
 零点咖啡	lk dm ka fw	121
 番茄豆腐	fj qp dz fu	121
 芝麻酥糖	vi ma su th	121
 泡油糕	pc yz gc	121
 发财就手	fa cd jq uz	120
 环状糊精	hr vl hu jk	120
-红芽歪尾桃	hs ya wd ww tc	120
 丙酸乙酯	bk sr yi vi	120
 龙脂猪血	ls vi vu xt	120
 九龙茶	jq ls ia	120
@@ -2864,12 +2599,10 @@ sort: by_weight
 蝴蝶海参	hu dp hd uf	117
 苯基苯酚	bf ji bf ff	117
 威宁火腿	ww nk ho tv	117
-六安瓜片茶	lu an gx pm ia	117
 马烧麦	ma uc md	117
 鲜花饼	xm hx bk	117
 杜仲腰花	du vs yc hx	117
 火局鸡	ho ju ji	116
-太平猴魁茶	td pk hz kv ia	116
 陵水酸粉	lk uv sr ff	116
 荣乐园	rs le yr	116
 沩山毛尖	ww uj mc jm	116
@@ -2877,7 +2610,6 @@ sort: by_weight
 浦东鸡	pu ds ji	116
 金银蹄	jb yb ti	116
 石耳炖鸡	ui er dy ji	116
-昌化山核桃	ih hx uj he tc	115
 矮人松糕	ai rf ss gc	115
 巧酥	qn su	115
 熘土豆丝	lq tu dz si	115
@@ -2885,15 +2617,11 @@ sort: by_weight
 炒豇豆	ic jl dz	115
 嵌桃麻糕	qm tc ma gc	115
 糟熘鱼片	zc lq yu pm	115
-山城小汤圆	uj ig xn th yr	115
 蔡记蒸饺	cd ji vg jn	114
 蓬莱米	pg ld mi	114
 蚝煎	hc jm	114
 清蒸排骨	qk vg pd gu	114
-聚乙酸乙烯酯	ju yi sr yi xi vi	114
 日本南瓜	ri bf nj gx	114
-毛峰熏鲥鱼	mc fg xy ui yu	114
-折耳根炒腊肉	ve er gf ic la rz	113
 热面皮	re mm pi	113
 谷雨茶	gu yu ia	113
 龙凤饼	ls fg bk	113
@@ -2910,19 +2638,13 @@ sort: by_weight
 毕节汤圆	bi jp th yr	112
 煎灌肠	jm gr ih	112
 四川腊肉	si ir la rz	112
-和味牛杂萝卜	he ww nq za lo bo	112
 酸笋煮鸡	sr sy vu ji	112
 糟毛豆	zc mc dz	112
-大理砂锅鱼	da li ua go yu	111
-高纤维椰果	gc xm ww ye go	111
 千张包子	qm vh bc zi	111
 芙蓉鲫鱼	fu rs ji yu	111
-三文治火腿	sj wf vi ho tv	111
 赤藓红	ii xm hs	111
-鸡粉调味料	ji ff tn ww ln	111
 清蒸鲩鱼	qk vg hr yu	111
 奶油沙司	nd yz ua si	110
-鲜花玫瑰饼	xm hx mw gv bk	110
 绿豆凉粉	lv dz ll ff	110
 鱼肉汉堡	yu rz hj bc	110
 汤爆双脆	th bc ul cv	110
@@ -2933,7 +2655,6 @@ sort: by_weight
 软饼干	rr bk gj	109
 莴笋叶子	wo sy ye zi	109
 生牛肉酱	ug nq rz jl	109
-三七汽锅鸡	sj qi qi go ji	109
 芒果雪芭	mh go xt ba	109
 龙眼酥	ls yj su	109
 猪血灌肠	vu xt gr ih	108
@@ -2944,48 +2665,36 @@ sort: by_weight
 鸭羹	ya gg	108
 猪杂粥	vu za vz	108
 醉排骨	zv pd gu	108
-翠梅酸辣鱼	cv mw sr la yu	108
 特色炒饭	te se ic fj	107
 烙糕	lc gc	107
 太白鸭	td bd ya	107
 笼仔饭	ls zd fj	107
 王鸭子	wh ya zi	107
 圆蛋糕	yr dj gc	107
-岐山哨子面	qi uj uc zi mm	107
 盐水菜心	yj uv cd xb	107
 沙溪凉茶	ua xi ll ia	107
 扬州干丝	yh vz gj si	107
 神仙鸭子	uf xm ya zi	107
 沧州冬菜	ch vz ds cd	106
-雷家豆腐圆子	lw jx dz fu yr zi	106
-小笼蒸牛肉	xn ls vg nq rz	106
-海鲜小豆腐	hd xm xn dz fu	106
 樱桃派	yk tc pd	106
 山鸡片	uj ji pm	106
-柴沟堡熏肉	id gz bu xy rz	106
 油脆	yz cv	106
-重庆水煮鱼	is qk uv vu yu	106
 麻辣鸭头	ma la ya tz	106
 白金针	bd jb vf	106
 柠檬蛋糕	nk mg dj gc	106
 红枣年糕	hs zc nm gc	106
-谷氨酰胺酶	gu an xm an mw	106
 炉猪	lu vu	105
-石头门坎素包	ui tz mf kj su bc	105
-鹌鹑蛋罐头	an iy dj gr tz	105
 蒸鹿尾儿	vg lu ww er	105
 萝卜饺子	lo bo jn zi	105
 糖酥煎饼	th su jm bk	105
 烧肺	uc fw	105
 猪油汤团	vu yz th tr	105
-火鸡三明治	ho ji sj mk vi	105
 老毛手抓	lc mc uz vx	105
 百合酥	bd he su	105
 芝麻片	vi ma pm	104
 口袋豆腐	kz dd dz fu	104
 宁红茶	nk hs ia	104
 回民餐厅	hv mb cj tk	104
-上海水蜜桃	uh hd uv mi tc	104
 醋椒鱼	cu jn yu	104
 姜汁饼	jl vi bk	104
 红烧蹄筋	hs uc ti jb	104
@@ -2995,13 +2704,9 @@ sort: by_weight
 荞凉粉	qn ll ff	104
 玉林牛巴	yu lb nq ba	104
 清蒸鸭子	qk vg ya zi	104
-特丁基对苯二酚	te dk ji dv bf er ff	104
-杨家吊炉饼	yh jx dn lu bk	103
 麦德乐	md de le	103
-苔菜小方烤	td cd xn fh kc	103
 参花茶	cj hx ia	103
 叉烧鸡	ia uc ji	103
-芒果芝士蛋糕	mh go vi ui dj gc	103
 扒驼掌	ba to vh	103
 破酥包子	po su bc zi	103
 熊掌豆腐	xs vh dz fu	103
@@ -3011,8 +2716,6 @@ sort: by_weight
 干锅田鸡	gj go tm ji	102
 烩海参	hv hd uf	102
 梳乎厘	uu hu li	102
-奶油五香豆	nd yz wu xl dz	102
-八仙过海闹罗汉	ba xm go hd nc lo hj	102
 宋嫂面	ss sc mm	102
 干炸丸子	gj va wj zi	101
 牛肉焦饼	nq rz jn bk	101
@@ -3023,19 +2726,14 @@ sort: by_weight
 唐纳滋	th na zi	100
 美人肝	mw rf gj	100
 炸茄盒	va jx he	100
-海天金标生抽	hd tm jb bn ug iz	100
 散饭	sj fj	100
 小鱿鱼片	xn yz yu pm	100
 荷兰粉	he lj ff	99
-桂平西山茶	gv pk xi uj ia	99
-麝香猫咖啡	ue xl mc ka fw	99
 爆三样	bc sj yh	99
 擂沙圆	lw ua yr	99
 石竹茶	ui vu ia	99
 咸烧白	xm uc bd	98
-蛋黄莲蓉月饼	dj hl lm rs yt bk	98
 连锅汤	lm go th	98
-糖水荔枝罐头	th uv li vi gr tz	98
 大理雪梨	da li xt li	98
 走油肉	zz yz rz	98
 满城香	mj ig xl	98
@@ -3044,15 +2742,9 @@ sort: by_weight
 喜洲粑粑	xi vz ba ba	98
 牛肉烧卖	nq rz uc md	98
 丝路春	si lu iy	98
-腐皮包黄鱼	fu pi bc hl yu	97
-南岳云雾茶	nj yt yy wu ia	97
-顾渚紫笋茶	gu vu zi sy ia	97
 合川肉片	he ir rz pm	97
 山椒凤爪	uj jn fg vc	97
 米凉虾	mi ll xx	97
-磷脂酰乙醇胺	lb vi xm yi iy an	97
-翠云水煮鱼	cv yy uv vu yu	97
-得莫利炖鱼	de mo li dy yu	97
 干煸肉丝	gj bm rz si	97
 大菜糕	da cd gc	97
 猪油盒	vu yz he	97
@@ -3065,11 +2757,7 @@ sort: by_weight
 乙氧基喹	yi yh ji kv	96
 棋子烧饼	qi zi uc bk	96
 高粱饭	gc ll fj	96
-开洋葱油面	kd yh cs yz mm	96
-马铃薯沙拉	ma lk uu ua la	96
-轻乳酪蛋糕	qk ru lc dj gc	95
 凉鸡米线	ll ji mi xm	95
-五彩雪花扇贝	wu cd xt hx uj bw	95
 摩根斯特	mo gf si te	95
 云梦鱼面	yy mg yu mm	95
 木瓜酥	mu gx su	95
@@ -3077,10 +2765,8 @@ sort: by_weight
 德园包子	de yr bc zi	95
 辣椒蟹	la jn xp	94
 噻苯咪唑	sd bf mi zo	94
-天下第一包	tm xx di yi bc	94
 麻酱凤尾	ma jl fg ww	93
 猫儿面	mc er mm	93
-环己基氨基磺酸钠	hr ji ji an ji hl sr na	93
 螺丝鸡	lo si ji	93
 发丝百页	fa si bd ye	93
 腐乳饼	fu ru bk	93
@@ -3092,12 +2778,9 @@ sort: by_weight
 鹿肉汤	lu rz th	93
 蛋黄果	dj hl go	93
 洋葱炒蛋	yh cs ic dj	93
-邻苯基苯酚	lb bf ji bf ff	92
 咖啡饼干	ka fw bk gj	92
-冰糖银耳羹	bk th yb er gg	92
 草帽饼	cc mc bk	92
 米面皮子	mi mm pi zi	92
-酸萝卜老鸭汤	sr lo bo lc ya th	92
 石子饼	ui zi bk	91
 努力餐	nu li cj	91
 雅丽嘉	ya li jx	91
@@ -3110,18 +2793,14 @@ sort: by_weight
 汉斯干啤	hj si gj pi	91
 川贝炖梨	ir bw dy li	91
 锅盔馍	go kv mo	91
-枣泥山药糕	zc ni uj yc gc	91
 曹记驴肉	cc ji lv rz	91
 盐火局鸡	yj ho ju ji	91
 生榨米粉	ug va mi ff	91
 凉拌藕	ll bj ou	90
-黑胡椒牛柳	hw hu jn nq lq	90
 大方糕	da fh gc	90
 香草奶昔	xl cc nd xi	90
 枣卷	zc jr	90
-吴山酥油饼	wu uj su yz bk	90
 滑蛋牛肉	hx dj nq rz	90
-鸡杂炒干巴菌	ji za ic gj ba jy	90
 南煎丸子	nj jm wj zi	90
 海马宫茶	hd ma gs ia	90
 娥姐粉果	ee jp ff go	90
@@ -3133,39 +2812,30 @@ sort: by_weight
 甜蒜	tm sr	89
 克东腐乳	ke ds fu ru	89
 玉兰饼	yu lj bk	89
-壹条龙饭庄	yi tn ls fj vl	89
 三鲜锅巴	sj xm go ba	89
 鸡肉糁	ji rz sj	89
 酥羊肉	su yh rz	89
 滇八件	dm ba jm	89
 太阳糕	td yh gc	89
 三虾豆腐	sj xx dz fu	89
-小笼灌汤包	xn ls gr th bc	89
 蛋烧卖	dj uc md	89
-鸭油酥烧饼	ya yz su uc bk	89
 榆林豆腐	yu lb dz fu	89
 酱爆肉	jl bc rz	89
 凉拌皮蛋	ll bj pi dj	89
 麻烘糕	ma hs gc	89
 婺州举岩	wu vz ju yj	89
-老正兴菜馆	lc vg xk cd gr	89
 粉汤羊血	ff th yh xt	88
 热冬果	re ds go	88
 珍珠粥	vf vu vz	88
 油炒粉	yz ic ff	88
 五更肠旺	wu gg ih wh	88
-红烧五花肉	hs uc wu hx rz	88
 水晶蛋糕	uv jk dj gc	88
-火宫殿臭豆腐	ho gs dm iz dz fu	88
-酸菜粉丝汤	sr cd ff si th	88
-淡糟香螺片	dj zc xl lo pm	88
 狗浇尿	gz jn nn	88
 梨丸	li wj	88
 芝麻鱼	vi ma yu	88
 甘露酥	gj lu su	88
 金银馒头	jb yb mj tz	88
 安化松针	an hx ss vf	87
-瓯江凤尾鱼	ou jl fg ww yu	87
 甘氨酸锌	gj an sr xb	87
 红油鸡块	hs yz ji kk	87
 核桃仁粥	he tc rf vz	87
@@ -3182,116 +2852,83 @@ sort: by_weight
 漾濞核桃	yh bi he tc	87
 辣椒鱼	la jn yu	87
 纤扬茶	xm yh ia	87
-凉拌鱼腥草	ll bj yu xk cc	86
 玉米色拉	yu mi se la	86
-清炒河虾仁	qk ic he xx rf	86
-火腿炖甲鱼	ho tv dy jx yu	86
 香蕉粥	xl jn vz	86
 锅烧鸭	go uc ya	86
-登瀛楼饭庄	dg yk lz fj vl	86
 庐洲	lu vz	86
 蝎滚绣球	xp gy xq qq	86
 五香酱肉	wu xl jl rz	86
-泡菜牛肚丝	pc cd nq du si	85
 蒸蒸糕	vg vg gc	85
 珠山茶	vu uj ia	85
 水煮田鸡	uv vu tm ji	85
-胡萝卜蛋糕	hu lo bo dj gc	85
 南京香肚	nj jk xl du	85
 卡通蛋糕	ka ts dj gc	85
 可可咖啡	ke ke ka fw	85
 熘鲜蘑	lq xm mo	85
 西亭脆饼	xi tk cv bk	84
-鸡汁土豆泥	ji vi tu dz ni	84
 八仙粉	ba xm ff	84
 鲜肉粽子	xm rz zs zi	84
 一品肉	yi pb rz	84
 桂花酥糖	gv hx su th	84
 烧子鹅	uc zi ee	84
 威宁荞酥	ww nk qn su	84
-川菜回锅肉	ir cd hv go rz	84
 弥渡卷蹄	mi du jr ti	83
 炸鱼丸	va yu wj	83
 红螺食品	hs lo ui pb	83
 新南轩	xb nj xr	83
-萝卜炖羊肉	lo bo dy yh rz	83
 怪味鸡块	gk ww ji kk	83
 灌肺	gr fw	83
-糖醋脆皮鱼	th cu cv pi yu	83
 曹操鸡	cc cc ji	83
 芥菜圆子	jp cd yr zi	83
-红烧梭子蟹	hs uc so zi xp	83
 水煮羊肉	uv vu yh rz	83
 奶油生菜	nd yz ug cd	83
 飞龙汤	fw ls th	83
 汪集鸡汤	wh ji ji th	83
 蒜泥茄子	sr ni qp zi	83
-对羟基苯甲酸乙酯	dv ql ji bf jx sr yi vi	82
 麻辣田螺	ma la tm lo	82
-白运章包子	bd yy vh bc zi	82
 荷包饭	he bc fj	82
 蟹足棒	xp zu bh	82
 鸡丝馄饨	ji si hy ty	82
 桂花干贝	gv hx gj bw	82
-金华兔头煲	jb hx tu tz bc	82
 酱烧茄	jl uc jx	82
 手抓羊排	uz vx yh pd	82
-干煸土豆丝	gj bm tu dz si	82
 红烧兔头	hs uc tu tz	81
 豆末糖	dz mo th	81
-千层牛肉饼	qm cg nq rz bk	81
 油炸洋芋	yz va yh yu	81
 灰豆子	hv dz zi	81
-巧克力泡芙	qn ke li pc fu	81
 金瓜芋泥	jb gx yu ni	81
 谭豆花	tj dz hx	81
 腰果鸡丁	yc go ji dk	81
 水瓜柳	uv gx lq	81
 棒槌果子	bh iv go zi	81
-果冻三明治	go ds sj mk vi	81
 九江煎堆	jq jl jm dv	81
 甜菜红	tm cd hs	81
 椰子饼	ye zi bk	81
 烩酸菜	hv sr cd	81
 丹麦酥	dj md su	81
 柿面糊塌	ui mm hu ta	81
-意大利千层面	yi da li qm cg mm	81
 双麻酥饼	ul ma su bk	81
-酒醉河田鸡	jq zv he tm ji	80
-摩卡薄荷咖啡	mo ka bo he ka fw	80
 绣球干贝	xq qq gj bw	80
 南瓜包	nj gx bc	80
 糖藕片	th ou pm	80
-意大利饺子	yi da li jn zi	80
 饸饹面	he le mm	80
-瑞士咖啡人	rv ui ka fw rf	79
 白橙糖	bd ig th	79
 熏马肠	xy ma ih	79
-老鼎丰糕点	lc dk fg gc dm	79
 清炒鳝糊	qk ic uj hu	79
 腌萝卜干	yj lo bo gj	79
 鸡血汤	ji xt th	79
-咖喱牛肉汤	ga li nq rz th	79
 炒清虾仁	ic qk xx rf	79
-华顶云雾茶	hx dk yy wu ia	79
-酒石酸氢钾	jq ui sr qk jx	79
-福州茉莉花茶	fu vz mo li hx ia	79
-豉汁蒸排骨	ui vi vg pd gu	79
 清水白菜	qk uv bd cd	79
 洋县黑米	yh xm hw mi	79
 抓炒鲤鱼	vx ic li yu	78
-辣子炒薰肉	la zi ic xy rz	78
 潮糕	ic gc	78
 俄式咖啡	ee ui ka fw	78
 金鱼戏莲	jb yu xi lm	78
 凉瓜排骨	ll gx pd gu	78
 家常海参	jx ih hd uf	78
-清蒸羊羔肉	qk vg yh gc rz	78
 果汁伴侣	go vi bj lv	78
-肉丝炒年糕	rz si ic nm gc	78
 烩羊杂碎	hv yh za sv	78
 沙湖盐蛋	ua hu yj dj	78
-秦安肚丝汤	qb an du si th	78
 拔丝芋头	ba si yu tz	78
 芝麻卷	vi ma jr	78
 苦瓜粥	ku gx vz	78
@@ -3302,25 +2939,17 @@ sort: by_weight
 碱水粑	jm uv ba	77
 绿兰莎	lv lj ua	77
 虫草炖鸡	is cc dy ji	77
-咸鱼茄子煲	xm yu qp zi bc	77
 金黄蜜枣	jb hl mi zc	77
-芝兰斋糕干	vi lj vd gc gj	77
-那不勒斯风味咖啡	na bu le si fg ww ka fw	77
 烧猪肝	uc vu gj	77
 香菇肉丝	xl gu rz si	77
 鸡尾杯	ji ww bw	77
-萝卜丝鲫鱼汤	lo bo si ji yu th	77
 锅烧鲤鱼	go uc li yu	77
-油煎毛豆腐	yz jm mc dz fu	76
 汽水肉	qi uv rz	76
 汉水银梭	hj uv yb so	76
 海凉粉	hd ll ff	76
-李锦记蒸鱼豉油	li jb ji vg yu ui yz	76
 碧绿虾仁	bi lv xx rf	76
 军屯锅魁	jy ty go kv	76
 蓝色香槟	lj se xl bb	76
-秦安麻腐馍	qb an ma fu mo	76
-双层吉士汉堡	ul cg ji ui hj bc	76
 冰葫芦	bk hu lu	76
 葱油酥	cs yz su	76
 谢凉粉	xp ll ff	76
@@ -3340,61 +2969,44 @@ sort: by_weight
 永胜油茶	ys ug yz ia	74
 泡泡油糕	pc pc yz gc	74
 宴春酒楼	yj iy jq lz	74
-老妈宫粽球	lc ma gs zs qq	74
 天人有机	tm rf yz ji	74
 芙蓉餐厅	fu rs cj tk	74
-火腿豆焖饭	ho tv dz mf fj	74
 卡夫果珍	ka fu go vf	74
 罗汉大虾	lo hj da xx	74
 包谷粑粑	bc gu ba ba	74
 玉林茶泡	yu lb ia pc	74
 菜蟒	cd mh	74
 腌鲜鳜鱼	yj xm gv yu	73
-抗坏血酸钙	kh hk xt sr gd	73
 仲丁胺	vs dk an	73
 四季鲜蔬	si ji xm uu	73
 豆乳饮料	dz ru yb ln	73
 山之韵	uj vi yy	73
-甘油脂肪酸酯	gj yz vi fh sr vi	73
-抹茶星冰乐	mo ia xk bk le	73
-红枣茯苓粥	hs zc fu lk vz	73
 菊花鱿鱼	ju hx yz yu	73
 合水粉葛	he uv ff ge	73
 鱼丝面	yu si mm	73
 墨子酥	mo zi su	73
-深海鳕鱼堡	uf hd xt yu bc	73
-老山记海城馅饼	lc uj ji hd ig xm bk	73
 洞庭金龟	ds tk jb gv	73
 峨蕊茶	ee rv ia	73
 清炒芦笋	qk ic lu sy	72
 黄米粽子	hl mi zs zi	72
 四条包子	si tn bc zi	72
 老麻抄手	lc ma ic uz	72
-李鸿章杂烩	li hs vh za hv	72
-延边苹果梨	yj bm pk go li	72
 酱玉瓜	jl yu gx	72
 炒粉鱼	ic ff yu	72
 金华汤包	jb hx th bc	72
 焖白鳝	mf bd uj	71
 炝土豆丝	ql tu dz si	71
 无为熏鸭	wu ww xy ya	71
-鸡汤氽海蚌	ji th ty hd bh	71
-半胱氨酸盐酸盐	bj gl an sr yj sr yj	71
 黄山炖鸽	hl uj dy ge	71
-油炸臭豆腐干	yz va iz dz fu gj	71
-鸟苷酸二钠	nn gj sr er na	71
 培根火腿	pw gf ho tv	71
 神仙钵	uf xm bo	71
 虎皮蛋糕	hu pi dj gc	71
-遵义豆花面	zy yi dz hx mm	71
 商芝肉	uh vi rz	71
-白斩河田鸡	bd vj he tm ji	71
 蜜汁山药	mi vi uj yc	71
 烤鸡皮	kc ji pi	71
 雪片糕	xt pm gc	71
 可可蛋糕	ke ke dj gc	70
 凤尾鱼翅	fg ww yu ii	70
-杨凌蘸水面	yh lk vj uv mm	70
 梨子水	li zi uv	70
 西芹虾仁	xi qb xx rf	70
 碗耳糕	wj er gc	70
@@ -3403,7 +3015,6 @@ sort: by_weight
 詹王鸡粉	vj wh ji ff	70
 黄松糕	hl ss gc	70
 排冬菜	pd ds cd	70
-特级板烧鸡腿堡	te ji bj uc ji tv bc	70
 哈达饼	ha da bk	70
 盘餐市	pj cj ui	70
 亚麻籽胶	ya ma zi jn	70
@@ -3421,24 +3032,16 @@ sort: by_weight
 青城泡菜	qk ig pc cd	69
 桉叶素	an ye su	69
 鲍鱼罐头	bc yu gr tz	69
-天麻汽锅鸡	tm ma qi go ji	69
-猪肝绿豆粥	vu gj lv dz vz	69
-乙酸芳樟酯	yi sr fh vh vi	69
-清蒸八宝猪	qk vg ba bc vu	69
 甜橙油	tm ig yz	69
 油醪糟	yz lc zc	69
 香蕉糕	xl jn gc	68
 玫瑰魅力	mw gv mw li	68
 金蟾拜月	jb ij bd yt	68
 海萝胶	hd lo jn	68
-徽州臭豆腐	hv vz iz dz fu	68
 玻璃烧麦	bo li uc md	68
 卤汁凉粉	lu vi ll ff	68
 鹿肉片	lu rz pm	68
-菠菜鸡蛋汤	bo cd ji dj th	68
-乐而美汉堡	le er mw hj bc	68
 红烧野鸭	hs uc ye ya	68
-大理三道茶	da li sj dc ia	68
 酸奶饼	sr nd bk	68
 锅渣	go va	68
 桂花肉	gv hx rz	68
@@ -3446,10 +3049,8 @@ sort: by_weight
 醪糟鸡蛋	lc zc ji dj	68
 高汤水饺	gc th uv jn	67
 雪映红梅	xt yk hs mw	67
-金丝琥珀蜜枣	jb si hu po mi zc	67
 成都餐厅	ig du cj tk	67
 香菇肉酱	xl gu rz jl	67
-扬州蛋炒饭	yh vz dj ic fj	67
 槟榔子	bk lh zi	67
 蔬菜比萨	uu cd bi sa	67
 龙须糕	ls xu gc	67
@@ -3459,77 +3060,51 @@ sort: by_weight
 韭黄肉丝	jq hl rz si	67
 决明子粥	jt mk zi vz	67
 马赛鱼羹	ma sd yu gg	66
-星巴克月饼	xk ba ke yt bk	66
 岐山挂面	qi uj gx mm	66
 银鱼柳	yb yu lq	66
 杭州刺绣	hh vz ci xq	66
 忻州瓦酥	xb vz wa su	66
 粉皮子	ff pi zi	66
-啤酒鸭火锅	pi jq ya ho go	66
 鼠曲粿	uu qu go	66
 佛手酥	fo uz su	66
-麻辣火锅底	ma la ho go di	66
 扒板	ba bj	66
 祁红茶	qi hs ia	66
-虫草汽锅鸡	is cc qi go ji	66
 油燃面	yz rj mm	66
 荷叶肉	he ye rz	66
 葱包桧儿	cs bc gv er	66
 香肠儿	xl ih er	66
-顺庆羊肉粉	uy qk yh rz ff	66
-清蒸哈什蚂	qk vg ha ui ma	66
-台湾卤肉饭	td wj lu rz fj	66
-黎家竹筒饭	li jx vu ts fj	66
 高桥松饼	gc qn ss bk	66
 抓炒里脊	vx ic li ji	65
 清汤牛腩	qk th nq nj	65
 神池麻花	uf ii ma hx	65
-没食子酸丙酯	mw ui zi sr bk vi	65
 芮城麻片	rv ig ma pm	65
-菊花枸杞茶	ju hx gz qi ia	65
 豆腐鲫鱼	dz fu ji yu	65
-桂花栗子羹	gv hx li zi gg	65
 梓潼酥饼	zi ts su bk	65
-敬亭绿雪茶	jk tk lv xt ia	65
 姜葱鸡	jl cs ji	65
 桑葚粥	sh uf vz	65
 卤子鹅	lu zi ee	65
 香叶油	xl ye yz	65
-酸菜猪肉炖粉条	sr cd vu rz dy ff tn	65
-老童家腊羊肉	lc ts jx la yh rz	65
-脱乙酰甲壳素	to yi xm jx qn su	65
 洋茉莉醛	yh mo li qr	65
 豆花火锅	dz hx ho go	65
-长城干白葡萄酒	ih ig gj bd pu tc jq	65
 虫草全鸭	is cc qr ya	65
 白蜂糕	bd fg gc	65
-古丈毛尖茶	gu vh mc jm ia	65
 刀切糍	dc qp ci	65
-大福来锅巴菜	da fu ld go ba cd	64
 锅烧鸡	go uc ji	64
 八宝壶	ba bc hu	64
 生炊龙虾	ug iv ls xx	64
-高平烧豆腐	gc pk uc dz fu	64
 松子酥	ss zi su	64
-镇宁波波糖	vf nk bo bo th	64
 金鱼饺	jb yu jn	64
 泰安煎饼	td an jm bk	64
 黄心管儿	hl xb gr er	64
 继光饼	ji gl bk	64
-白巧克力蛋糕	bd qn ke li dj gc	64
 油豆腐干	yz dz fu gj	64
-金锣火腿肠	jb lo ho tv ih	64
 毫崩	hc bg	64
 罐儿野鸡	gr er ye ji	63
 奎宁水	kv nk uv	63
 砵仔糕	bo zd gc	63
-玉米排骨汤	yu mi pd gu th	63
 葱花炒蛋	cs hx ic dj	63
 罐儿鹌鹑	gr er an iy	63
-麻辣水煮鱼	ma la uv vu yu	63
-牛肉蛋花粥	nq rz dj hx vz	63
 红油肚丝	hs yz du si	63
-江米酿鸭子	jl mi nl ya zi	63
 枣泥酥饼	zc ni su bk	63
 淮饺	hk jn	63
 秋菊傲霜	qq ju ao ul	63
@@ -3549,10 +3124,8 @@ sort: by_weight
 卡依之	ka yi vi	62
 卤饵块	lu er kk	62
 长寿糕	ih uz gc	62
-巧克力布朗尼	qn ke li bu lh ni	61
 锅巴油粉	go ba yz ff	61
 紫草红	zi cc hs	61
-什锦凉米线	ui jb ll mi xm	61
 牛肉炒粉	nq rz ic ff	61
 栗羊羹	li yh gg	61
 高原露	gc yr lu	61
@@ -3562,13 +3135,10 @@ sort: by_weight
 孟封饼	mg fg bk	61
 脱氢乙酸	to qk yi sr	61
 弹珠汽水	dj vu qi uv	61
-肌苷酸二钠	ji gj sr er na	61
 蜜桔皮	mi ju pi	61
-泮塘马蹄糕	pj th ma ti gc	61
 沛公狗肉	pw gs gz rz	61
 雪花蟹斗	xt hx xp dz	61
 发菜蒸蛋	fa cd vg dj	61
-汉中米面皮	hj vs mi mm pi	61
 肉质果	rz vi go	61
 小煮面	xn vu mm	61
 人蔘鸡	rf uf ji	61
@@ -3576,7 +3146,6 @@ sort: by_weight
 葱肉饼	cs rz bk	60
 三美豆腐	sj mw dz fu	60
 番茄鱼片	fj qp yu pm	60
-金汉斯烤肉	jb hj si kc rz	60
 海藻酸钾	hd zc sr jx	60
 芋儿烧鸡	yu er uc ji	60
 新竹贡丸	xb vu gs wj	60
@@ -3584,23 +3153,16 @@ sort: by_weight
 铁狮子头	tp ui zi tz	60
 攸县香干	yz xm xl gj	60
 捻捻转	nm nm vr	59
-菊花猪肝汤	ju hx vu gj th	59
 元宝酥	yr bc su	59
-潮州老婆饼	ic vz lc po bk	59
 脆松糖	cv ss th	59
 干锅狗肉	gj go gz rz	59
-糟辣脆皮鱼	zc la cv pi yu	59
 芦笋手卷	lu sy uz jr	59
-二氯苯氧乙酸	er lv bf yh yi sr	59
-松香甘油酯	ss xl gj yz vi	59
-翠坪银针茶	cv pk yb vf ia	59
 红油猪耳	hs yz vu er	59
 凉拌鸡丝	ll bj ji si	59
 浆水鱼鱼	jl uv yu yu	59
 美式菜肴	mw ui cd yc	59
 鱼香茄条	yu xl jx tn	59
 红烧鮰鱼	hs uc hv yu	59
-海天海鲜酱	hd tm hd xm jl	59
 燎花	ln hx	59
 焜锅馍	ky go mo	59
 梓潼片粉	zi ts pm ff	59
@@ -3619,9 +3181,7 @@ sort: by_weight
 层层酥	cg cg su	58
 炖吊子	dy dn zi	58
 甘草酸铵	gj cc sr an	57
-三鲜莲花酥	sj xm lm hx su	57
 马义兴	ma yi xk	57
-金奖惠明茶	jb jl hv mk ia	57
 斑鱼汤	bj yu th	57
 雪花豆腐	xt hx dz fu	57
 文楼汤包	wf lz th bc	57
@@ -3633,56 +3193,37 @@ sort: by_weight
 牛头糕	nq tz gc	57
 香辣蹄花	xl la ti hx	57
 笼茶	ls ia	57
-糖醋咕噜肉	th cu gu lu rz	57
 水晶酥	uv jk su	57
 炸八块	va ba kk	57
 烩白菜	hv bd cd	57
-木耳炒肉片	mu er ic rz pm	57
 桂花糖粥	gv hx th vz	57
-遵义鸡蛋糕	zy yi ji dj gc	57
 淮安茶馓	hk an ia sj	57
-凤阳酿豆腐	fg yh nl dz fu	56
 面包酥	mm bc su	56
 青椒炒蛋	qk jn ic dj	56
 仔凉粉	zd ll ff	56
 火腿粑粑	ho tv ba ba	56
 鸡丝燕窝	ji si yj wo	56
-巧克力沙司	qn ke li ua si	56
 红米红	hs mi hs	56
-一卵孵双凤	yi lr fu ul fg	56
-台式三杯鸡	td ui sj bw ji	56
-萝卜干炒腊肉	lo bo gj ic la rz	56
 绿茶酥	lv ia su	56
-什锦苏盘儿	ui jb su pj er	56
 过手米线	go uz mi xm	56
-抗坏血酸棕榈酸酯	kh hk xt sr zs lv sr vi	56
 鲜肉汤团	xm rz th tr	56
 越橘红	yt ju hs	55
 阜宁大糕	fu nk da gc	55
 四喜饺	si xi jn	55
 潼川豆豉	ts ir dz ii	55
-特级金标生抽	te ji jb bn ug iz	55
-特级金标生抽王	te ji jb bn ug iz wh	55
 盐步秋茄	yj bu qq jx	55
-红枣菊花粥	hs zc ju hx vz	55
 生肖蛋糕	ug xn dj gc	55
 黄石港饼	hl ui gh bk	55
 百合罐头	bd he gr tz	55
-麻辣牛肉丝	ma la nq rz si	55
 怪味兔头	gk ww tu tz	55
 家乐鸡粉	jx le ji ff	55
-鸡茸蘑菇汤	ji rs mo gu th	55
 桂花莲藕	gv hx lm ou	55
 水晶软糖	uv jk rr th	55
-果酱三明治	go jl sj mk vi	55
 海参羹	hd uf gg	55
 蟹肉罐头	xp rz gr tz	55
 炒糕粿	ic gc go	55
 五香羊肉	wu xl yh rz	54
 鸡西冷面	ji xi lg mm	54
-白肉罩火烧	bd rz vc ho uc	54
-麻辣香水鱼	ma la xl uv yu	54
-油豆腐线粉汤	yz dz fu xm ff th	54
 酸菜火锅	sr cd ho go	54
 长人馄饨	vh rf hy ty	54
 炒里脊丝	ic li ji si	54
@@ -3690,38 +3231,25 @@ sort: by_weight
 油氽馒头	yz ty mj tz	54
 金鱼鸭掌	jb yu ya vh	54
 牛抵茶	nq di ia	54
-草莓芝士饼	cc mw vi ui bk	54
 麻油干丝	ma yz gj si	54
 硫酸铝铵	lq sr lv an	54
 油炸牛皮	yz va nq pi	54
 钵仔禾虫	bo zd he is	54
-田园脆鸡堡	tm yr cv ji bc	54
-摩卡冰咖啡	mo ka bk ka fw	54
-紫米八宝饭	zi mi ba bc fj	54
 抓炒对虾	vx ic dv xx	54
 老姜汤	lc jl th	54
 福鼎芋	fu dk yu	54
-绥阳空心面	sv yh ks xb mm	54
 麻辣肚丝	ma la du si	54
 油锄片	yz iu pm	54
-熏鸡白肚儿	xy ji bd du er	53
 黄焖甲鱼	hl mf jx yu	53
 鸭母捻	ya mu nm	53
-海天海鲜酱油	hd tm hd xm jl yz	53
 牛清汤	nq qk th	53
 清汤抄手	qk th ic uz	53
 桂花稠酒	gv hx iz jq	53
-玉楼东酒家	yu lz ds jq jx	53
-蟹黄灌汤包	xp hl gr th bc	53
 乙酸苄酯	yi sr bm vi	53
 柚子蜂蜜	yz zi fg mi	53
-马祥兴菜馆	ma xl xk cd gr	53
 葱油酥饼	cs yz su bk	53
 卤什件儿	lu ui jm er	53
-辛癸酸甘油酯	xb gv sr gj yz vi	53
-凉拌金针菇	ll bj jb vf gu	53
 豆沙锅饼	dz ua go bk	53
-浓情香鸡翼	ns qk xl ji yi	53
 枸杞银耳	gz qi yb er	53
 葵花虾饼	kv hx xx bk	53
 百花鸡	bd hx ji	53
@@ -3729,13 +3257,8 @@ sort: by_weight
 烧大葱	uc da cs	53
 豆瓣鲫鱼	dz bj ji yu	53
 河水豆花	he uv dz hx	53
-恩施玉露茶	en ui yu lu ia	52
 手撕烤兔	uz si kc tu	52
 腌鲜桂鱼	yj xm gv yu	52
-虎皮毛豆腐	hu pi mc dz fu	52
-肉丸胡辣汤	rz wj hu la th	52
-蜜汁叉烧包	mi vi ia uc bc	52
-红虾酥心糖	hs xx su xb th	52
 蜜桃片	mi tc pm	52
 静宁烧鸡	jk nk uc ji	52
 海参酥	hd uf su	52
@@ -3743,73 +3266,52 @@ sort: by_weight
 黄坦糖	hl tj th	52
 天源酱园	tm yr jl yr	52
 三皮丝	sj pi si	52
-低亚硫酸钠	di ya lq sr na	52
 油葱果	yz cs go	52
-丁基羟基茴香醚	dk ji ql ji hv xl mi	52
 小煎鸡	xn jm ji	52
 豆豉姜	dz ii jl	51
-姜汁排叉儿	jl vi pd ia er	51
 苹果软糖	pk go rr th	51
 拌银耳	bj yb er	51
 菊花烧卖	ju hx uc md	51
 首乌肝片	uz wu gj pm	51
 劲霸鸡汁	jb ba ji vi	51
-豉汁蒸凤爪	ui vi vg fg vc	51
 麻姑茶	ma gu ia	51
-油酥米花糖	yz su mi hx th	51
 桂花翅子	gv hx ii zi	51
 进京乳腐	jb jk ru fu	51
 干烧冬笋	gj uc ds sy	51
 红松宝	hs ss bc	51
 香菜粉	xl cd ff	51
-常熟叫化鸡	ih uu jn hx ji	51
 拌粉干	bj ff gj	51
-城隍庙梨膏糖	ig hl mn li gc th	51
 开心蔬麦	kd xb uu md	51
 翠玉豆糕	cv yu dz gc	51
 红椒酿肉	hs jn nl rz	51
-鼎湖山茶饼	dk hu uj ia bk	51
 总统鱼	zs ts yu	51
-临潼火晶柿子	lb ts ho jk ui zi	51
 龙井竹荪	ls jk vu sy	51
-广汉缠丝兔	gl hj ij si tu	51
-酸豆角炒肉末	sr dz jn ic rz mo	51
 棉花糕	mm hx gc	51
-太极干巴菌	td ji gj ba jy	51
 排骨炖藕	pd gu dy ou	51
 曲奇香奶	qu qi xl nd	51
-冬瓜鳖裙羹	ds gx bp qy gg	51
 杨村糕干	yh cy gc gj	50
 白记饺子	bd ji jn zi	50
-葡萄糖酸锰	pu tc th sr mg	50
 云南春卷	yy nj iy jr	50
 糖粥藕	th vz ou	50
 鱼三味	yu sj ww	50
-焦亚硫酸钾	jn ya lq sr jx	50
 牛肉夹馍	nq rz jx mo	50
 蒸鲳鱼	vg ih yu	50
 福建炒饭	fu jm ic fj	50
 油鸡纵	yz ji zs	50
 筒子鸡	ts zi ji	50
-面条像裤带	mm tn xl ku dd	50
-龙身凤尾虾	ls uf fg ww xx	50
 己醛	ji qr	50
 喜歪歪	xi wd wd	50
 豆面饽饽	dz mm bo bo	50
 牛丸粉	nq wj ff	50
 宝发园	bc fa yr	49
-枸杞海参鸽蛋	gz qi hd uf ge dj	49
-沙湾姜撞奶	ua wj jl vl nd	49
 丁香排骨	dk xl pd gu	49
 安富丽	an fu li	49
 惠如楼	hv ru lz	49
 扒面筋	ba mm jb	49
 洋葱酱	yh cs jl	49
 蜂巢芋角	fg ic yu jn	49
-猪肝菠菜汤	vu gj bo cd th	49
 黄金豆腐	hl jb dz fu	49
 双色豆糕	ul se dz gc	49
-酸辣肚丝汤	sr la du si th	49
 脆皮大肠	cv pi da ih	49
 白蜜食	bd mi ui	49
 肉丝春卷	rz si iy jr	49
@@ -3823,7 +3325,6 @@ sort: by_weight
 脆皮鲜奶	cv pi xm nd	48
 百果糕	bd go gc	48
 海味面	hd ww mm	48
-灯影牛肉干	dg yk nq rz gj	48
 斜桥榨菜	xp qn va cd	48
 乾州锅盔	qm vz go kv	48
 木瓜凉粉	mu gx ll ff	48
@@ -3831,44 +3332,32 @@ sort: by_weight
 洋芋粑粑	yh yu ba ba	48
 椒盐桃片	jn yj tc pm	48
 南瓜团子	nj gx tr zi	48
-玉米粒罐头	yu mi li gr tz	48
-花旗参炖竹丝鸡	hx qi cj dy vu si ji	48
 三丝凉面	sj si ll mm	48
 格林斯通	ge lb si ts	48
-椰汁西米糕	ye vi xi mi gc	48
 大湖鱼	da hu yu	48
 麻酱饼	ma jl bk	48
-天门冬酰胺酶	tm mf ds xm an mw	48
 古乐伴宴	gu le bj yj	48
 麻粉肘子	ma ff vz zi	48
 乌龙吐珠	wu ls tu vu	48
-砂仁羊肉汤	ua rf yh rz th	48
 提浆月饼	ti jl yt bk	48
 桑椹红	sh uf hs	48
 蟹肉羹	xp rz gg	48
 山霉	uj mw	48
-硬脂酰乳酸钠	yk vi xm ru sr na	47
 核桃粘	he tc vj	47
 白沙液酒	bd ua ye jq	47
 生炒海蚌	ug ic hd bh	47
 花煎饼	hx jm bk	47
-白糖伦教糕	bd th ly jn gc	47
-甲基香豆素	jx ji xl dz su	47
 烹白肉	pg bd rz	47
 锅烧海参	go uc hd uf	47
 曲园酒家	qu yr jq jx	47
 鱼肉水饺	yu rz uv jn	47
 粉蒸羊肉	ff vg yh rz	47
 澳洲牛柳	ao vz nq lq	47
-三丝眉毛酥	sj si mw mc su	47
 小猫脚	xn mc jn	47
 火腿饼	ho tv bk	47
 鸡肉抄手	ji rz ic uz	47
 三鲜鱼翅	sj xm yu ii	47
-天主堂鸡片	tm vu th ji pm	47
 酥理玛	su li ma	47
-盐酸硫胺素	yj sr lq an su	47
-生爆盐煎肉	ug bc yj jm rz	47
 无核桔	wu he ju	46
 三鲜烧麦	sj xm uc md	46
 水糍粑	uv ci ba	46
@@ -3878,7 +3367,6 @@ sort: by_weight
 六曲香	lq qu xl	46
 凉糍粑	ll ci ba	46
 锅烧肘子	go uc vz zi	46
-海参炖瘦肉	hd uf dy uz rz	46
 鹤庆乾酒	he qk qm jq	46
 家乐鸡精	jx le ji jk	46
 甜麻花	tm ma hx	46
@@ -3886,18 +3374,15 @@ sort: by_weight
 御膳粥	yu uj vz	46
 抓炒鱼片	vx ic yu pm	46
 恩尼艾斯	en ni ai si	46
-郭杜林月饼	go du lb yt bk	46
 百里香叶	bd li xl ye	46
 玉米发糕	yu mi fa gc	46
 油馍馍	yz mo mo	46
 炒三不沾	ic sj bu vj	46
-广州文昌鸡	gl vz wf ih ji	46
 龙胆酒	ls dj jq	46
 紫胶红	zi jn hs	46
 猪油汤圆	vu yz th yr	45
 杏仁条	xk rf tn	45
 鸳鸯酥	yr yh su	45
-佛山盲公饼	fo uj mh gs bk	45
 龙脊茶	ls ji ia	45
 方腊鱼	fh la yu	45
 宁波粽子	nk bo zs zi	45
@@ -3912,11 +3397,9 @@ sort: by_weight
 一品烧饼	yi pb uc bk	45
 煎焖子	jm mf zi	45
 树根蛋糕	uu gf dj gc	45
-上清饮凉茶	uh qk yb ll ia	45
 凉拌粉丝	ll bj ff si	45
 尼姑素面	ni gu su mm	45
 酸辣蹄筋	sr la ti jb	44
-坦洋工夫茶	tj yh gs fu ia	44
 扁豆糕	bm dz gc	44
 锦绣鱼丝	jb xq yu si	44
 咖喱菜花	ga li cd hx	44
@@ -3925,30 +3408,21 @@ sort: by_weight
 干煸鳝鱼	gj bm uj yu	44
 烧三鲜	uc sj xm	44
 爆肚仁儿	bc du rf er	44
-双流老妈兔头	ul lq lc ma tu tz	44
-德懋恭水晶饼	de mc gs uv jk bk	44
 龙凤腿	ls fg tv	44
-蒲江米花糖	pu jl mi hx th	44
 苏式蜜饯	su ui mi jm	44
 中江挂面	vs jl gx mm	44
 大山牌	da uj pd	44
-桂花糖年糕	gv hx th nm gc	44
 百合糕	bd he gc	44
 大理乳扇	da li ru uj	44
 贵妃饼	gv fw bk	44
-椰汁红豆糕	ye vi hs dz gc	44
 红梅珠香	hs mw vu xl	44
-生鱼葛菜汤	ug yu ge cd th	44
-毛毛虫面包	mc mc is mm bc	44
 梅子排骨	mw zi pd gu	44
 拌鸭掌	bj ya vh	44
 荷包豆腐	he bc dz fu	44
 毛嘴卤鸡	mc zv lu ji	44
 八宝野鸭	ba bc ye ya	44
-八王寺汽水	ba wh si qi uv	44
 菜干扣肉	cd gj kz rz	44
 樱桃蕃茄	yk tc fj qp	43
-焦磷酸二氢二钠	jn lb sr er qk er na	43
 试量狗肉	ui ll gz rz	43
 时辰包子	ui if bc zi	43
 三丝汤	sj si th	43
@@ -3956,29 +3430,19 @@ sort: by_weight
 海鲜菇	hd xm gu	43
 快乐搭档	kk le da dh	43
 凉瓜炒蛋	ll gx ic dj	43
-白灵菇罐头	bd lk gu gr tz	43
-自来红月饼	zi ld hs yt bk	43
-纽约芝士蛋糕	nq yt vi ui dj gc	43
 澳洲带子	ao vz dd zi	43
 酱爆牛肉	jl bc nq rz	43
-奶油小蛋糕	nd yz xn dj gc	43
 玉堂酱菜	yu th jl cd	43
-周村大酥烧饼	vz cy da su uc bk	43
 黄泥煨鸡	hl ni ww ji	43
 油锅盔	yz go kv	43
 百寿桃	bd uz tc	43
-薄皮鲜虾饺	bc pi xm xx jn	43
 煨豆腐	ww dz fu	43
 八块鸡	ba kk ji	43
-雁荡毛峰茶	yj dh mc fg ia	43
 水八块	uv ba kk	43
 干梅子	gj mw zi	43
-虫草炖水鸭	is cc dy uv ya	42
 栗子白菜	li zi bd cd	42
 马乃司	ma nd si	42
-深海鳕鱼条	uf hd xt yu tn	42
 煮鹌鹑蛋	vu an iy dj	42
-台北牛肉面	td bw nq rz mm	42
 榜舍龟	bh ue gv	42
 仲夏野莓	vs xx ye mw	42
 肉丝汤面	rz si th mm	42
@@ -3987,14 +3451,9 @@ sort: by_weight
 金桔花	jb ju hx	42
 百果蜜糕	bd go mi gc	42
 油甘子	yz gj zi	42
-三原蓼花糖	sj yr ln hx th	42
 羊眼包子	yh yj bc zi	42
 包谷稀饭	bc gu xi fj	42
 枣泥拉糕	zc ni la gc	42
-成都担担面	ig du dj dj mm	42
-甲基丁香酚	jx ji dk xl ff	42
-稳定态二氧化氯	wf dk td er yh hx lv	42
-热带暴风雨	re dd bc fg yu	42
 炒西施舌	ic xi ui ue	42
 溜鸡脯	lq ji pu	42
 酱汁排骨	jl vi pd gu	41
@@ -4004,7 +3463,6 @@ sort: by_weight
 清蒸翅子	qk vg ii zi	41
 梅子肉	mw zi rz	41
 小豆糕	xn dz gc	41
-小炒黄牛肉	xn ic hl nq rz	41
 十里香茶	ui li xl ia	41
 川味牛肉	ir ww nq rz	41
 肴肉面	yc rz mm	41
@@ -4012,11 +3470,8 @@ sort: by_weight
 枣泥蛋糕	zc ni dj gc	41
 饽饽四品	bo bo si pb	41
 鸡汁锅贴	ji vi go tp	41
-李锦记叉烧酱	li jb ji ia uc jl	41
 千层馒头	qm cg mj tz	41
-鸡蛋紫菜汤	ji dj zi cd th	41
 莲蓬豆腐	lm pg dz fu	41
-戊基肉桂醛	wu ji rz gv qr	41
 南肉春笋	nj rz iy sy	41
 烩豌豆	hv wj dz	41
 洋芋饼	yh yu bk	41
@@ -4026,33 +3481,22 @@ sort: by_weight
 芙蓉海参	fu rs hd uf	40
 喹啉黄	kv lb hl	40
 甜菊糖苷	tm ju th gj	40
-无核小葡萄	wu he xn pu tc	40
 川贝酿梨	ir bw nl li	40
-一品南乳肉	yi pb nj ru rz	40
 耕之灵	gg vi lk	40
 菊花锅子	ju hx go zi	40
-重庆毛血旺	is qk mc xt wh	40
-桂花鲜栗羹	gv hx xm li gg	40
 泡儿油糕	pc er yz gc	40
 朝包子	ic bc zi	40
 田菁胶	tm jk jn	40
 江毛水饺	jl mc uv jn	40
 炕炕馍	kh kh mo	40
 炖禾虫	dy he is	40
-普陀山佛茶	pu to uj fu ia	40
 皇盾	hl dy	40
-冒节子肥肠粉	mc jp zi fw ih ff	40
 烩小吃	hv xn ii	40
 米花茶	mi hx ia	40
-鱼头豆腐煲	yu tz dz fu bc	40
 漆油茶	qi yz ia	40
 琼酱	qs jl	40
-新长发糖炒栗子	xb vh fa th ic li zi	40
-牛奶朱古力	nq nd vu gu li	40
 饽饽二品	bo bo er pb	39
 干锅鸡杂	gj go ji za	39
-全麦芽啤酒	qr md ya pi jq	39
-聚甘油脂肪酸酯	ju gj yz vi fh sr vi	39
 猪油饽饽	vu yz bo bo	39
 太后火锅	td hz ho go	39
 麒麟桂鱼	qi lb gv yu	39
@@ -4062,56 +3506,34 @@ sort: by_weight
 酥盒子	su he zi	39
 拨御面	bo yu mm	39
 上汤时蔬	uh th ui uu	39
-香辣盆盆虾	xl la pf pf xx	39
 椰香面包	ye xl mm bc	39
 油炸蜂蛹	yz va fg ys	39
-红烧牛肉罐头	hs uc nq rz gr tz	39
-绿柳居菜馆	lv lq ju cd gr	39
 皇禽酱鸭	hl qb jl ya	39
 无米粿	wu mi go	39
-二丁基羟基甲苯	er dk ji ql ji jx bf	39
-三丝牛肉卷	sj si nq rz jr	39
 鸳鸯饼	yr yh bk	39
-西塘八珍糕	xi th ba vf gc	39
-芹菜拌腐竹	qb cd bj fu vu	39
 银芽鸡丝	yb ya ji si	39
 炸石鸡	va ui ji	39
 炒黄瓜酱	ic hl gx jl	39
 包浆豆腐	bc jl dz fu	39
-三北藕丝糖	sj bw ou si th	39
 白糖杨梅	bd th yh mw	39
-鸡豌豆凉粉	ji wj dz ll ff	39
 金刚脐	jb gh qi	39
 橙糕	ig gc	39
-潮州鱼蛋粉	ic vz yu dj ff	39
 青鱼秃肺	qk yu tu fw	39
 宜良烧鸭	yi ll uc ya	39
 阳高杏脯	yh gc xk pu	39
-金牌蒜香骨	jb pd sr xl gu	38
-伊斯兰烧饼	yi si lj uc bk	38
-卵石鲜鱼汤	lr ui xm yu th	38
 硬蛋糕	yk dj gc	38
-严州干菜鸭	yj vz gj cd ya	38
 荷叶排骨	he ye pd gu	38
 叶耳粑	ye er ba	38
 菊花豆腐	ju hx dz fu	38
 三鲜丸子	sj xm wj zi	38
-扒澳洲牛柳	ba ao vz nq lq	38
 豆沙卷	dz ua jr	38
-王兴记馄饨	wh xk ji hy ty	38
-板栗红烧肉	bj li hs uc rz	38
 炒鸭肠	ic ya ih	38
 酿青椒	nl qk jn	38
-北京水煮鱼	bw jk uv vu yu	38
 菊花青鱼	ju hx qk yu	38
-干锅带皮牛肉	gj go dd pi nq rz	38
 炝青蛤	ql qk ha	38
 锅烧白菜	go uc bd cd	38
 香德利	xl de li	38
-小桃园煨汤	xn tc yr ww th	38
-鸭血豆腐汤	ya xp dz fu th	38
 茸汤广肚	rs th gl du	38
-葡萄糖酸钾	pu tc th sr jx	38
 烤小鸡	kc xn ji	38
 珍珠豆腐	vf vu dz fu	38
 烩鸭四宝	hv ya si bc	38
@@ -4119,13 +3541,8 @@ sort: by_weight
 绿草牛	lv cc nq	38
 野菜窝头	ye cd wo tz	38
 高河菜	gc he cd	38
-松鹤楼菜馆	ss he lz cd gr	38
-源和堂蜜饯	yr he th mi jm	38
 琵琶大虾	pi pa da xx	38
-维也纳冰咖啡	ww ye na bk ka fw	38
-辣椒油树脂	la jn yz uu vi	38
 炒饵丝	ic er si	38
-草莓芝士蛋糕	cc mw vi ui dj gc	38
 清汤海参	qk th hd uf	38
 摩卡蛋糕	mo ka dj gc	38
 黑豆红	hw dz hs	38
@@ -4142,41 +3559,29 @@ sort: by_weight
 蘸仔鸭	vj zd ya	37
 红星兔丁	hs xk tu dk	37
 油焖白菜	yz mf bd cd	37
-带皮黄牛肉	dd pi hl nq rz	37
 花生猪蹄	hx ug vu ti	37
 蜜饯海棠	mi jm hd th	37
 过桥抄手	go qn ic uz	37
-吞拿鱼罐头	ty na yu gr tz	37
 沐丹阳	mu dj yh	37
 茄汁明虾	jx vi mk xx	37
 羊肉蒸饺	yh rz vg jn	37
 葱爆牛柳	cs bc nq lq	37
-剁椒蒸芋头	do jn vg yu tz	37
-麻辣鸭脖子	ma la ya bo zi	37
 清蒸火腿	qk vg ho tv	37
 培根面包	pw gf mm bc	37
 羊筋菜	yh jb cd	37
 火爆肥肠	ho bc fw ih	37
-望海天天渔港	wh hd tm tm yu gh	37
 烫面蒸饺	th mm vg jn	37
-酒石酸氢胆碱	jq ui sr qk dj jm	37
 珍珠海参	vf vu hd uf	37
-酸辣蕨根粉	sr la jt gf ff	37
 香酥羊排	xl su yh pd	37
 沙县馄饨	ua xm hy ty	37
 三鲜锅贴	sj xm go tp	37
 孜然排骨	zi rj pd gu	37
-海南椰子船	hd nj ye zi ir	37
 桂花茶饼	gv hx ia bk	37
 煎软鸡	jm rr ji	36
-沙湾大盘鸡	ua wj da pj ji	36
 牛佛烘肘	nq fu hs vz	36
-水果奶油蛋糕	uv go nd yz dj gc	36
-冰拿铁咖啡	bk na tp ka fw	36
 粤香村	yt xl cy	36
 大京枣	da jk zc	36
 猪肝水	vu gj uv	36
-应记云吞面	yk ji yy ty mm	36
 铁板田鸡	tp bj tm ji	36
 酸奶黄瓜	sr nd hl gx	36
 炒茄丝	ic jx si	36
@@ -4191,7 +3596,6 @@ sort: by_weight
 熘鱼脯	lq yu pu	36
 黄糕粑	hl gc ba	36
 蜀风园	uu fg yr	36
-甲基苯乙酮	jx ji bf yi ts	36
 石榴鸡	ui lq ji	36
 徽州饼	hv vz bk	36
 红扒鱼翅	hs ba yu ii	36
@@ -4199,18 +3603,14 @@ sort: by_weight
 扶风鹿糕	fu fg lu gc	36
 一品寿桃	yi pb uz tc	36
 双花饮	ul hx yb	36
-天麻鱼头汤	tm ma yu tz th	36
-南山白毛茶	nj uj bd mc ia	36
 烀肉	hu rz	36
 龙爪肉丝	ls vc rz si	36
 普集烧鸡	pu ji uc ji	36
 香天液	xl tm ye	36
 烧鸳鸯	uc yr yh	36
 卤肉锅盔	lu rz go kv	36
-干煽牛肉丝	gj uj nq rz si	36
 香芹酮	xl qb ts	36
 白皮酥	bd pi su	36
-雪菜大汤黄鱼	xt cd da th hl yu	36
 鱼香大虾	yu xl da xx	36
 黄油汁	hl yz vi	35
 牛筋煲	nq jb bc	35
@@ -4223,17 +3623,14 @@ sort: by_weight
 酿枇杷	nl pi pa	35
 炒肝尖儿	ic gj jm er	35
 小黄玉	xn hl yu	35
-酱炒萝卜糕	jl ic lo bo gc	35
 石亭绿茶	ui tk lv ia	35
 奶油白酱	nd yz bd jl	35
 蛋圆饼干	dj yr bk gj	35
 神农牌	uf ns pd	35
-什锦豆腐脑	ui jb dz fu nc	35
 同安封肉	ts an fg rz	35
 龙凤面	ls fg mm	35
 鱼香茄饼	yu xl jx bk	35
 喜洲鱼	xi vz yu	35
-锦山牛肉干	jb uj nq rz gj	35
 焜锅馍馍	ky go mo mo	35
 白油豆腐	bd yz dz fu	35
 三角酥	sj jn su	35
@@ -4241,10 +3638,8 @@ sort: by_weight
 怀远三绝	hk yr sj jt	35
 黄油曲奇	hl yz qu qi	35
 格仔饼	ge zd bk	35
-五彩炒蛇丝	wu cd ic ue si	35
 三色糕	sj se gc	35
 欧培拉	ou pw la	35
-巧克力甜甜圈	qn ke li tm tm qr	35
 麻籽茶	ma zi ia	35
 羊肉焖饼	yh rz mf bk	35
 蛋黄饼干	dj hl bk gj	35
@@ -4252,13 +3647,10 @@ sort: by_weight
 烩银丝	hv yb si	34
 内江蜜饯	nw jl mi jm	34
 反沙芋头	fj ua yu tz	34
-硬壳火腿饼	yk ke ho tv bk	34
 煮凉粉	vu ll ff	34
 烩散丹	hv sj dj	34
-庄里合儿饼	vl li he er bk	34
 干烧辽参	gj uc ln cj	34
 大理饵块	da li er kk	34
-如意回卤干	ru yi hv lu gj	34
 翡翠烧麦	fw cv uc md	34
 红烧冬瓜	hs uc ds gx	34
 炸素卷圈	va su jr qr	34
@@ -4270,11 +3662,8 @@ sort: by_weight
 丁香肘子	dk xl vz zi	34
 花生粘	hx ug vj	34
 高三酱肉	gc sj jl rz	34
-清补羊肉汤	qk bu yh rz th	34
 煨番薯	ww fj uu	34
 干烧鲫鱼	gj uc ji yu	34
-莫干黄芽茶	mo gj hl ya ia	34
-干锅手撕包菜	gj go uz si bc cd	34
 一品熊掌	yi pb xs vh	34
 鱼香肉片	yu xl rz pm	34
 炸脂盖	va vi gd	34
@@ -4285,58 +3674,41 @@ sort: by_weight
 炸藕合	va ou he	34
 佛手金卷	fo uz jb jr	34
 咖喱鸡丁	ga li ji dk	34
-冬瓜炖排骨	ds gx dy pd gu	33
 茶叶粥	ia ye vz	33
-麻酥油卷儿	ma su yz jr er	33
 绿豆丸子	lv dz wj zi	33
-黑木耳红枣饮	hw mu er hs zc yb	33
 祭灶果	ji zc go	33
 郑州烤鸭	vg vz kc ya	33
-自来白月饼	zi ld bd yt bk	33
-贴饽饽熬鱼	tp bo bo ao yu	33
 梧州蜜枣	wu vz mi zc	33
 蒸羊羔儿	vg yh gc er	33
 郭八火烧	go ba ho uc	33
-大麦茶饮料	da md ia yb ln	33
 油炸糖糕	yz va th gc	33
 乾县锅盔	qm xm go kv	33
-鄱阳湖狮子头	po yh hu ui zi tz	33
 凉拌豇豆	ll bj jl dz	33
 大盘肚	da pj du	33
 糟烩鞭笋	zc hv bm sy	33
 糯米凉糕	no mi ll gc	33
 刺龙牙	ci ls ya	33
-李锦记海鲜酱	li jb ji hd xm jl	33
 辣子肥肠	la zi fw ih	33
 簸箕炊	bo ji iv	33
-常州大麻糕	ih vz da ma gc	33
 抓抓粉	vx vx ff	33
-百花串酱菜	bd hx ir jl cd	33
 六安篮茶	lu an lj ia	33
 博望锅盔	bo wh go kv	33
 月宫饼	yt gs bk	33
 盐饼子	yj bk zi	33
-井冈山烟笋烧肉	jk gh uj yj sy uc rz	33
 勾魂面	gz hy mm	33
 榆次灌肠	yu ci gr ih	33
 椰蓉面包	ye rs mm bc	33
 酥合子	su he zi	33
 梁渡银针	ll du yb vf	33
-乙酸龙脑酯	yi sr ls nc vi	33
 知味小笼	vi ww xn ls	32
 辛酸乙酯	xb sr yi vi	32
 顶顶糕	dk dk gc	32
-西部牛仔烧烤城	xi bu nq zd uc kc ig	32
 奶汁鱼片	nd vi yu pm	32
 蚕豆罐头	cj dz gr tz	32
 金钱海参	jb qm hd uf	32
 玫瑰蜜饯	mw gv mi jm	32
-姜汁热窝鸡	jl vi re wo ji	32
-新加坡肉骨茶	xb jx po rz gu ia	32
-酥皮莲蓉包	su pi lm rs bc	32
 汤冷面	th lg mm	32
 桐蛋	ts dj	32
-炒胡萝卜酱	ic hu lo bo jl	32
 红果酪	hs go lc	32
 鲜蘑菜心	xm mo cd xb	32
 多味果	do ww go	32
@@ -4346,57 +3718,41 @@ sort: by_weight
 南沙饼	nj ua bk	32
 五香兔头	wu xl tu tz	32
 宵米	xn mi	32
-鼎泰丰小笼包	dk td fg xn ls bc	32
 面筋百叶	mm jb bd ye	32
 烧百合	uc bd he	32
 装饰饼干	vl ui bk gj	32
 汾酒牛肉	ff jq nq rz	32
 拌鸡块	bj ji kk	32
 广州凉粉	gl vz ll ff	32
-羟丙基淀粉	ql bk ji dm ff	32
 蜂蜜花生	fg mi hx ug	32
-桂花酒酿元宵	gv hx jq nl yr xn	31
-豆腐芝士蛋糕	dz fu vi ui dj gc	31
 青海月饼	qk hd yt bk	31
 刺猬包	ci ww bc	31
-新一代长城	xb yi dd ih ig	31
 大边炉	da bm lu	31
 果汁鱼块	go vi yu kk	31
 核桃冻	he tc ds	31
 蟹肉汤包	xp rz th bc	31
-鹅肝酱牛排	ee gj jl nq pd	31
-老汤姆金酒	lc th mu jb jq	31
 猪脏面	vu zh mm	31
-震远同玫瑰酥糖	vf yr ts mw gv su th	31
 脆绍面	cv uc mm	31
 凤尾烧卖	fg ww uc md	31
 鲜蘑豆腐	xm mo dz fu	31
-老鼎丰月饼	lc dk fg yt bk	31
 喇嘛糕	la ma gc	31
 罐头梨	gr tz li	31
 凉瓜牛肉	ll gx nq rz	31
-葡萄糖酸镁	pu tc th sr mw	31
 三河米饺	sj he mi jn	31
 八宝菠菜	ba bc bo cd	31
-三花减肥茶	sj hx jm fw ia	31
 羊肉松	yh rz ss	31
 海带茶	hd dd ia	30
 梆梆肉	bh bh rz	30
 米果汁	mi go vi	30
-牛羊肉煮馍	nq yh rz vu mo	30
 片皮乳猪	pm pi ru vu	30
 水管面	uv gr mm	30
 卤鹌鹑蛋	lu an iy dj	30
 辛醛	xb qr	30
-谈炎记水饺	tj yj ji uv jn	30
-糖醋瓦块鱼	th cu wa kk yu	30
-绿茵白兔饺	lv yb bd tu jn	30
 保德油枣	bc de yz zc	30
 麒麟石斑	qi lb ui bj	30
 复元汤	fu yr th	30
 砂子饼	ua zi bk	30
 咖啡欧蕾	ka fw ou lw	30
-鲜肉蒸馄饨	xm rz vg hy ty	30
 梳子百页	uu zi bd ye	30
 燕麦饭	yj md fj	30
 扒牛肉条	ba nq rz tn	30
@@ -4406,102 +3762,61 @@ sort: by_weight
 原笼玉簪	yr ls yu zj	30
 荆沙鱼糕	jk ua yu gc	30
 乐满家	le mj jx	30
-贾家灌汤包	jx jx gr th bc	30
 爆螺片	bc lo pm	30
 麂子干巴	ji zi gj ba	30
-麒麟石斑鱼	qi lb ui bj yu	30
 千层皮	qm cg pi	30
-邻氨基苯甲酸甲酯	lb an ji bf jx sr jx vi	30
 晒炉肉	ud lu rz	30
 芝士蛋堡	vi ui dj bc	30
 粒粒脆	li li cv	30
-小笼粉蒸牛肉	xn ls ff vg nq rz	30
-香煎牛仔骨	xl jm nq zd gu	30
 面鱼子	mm yu zi	30
 炸藕盒	va ou he	30
 水盆大肉	uv pf da rz	30
 硬脂酸钾	yk vi sr jx	29
 锅贴鱼	go tp yu	29
-川贝雪梨猪肺汤	ir bw xt li vu fw th	29
-乙酸异戊酯	yi sr yi wu vi	29
 苞芦松	bc lu ss	29
 烩番薯	hv fj uu	29
-荷叶糯米鸡	he ye no mi ji	29
 炒蟹肉	ic xp rz	29
-海藻酸丙二醇酯	hd zc sr bk er iy vi	29
-酒酿棉子圆	jq nl mm zi yr	29
 狼牙蜜	lh ya mi	29
 磷酸三钾	lb sr sj jx	29
-东江豆腐煲	ds jl dz fu bc	29
-肉片烧茄子	rz pm uc qp zi	29
 燕面揉揉	yj mm rz rz	29
 五山池	wu uj ii	29
 卤饵丝	lu er si	29
-鱼茸乳扇卷	yu rs ru uj jr	29
 白水羊肉	bd uv yh rz	29
-树花炖土鸡	uu hx dy tu ji	29
-清汤柴把鸭	qk th id ba ya	29
-邢台道口烧鸡	xk td dc kz uc ji	29
 溜牛里脊	lq nq li ji	29
-水煮笋罐头	uv vu sy gr tz	29
-火腿大头菜酥	ho tv da tz cd su	29
 宫保虾球	gs bc xx qq	29
 甜藕粥	tm ou vz	29
 草莓果泥	cc mw go ni	29
 黄焖鸡块	hl mf ji kk	29
 筱筱火勺	xn xn ho uc	29
-香草凤尾虾	xl cc fg ww xx	29
 和记米粉	he ji mi ff	29
 肉米鱼唇	rz mi yu iy	29
 牌坊面	pd fh mm	29
-铜仁绿豆粉	ts rf lv dz ff	29
-青椒回锅肉	qk jn hv go rz	29
 八宝甲鱼	ba bc jx yu	29
-西乡牛肉干	xi xl nq rz gj	29
 砂锅羊肉	ua go yh rz	29
 白面锅盔	bd mm go kv	29
-酸辣大白菜	sr la da bd cd	29
 樱桃羹	yk tc gg	29
 屯溪醉蟹	ty xi zv xp	29
 洗沙白酥	xi ua bd su	29
 鹰扬虎视	yk yh hu ui	29
-鱼香牛肉丝	yu xl nq rz si	29
 满族饽饽	mj zu bo bo	28
 麻辣蹄筋	ma la ti jb	28
 醋溜黄瓜	cu lq hl gx	28
-糖腿破酥包子	th tv po su bc zi	28
 叉烧鱼	ia uc yu	28
 麻酱菠菜	ma jl bo cd	28
 五指山茶	wu vi uj ia	28
-清油盘丝饼	qk yz pj si bk	28
 油炸馄饨	yz va hy ty	28
-甲基环戊烯醇酮	jx ji hr wu xi iy ts	28
-铁板黑椒牛柳	tp bj hw jn nq lq	28
-丰城冻米糖	fg ig ds mi th	28
-鸡丝虎掌菌	ji si hu vh jy	28
 容美茶	rs mw ia	28
 小孩酥糖	xn hd su th	28
 炒豆腐脑	ic dz fu nc	28
 贝德利	bw de li	28
-蒜蓉粉丝蒸扇贝	sr rs ff si vg uj bw	28
-宁波猪油汤团	nk bo vu yz th tr	28
 捶肉	iv rz	28
 鱼腩煲	yu nj bc	28
 鱼头窝	yu tz wo	28
-巧克力夹心蛋糕	qn ke li jx xb dj gc	28
-婺源茗眉茶	wu yr mk mw ia	28
 油鸡棕	yz ji zs	28
-沙茶烤肉串	ua ia kc rz ir	28
-青椒牛肉丝	qk jn nq rz si	28
-鸡肉生煎馒头	ji rz ug jm mj tz	28
 火腿白菜	ho tv bd cd	28
 桂花元宵	gv hx yr xn	28
 加州庄园	jx vz vl yr	28
-劲霸青芥辣	jb ba qk jp la	28
-黄石溪毛峰	hl ui xi mc fg	28
 白扒鱼翅	bd ba yu ii	28
-麦角钙化醇	md jn gd hx iy	28
-栗子黄焖鸡	li zi hl mf ji	28
 冰蓼花	bk ln hx	28
 熘白蘑	lq bd mo	28
 水晶南瓜	uv jk nj gx	28
@@ -4509,56 +3824,35 @@ sort: by_weight
 冰凉糕	bk ll gc	28
 金丝酥雀	jb si su qt	28
 合水西瓜	he uv xi gx	28
-加味二妙散	jx ww er mn sj	28
-酱汁瓦块鱼	jl vi wa kk yu	28
 菊花里脊	ju hx li ji	28
 酸辣狗肉	sr la gz rz	28
 空心拉面	ks xb la mm	28
-锅烧猪蹄儿	go uc vu ti er	27
 赛鲍鱼	sd bc yu	27
-偶氮甲酰胺	ou dj jx xm an	27
 百子寿桃	bd zi uz tc	27
 桔阳	ju yh	27
 窝子油糕	wo zi yz gc	27
-罗汉果冲剂	lo hj go is ji	27
 三鲜砂锅	sj xm ua go	27
 馏鱼片	lq yu pm	27
-土豆排骨汤	tu dz pd gu th	27
 鱼儿粉	yu er ff	27
-巧克力新地	qn ke li xb de	27
 南昌炒粉	nj ih ic ff	27
 蟹黄虾盅	xp hl xx vs	27
-遂川狗牯脑	sv ir gz gu nc	27
 郭汤圆	go th yr	27
 一品鲍鱼	yi pb bc yu	27
 豫尔	yu er	27
 烩水果	hv uv go	27
 平安茶	pk an ia	27
 号腐干	hc fu gj	27
-富春江鲥鱼	fu iy jl ui yu	27
 冰糖核桃	bk th he tc	27
-猪油夹沙粽子	vu yz jx ua zs zi	27
 荞剁面	qn do mm	27
-黄金香肉脯	hl jb xl rz pu	27
 豆付干	dz fu gj	27
-古月胡三合泥	gu yt hu sj he ni	27
-倍半碳酸钠	bw bj tj sr na	27
-石屏烧豆腐	ui pk uc dz fu	27
 煎碗坨	jm wj to	27
 发丝百叶	fa si bd ye	27
-秀兰邓波尔	xq lj dg bo er	27
 卤米线	lu mi xm	27
 魔芋糕	mo yu gc	27
-野生酸枣汁	ye ug sr zc vi	27
 绣球鱼翅	xq qq yu ii	27
-山楂荷叶茶	uj va he ye ia	26
 油泼肉	yz po rz	26
 爆三样儿	bc sj yh er	26
-什锦葛仙米	ui jb ge xm mi	26
-西瓜汁饮料	xi gx vi yb ln	26
-海南嘉积鸭	hd nj jx ji ya	26
 乌发汤	wu fa th	26
-伏岭玫瑰酥	fu lk mw gv su	26
 自制果冻	zi vi go ds	26
 迷宗大包	mi zs da bc	26
 菠萝圆片	bo lo yr pm	26
@@ -4566,7 +3860,6 @@ sort: by_weight
 酵粿	jn go	26
 杏源	xk yr	26
 全羊汤锅	qr yh th go	26
-三鲜木樨汤	sj xm mu xi th	26
 脆皮卷	cv pi jr	26
 冬菜扣肉	ds cd kz rz	26
 冰菜	bk cd	26
@@ -4574,20 +3867,13 @@ sort: by_weight
 琉璃珠玑	lq li vu ji	26
 黄焖肉	hl mf rz	26
 豆鼓鱼	dz gu yu	26
-腾冲大救驾	tg is da jq jx	26
-爆炒羊羔肉	bc ic yh gc rz	26
 火山鸣	ho uj mk	26
-黄豆炖猪脚	hl dz dy vu jn	26
 黄米油糕	hl mi yz gc	26
 鸿兴泰	hs xk td	26
-劲脆鸡腿堡	jb cv ji tv bc	26
 普宁豆干	pu nk dz gj	26
-奶油草莓蛋糕	nd yz cc mw dj gc	26
 爆墨鱼花	bc mo yu hx	26
-七境堂绿茶	qi jk th lv ia	26
 红肘子	hs vz zi	26
 东壁龙珠	ds bi ls vu	26
-乐福园酒店	le fu yr jq dm	26
 糖荸荠	th bi qi	26
 白蛇烧饼	bd ue uc bk	26
 宣威土豆	xr ww tu dz	26
@@ -4605,70 +3891,47 @@ sort: by_weight
 吴家熏肉	wu jx xy rz	26
 圣诞面包	ug dj mm bc	26
 吉利虾	ji li xx	26
-腌苤蓝丝儿	yj pp lj si er	25
 五果汤	wu go th	25
-杞子炖羊脑	qi zi dy yh nc	25
-鲜蔬足尊牛堡	xm uu zu zy nq bc	25
-辣子蒜羊血	la zi sr yh xt	25
 荞面包	qn mm bc	25
 可可基	ke ke ji	25
 杭三鲜	hh sj xm	25
 锅塌菠菜	go ta bo cd	25
 川味凉面	ir ww ll mm	25
-樱桃巧克力蛋糕	yk tc qn ke li dj gc	25
 茴香醇	hv xl iy	25
 豆鼓鲇鱼	dz gu nm yu	25
 砂锅肥肠	ua go fw ih	25
 西瓜冻	xi gx ds	25
 炒墨鱼丝	ic mo yu si	25
-八步红瓜子	ba bu hs gx zi	25
 猴脑汤	hz nc th	25
 酥锅盔	su go kv	25
-一品香饭店	yi pb xl fj dm	25
 干锅土鸡	gj go tu ji	25
 红烧草鱼	hs uc cc yu	25
 烧臆子	uc yi zi	25
-双球冰淇淋	ul qq bk qi lb	25
-杜称奇火烧	du ig qi ho uc	25
 洪江鸭	hs jl ya	25
-在家做蛋糕	zd jx zo dj gc	25
-盐水肘花儿	yj uv vz hx er	25
 火山鸣泉	ho uj mk qr	25
 粑粑卷	ba ba jr	25
 鸡包鱼翅	ji bc yu ii	25
 炝茭白	ql jn bd	25
 水煮鳝鱼	uv vu uj yu	25
-油炸螺丝糕	yz va lo si gc	25
-海南椰子盅	hd nj ye zi vs	25
 酥皮龙虾	su pi ls xx	25
 马家烧卖	ma jx uc md	25
 兰花豆干	lj hx dz gj	25
 麻辣狗肉	ma la gz rz	25
-西湖天竺筷	xi hu tm vu kk	25
-凤凰水仙茶	fg hl uv xm ia	25
 烩鸭腰儿	hv ya yc er	25
 路南乳饼	lu nj ru bk	25
-聚甘油单硬脂酸酯	ju gj yz dj yk vi sr vi	25
 炒肉片儿	ic rz pm er	25
-草莓绿豆粥	cc mw lv dz vz	24
 烤冷面	kc lg mm	24
 天香鲍鱼	tm xl bc yu	24
 咖喱牛排	ga li nq pd	24
 鲤鱼粥	li yu vz	24
-猪柳蛋汉堡	vu lq dj hj bc	24
 川红茶	ir hs ia	24
 秤管糖	ig gr th	24
-卤肉夹锅魁	lu rz jx go kv	24
 猪灌肠	vu gr ih	24
 黄蚂蚁蛋	hl ma yi dj	24
 杂菇煲	za gu bc	24
-番茄炒豆腐	fj qp ic dz fu	24
 锅烧鳗	go uc mj	24
 灵芝饮料	lk vi yb ln	24
-巧克力小蛋糕	qn ke li xn dj gc	24
 虫胶红	is jn hs	24
-海水煮海鱼	hd uv vu hd yu	24
-文楼蟹黄汤包	wf lz xp hl th bc	24
 刀拔面	dc ba mm	24
 酸辣藕丁	sr la ou dk	24
 白记水饺	bd ji uv jn	24
@@ -4678,14 +3941,11 @@ sort: by_weight
 红油兔丁	hs yz tu dk	24
 香酥糕	xl su gc	24
 罐焖鱼唇	gr mf yu iy	24
-特级红辣椒	te ji hs la jn	24
 奶泡咖啡	nd pc ka fw	24
 咸馓子	xm sj zi	24
-开洋葱油拌面	kd yh cs yz bj mm	24
 水煮鱼头	uv vu yu tz	24
 果蒸棕	go vg zs	24
 玻璃鱿鱼	bo li yz yu	24
-贵妃鸡火锅	gv fw ji ho go	24
 酿雪梨	nl xt li	24
 酿冬瓜	nl ds gx	24
 茉莉浸膏	mo li jb gc	24
@@ -4700,12 +3960,10 @@ sort: by_weight
 揽饭	lj fj	24
 东方海川	ds fh hd ir	24
 炒海蜇	ic hd ve	23
-徽州桃脂烧肉	hv vz tc vi uc rz	23
 绿豆凸	lv dz tu	23
 烫面油糕	th mm yz gc	23
 凉拌莲藕	ll bj lm ou	23
 扒三样	ba sj yh	23
-杨裕兴面条	yh yu xk mm tn	23
 炒桂花翅	ic gv hx ii	23
 浓缩果酱	ns so go jl	23
 白猪头肉	bd vu tz rz	23
@@ -4714,12 +3972,7 @@ sort: by_weight
 奶油蟹肉	nd yz xp rz	23
 酱泼肉	jl po rz	23
 香辣炒蟹	xl la ic xp	23
-清蒸荷包红鲤鱼	qk vg he bc hs li yu	23
 井岗翠绿	jk gh cv lv	23
-豆蓉糯米饭	dz rs no mi fj	23
-蚝油网鲍片	hc yz wh bc pm	23
-平遥碗脱则	pk yc wj to ze	23
-三聚甘油单硬脂酸酯	sj ju gj yz dj yk vi sr vi	23
 桑果雪芭	sh go xt ba	23
 醋熘鳜鱼	cu lq gv yu	23
 双麻火烧	ul ma ho uc	23
@@ -4729,7 +3982,6 @@ sort: by_weight
 清炒蚕豆	qk ic cj dz	23
 酸黄菜	sr hl cd	23
 己烯醛	ji xi qr	23
-粉蒸牛羊肉	ff vg nq yh rz	23
 花生衣红	hx ug yi hs	23
 椒盐馓子	jn yj sj zi	23
 水豆鼓	uv dz gu	23
@@ -4737,32 +3989,21 @@ sort: by_weight
 合意饼	he yi bk	23
 伍仁酥	wu rf su	23
 玫瑰酥饼	mw gv su bk	23
-莲子猪心汤	lm zi vu xb th	23
-拆烩大鱼头	id hv da yu tz	23
-牛杂萝卜汤	nq za lo bo th	23
 酱豆腐肉	jl dz fu rz	23
 八批果子	ba pi go zi	23
-浪花天香鱼	lh hx tm xl yu	23
-薰衣草饼干	xy yi cc bk gj	23
-墨西哥玉米片	mo xi ge yu mi pm	23
 藕片汤	ou pm th	23
 马牙肉	ma ya rz	23
 桂花鱼条	gv hx yu tn	23
 鸡丝米粉	ji si mi ff	23
-己酸烯丙酯	ji sr xi bk vi	23
 味窖板	ww jn bj	23
 祥龙双飞	xl ls ul fw	23
-荷叶粉蒸鸡	he ye ff vg ji	23
 五香杏仁	wu xl xk rf	23
 泰舒茶	td uu ia	23
 芫爆仔鸽	yj bc zd ge	22
-什锦素菜包	ui jb su cd bc	22
-二甲基聚硅氧烷	er jx ji ju gv yh wj	22
 蜜饯青梅	mi jm qk mw	22
 鸡棕酥	ji zs su	22
 腊兔肉	la tu rz	22
 山楂肉干	uj va rz gj	22
-草菇西兰花	cc gu xi lj hx	22
 厦门薄饼	xx mf bc bk	22
 地瓜糖	di gx th	22
 炖鸡汁	dy ji vi	22
@@ -4770,28 +4011,20 @@ sort: by_weight
 叉烧包子	ia uc bc zi	22
 椰蓉包	ye rs bc	22
 火烧冬笋	ho uc ds sy	22
-魔力冰淇淋咖啡	mo li bk qi lb ka fw	22
 罐儿肉	gr er rz	22
-开屏柴把桂鱼	kd pk id ba gv yu	22
 五香酱鸡	wu xl jl ji	22
 啤酒汤	pi jq th	22
 四鲜烤麸	si xm kc fu	22
-蒜子瑶柱脯	sr zi yc vu pu	22
 燕皮丝	yj pi si	22
-皖西黄大茶	wj xi hl da ia	22
 燕窝四字	yj wo si zi	22
 白肘子	bd vz zi	22
 发财好事	fa cd hc ui	22
 定襄蒸肉	dk xl vg rz	22
-养血安胎汤	yh xt an td th	22
-九层塔煎蛋	jq cg ta jm dj	22
 蓝莓奶酪	lj mw nd lc	22
-介休贯馅糖	jp xq gr xm th	22
 柿子包	ui zi bc	22
 熘腰花儿	lq yc hx er	22
 糖葱饼	th cs bk	22
 代县黄酒	dd xm hl jq	22
-清汤火锅底	qk th ho go di	22
 鸡杂面	ji za mm	22
 范关酒	fj gr jq	22
 糖醋鱼卷	th cu yu jr	22
@@ -4800,69 +4033,49 @@ sort: by_weight
 香竹烤饭	xl vu kc fj	22
 山东包子	uj ds bc zi	22
 大枣姜汤	da zc jl th	22
-江山绿牡丹茶	jl uj lv mu dj ia	22
 侗乡腌鱼	ds xl yj yu	22
-唐场豆腐乳	th ih dz fu ru	22
 吉士蛋堡	ji ui dj bc	22
 杏仁佛手	xk rf fo uz	22
 七星丸	qi xk wj	22
 陕西党参	uj xi dh uf	21
-新兴牛肉丸	xb xk nq rz wj	21
 饺子粑	jn zi ba	21
-什锦套肠儿	ui jb tc ih er	21
-山梨醇酐单油酸酯	uj li iy gj dj yz sr vi	21
 坚果蛋糕	jm go dj gc	21
 斩鱼圆	vj yu yr	21
-香柚蜂蜜茶	xl yz fg mi ia	21
 葡萄仿	pu tc fh	21
 如意酥	ru yi su	21
 济南肴鸡	ji nj yc ji	21
-糖水黄桃罐头	th uv hl tc gr tz	21
 板栗酒	bj li jq	21
 爆两样	bc ll yh	21
-青岛高粱饴	qk dc gc ll yi	21
 鸳鸯鸡粥	yr yh ji vz	21
-炸豆腐丸子	va dz fu wj zi	21
 清音茶	qk yb ia	21
 参麦团鱼	cj md tr yu	21
 白醋鸡蛋	bd cu ji dj	21
-小锅卤饵块	xn go lu er kk	21
 龙虎凤烩	ls hu fg hv	21
 卤肉锅魁	lu rz go kv	21
 蜜蜡肘子	mi la vz zi	21
 和合腰子	he he yc zi	21
 红庙酥饼	hs mn su bk	21
 烩银耳	hv yb er	21
-利口葡萄酒	li kz pu tc jq	21
 凉豌豆粉	ll wj dz ff	21
 菊花冬笋	ju hx ds sy	21
 一捏酥	yi np su	21
-灵芝恋玉蝉	lk vi lm yu ij	21
-超级至尊比萨	ic ji vi zy bi sa	21
 炸支竹	va vi vu	21
 硅铝酸钠	gv lv sr na	21
 成都子鸡	ig du zi ji	21
-功德林蔬食处	gs de lb uu ui iu	21
 浆水汤	jl uv th	21
 丁酸丁酯	dk sr dk vi	21
-荸荠一品锅	bi qi yi pb go	21
-皇后双皮奶	hl hz ul pi nd	21
 冬瓜煲汤	ds gx bc th	21
-山药百合大枣粥	uj yc bd he da zc vz	21
 荔枝鱿鱼	li vi yz yu	21
 涟水鸡糕	lm uv ji gc	21
 汉中米皮	hj vs mi pi	21
 砂锅狗肉	ua go gz rz	21
 白扒鲍鱼	bd ba bc yu	21
-爆焖羊羔肉	bc mf yh gc rz	21
-麻辣诱惑蛙	ma la yz ho wa	21
 炒藤菜	ic tg cd	21
 酱黑菜	jl hw cd	21
 清汤银耳	qk th yb er	21
 酸汤米线	sr th mi xm	21
 风味羊腿	fg ww yh tv	21
 爆炒羊肚	bc ic yh du	21
-叙府陈年糟蛋	xu fu if nm zc dj	21
 咕咕霍夫	gu gu ho fu	21
 龙俐鱼	ls li yu	21
 白菜锅子	bd cd go zi	21
@@ -4870,82 +4083,53 @@ sort: by_weight
 黄焖狗肉	hl mf gz rz	21
 鲜果布丁	xm go bu dk	21
 清梅居	qk mw ju	21
-府陈年糟蛋	fu if nm zc dj	21
-白芦笋罐头	bd lu sy gr tz	20
 糖花蛋糕	th hx dj gc	20
 溜藕片	lq ou pm	20
-火腿鸡杂饵丝	ho tv ji za er si	20
 生汆丸子	ug cr wj zi	20
-新兴园蒸饺	xb xk yr vg jn	20
 金丝烧麦	jb si uc md	20
 香心菜	xl xb cd	20
 锅巴三鲜	go ba sj xm	20
-果酱夹心饼	go jl jx xb bk	20
-柠檬酸亚锡二钠	nk mg sr ya xi er na	20
 苯乙醛	bf yi qr	20
 八生火锅	ba ug ho go	20
 五味煎蟹	wu ww jm xp	20
 泥钉冻	ni dk ds	20
-火腿鸡丝卷	ho tv ji si jr	20
 鸡茸银耳	ji rs yb er	20
 鱼香炒蛋	yu xl ic dj	20
-玫瑰米凉虾	mw gv mi ll xx	20
 双桥毛尖	ul qn mc jm	20
 刀切酥	dc qp su	20
 木犀糕	mu xi gc	20
-酥炸牛肉卷	su va nq rz jr	20
 偏酒石酸	pm jq ui sr	20
-原叶冰红茶	yr ye bk hs ia	20
-徐舍小酥糖	xu ue xn su th	20
 鸳鸯鱼枣	yr yh yu zc	20
-瓶装金针菇	pk vl jb vf gu	20
-苯乙酸甲酯	bf yi sr jx vi	20
 洪都鸡	hs dz ji	20
 镶碗	xl wj	20
 肉丁辣酱	rz dk la jl	20
-黑胡椒酱汁	hw hu jn jl vi	20
 上海蜜饯	uh hd mi jm	20
 长子炒饼	vh zi ic bk	20
 芥茉鸭掌	jp mo ya vh	20
 红枣煨肘	hs zc ww vz	20
-五盖山米茶	wu gd uj mi ia	20
 酸蚂蚁蛋	sr ma yi dj	20
 锅贴鱼片	go tp yu pm	20
 豹骨酒	bc gu jq	20
 龙王夜宴	ls wh ye yj	20
-木瓜生鱼汤	mu gx ug yu th	20
 三丁大包	sj dk da bc	20
 闽生果	mb ug go	20
 茶香骨	ia xl gu	20
-糯米八宝饭	no mi ba bc fj	20
-陆记烫面炸糕	lu ji th mm va gc	20
-脆皮炸鲜奶	cv pi va xm nd	20
 千页糕	qm ye gc	20
 葱爆肉丝	cs bc rz si	20
-沙锅鱼头豆腐	ua go yu tz dz fu	20
 红豆酱	hs dz jl	20
 莴笋肉丝	wo sy rz si	20
-江北熊鸭子	jl bw xs ya zi	20
 长武锅盔	vh wu go kv	20
-一篓油水饺	yi lz yz uv jn	20
 流蜞蛋	lq qi dj	20
 八宝茶汤	ba bc ia th	20
-改性大豆磷脂	gd xk da dz lb vi	20
 苦瓜酿肉	ku gx nl rz	20
 烧紫盖儿	uc zi gd er	20
-鳝鱼凉米线	uj yu ll mi xm	20
 木赛来斯	mu sd ld si	20
 鱼脯丸子	yu pu wj zi	20
-脱氢乙酸钠	to qk yi sr na	20
-抗衰老啤酒	kh uk lc pi jq	20
-葡萄糖酸铜	pu tc th sr ts	20
 御福坊	yu fu fh	20
 兰花春笋	lj hx iy sy	20
 挂粉汤圆	gx ff th yr	20
-凤尾吐司虾片	fg ww tu si xx pm	20
 炒豌豆酱	ic wj dz jl	20
 醉活虾	zv ho xx	20
-清炖狼山鸡	qk dy lh uj ji	20
 牛奶太妃	nq nd td fw	20
 白银如意	bd yb ru yi	20
 红果茶	hs go ia	20
@@ -4955,21 +4139,17 @@ sort: by_weight
 红烧鱼骨	hs uc yu gu	19
 藕丝糕	ou si gc	19
 煎芋饼	jm yu bk	19
-红烧栗子鸡	hs uc li zi ji	19
 姜汁鱼片	jl vi yu pm	19
 煨鱿鱼	ww yz yu	19
 西北凉皮	xi bw ll pi	19
 福寿糕	fu uz gc	19
 金雀舌	jb qt ue	19
-香甜粟米棒	xl tm su mi bh	19
 佛手包	fo uz bc	19
 德盛园	de ug yr	19
 桃仁鸡丁	tc rf ji dk	19
 酿海参	nl hd uf	19
 大京果	da jk go	19
-南涧锅巴豆粉	nj jm go ba dz ff	19
 家乡南肉	jx xl nj rz	19
-冯了性药酒	fg le xk yc jq	19
 香蕉酥	xl jn su	19
 瑶柱汤	yc vu th	19
 文蛤饼	wf ge bk	19
@@ -4978,22 +4158,18 @@ sort: by_weight
 清焖莲子	qk mf lm zi	19
 海螺罐头	hd lo gr tz	19
 浙江榨菜	ve jl va cd	19
-陕北红小豆	uj bw hs xn dz	19
 尖椒炒蛋	jm jn ic dj	19
 油闷春笋	yz mf iy sy	19
 菠萝鸡丁	bo lo ji dk	19
 煲猪肉汤	bc vu rz th	19
 什锦锅子	ui jb go zi	19
-王家核桃馍	wh jx he tc mo	19
 景家麻花	jk jx ma hx	19
 黄焖鳗	hl mf mj	19
 桑芽茶	sh ya ia	19
 里叶白莲	li ye bd lm	19
 莲花卷	lm hx jr	19
-山楂核桃茶	uj va he tc ia	19
 漆油炖鸡	qi yz dy ji	19
 咖喱鱿鱼	ga li yz yu	19
-南浔香大头菜	nj xy xl da tz cd	19
 凉蛋糕	ll dj gc	19
 杂烩锅子	za hv go zi	19
 重阳栗糕	is yh li gc	19
@@ -5008,81 +4184,53 @@ sort: by_weight
 壶关羊汤	hu gr yh th	19
 甑子糕	zg zi gc	19
 烩蟹肉	hv xp rz	19
-银花薄荷饮	yb hx bo he yb	19
 芝麻螺	vi ma lo	19
-清蒸牛蹄筋	qk vg nq ti jb	19
-金钩挂玉牌	jb gz gx yu pd	19
 无核糖枣	wu he th zc	19
 抓炒大虾	vx ic da xx	19
 绿豆兜	lv dz dz	19
-太后御膳泡泡糕	td hz yu uj pc pc gc	19
-脆皮石鱼卷	cv pi ui yu jr	19
-丽江火腿粑粑	li jl ho tv ba ba	19
 复盆子酮	fu pf zi ts	19
-余姚瀑布茶	yu yc pu bu ia	19
 枫镇大面	fg vf da mm	19
 海鲜大烩	hd xm da hv	19
-信远斋酸梅汤	xb yr vd sr mw th	19
 葫芦巴胶	hu lu ba jn	19
 高粱饴糖	gc ll yi th	19
 慧仁米粥	hv rf mi vz	19
-巧克力芝士蛋糕	qn ke li vi ui dj gc	19
-卓资山熏鸡	vo zi uj xy ji	18
 猪蹄粥	vu ti vz	18
-金华玉树鸡	jb hx yu uu ji	18
 真味珍	vf ww vf	18
-海参三大件	hd uf sj da jm	18
 清汤冬瓜	qk th ds gx	18
 阿焕鸭面	aa hr ya mm	18
 南湖蟹粉	nj hu xp ff	18
 泰德马帝	td de ma di	18
-菠菜金钩豆腐汤	bo cd jb gz dz fu th	18
-曲靖韭菜花	qu jk jq cd hx	18
 金蟾玉鲍	jb ij yu bc	18
-泥鳅煮酸菜	ni qq vu sr cd	18
 博山烤肉	bo uj kc rz	18
 红豆芝士	hs dz vi ui	18
 落汤糍	lo th ci	18
 清蒸白鳝	qk vg bd uj	18
 鸡丝豆苗	ji si dz mn	18
-果酱夹心饼干	go jl jx xb bk gj	18
-麻辣猪肉干	ma la vu rz gj	18
-海南萝卜糕	hd nj lo bo gc	18
 口蘑蒸鸡	kz mo vg ji	18
 富贵有鱼	fu gv yz yu	18
 烩银丝儿	hv yb si er	18
 长安板栗	ih an bj li	18
 西式月饼	xi ui yt bk	18
 森林木盒	sf lb mu he	18
-八宝榛子酱	ba bc vf zi jl	18
-青城苦丁茶	qk ig ku dk ia	18
 云片鸽蛋	yy pm ge dj	18
 陈村枧水	if cy jm uv	18
 豆沙凉糕	dz ua ll gc	18
-洞子口张凉粉	ds zi kz vh ll ff	18
 八珍羹	ba vf gg	18
 御菜三品	yu cd sj pb	18
 片鸡粉	pm ji ff	18
-沙律海鲜卷	ua lv hd xm jr	18
-鱼翅四大件	yu ii si da jm	18
-巧克力蛋卷	qn ke li dj jr	18
 醪糟麻花	lc zc ma hx	18
 带江草堂	dd jl cc th	18
 青菠面	qk bo mm	18
-陈春麻辣粉	if iy ma la ff	18
 炝竹笋	ql vu sy	18
 麻辣野鸡	ma la ye ji	18
 肉骨头粥	rz gu tz vz	18
 烤鸭条	kc ya tn	18
-一品玉带糕	yi pb yu dd gc	18
 象形拼盘	xl xk pb pj	18
 潇湘猪手	xn xl vu uz	18
 炕洋芋	kh yh yu	18
 姜汁豆角	jl vi dz jn	18
 炒肝片	ic gj pm	18
 艾蒿糕	ai hc gc	18
-鲜虾荷叶饭	xm xx he ye fj	18
-冰卡布奇诺	bk ka bu qi no	18
 香菜籽粉	xl cd zi ff	18
 包烧鲜鱼	bc uc xm yu	18
 安泽火腿	an ze ho tv	18
@@ -5090,39 +4238,27 @@ sort: by_weight
 辣子脆肠	la zi cv ih	18
 朴枳果	pu vi go	18
 酥炸鱿鱼	su va yz yu	18
-沙参玉竹老鸭汤	ua uf yu vu lc ya th	18
-桂花赤豆汤	gv hx ii dz th	18
 白面锅魁	bd mm go kv	18
 玫瑰茄红	mw gv jx hs	18
-高峰云雾茶	gc fg yy wu ia	18
 鸡丝汤面	ji si th mm	18
 四味荞包	si ww qn bc	18
-韭菜炒河虾	jq cd ic he xx	18
-夫妻肺片店	fu qi fw pm dm	18
 大茴香醛	da hv xl qr	18
 珍珠雪耳	vf vu xt er	18
 永安笋干	ys an sy gj	18
-孔府地锅一绝	ks fu de go yi jt	18
 辣菜饼	la cd bk	18
 富万利	fu wj li	18
 焖鸭掌儿	mf ya vh er	17
 一棒雪	yi bh xt	17
-李锦记卤水汁	li jb ji lu uv vi	17
 汤圆锅子	th yr go zi	17
 凤凰社饭	fg hl ue fj	17
 桉叶糖	an ye th	17
 萍乡花果	pk xl hx go	17
-桂花核桃冻	gv hx he tc ds	17
 油攒大虾	yz zj da xx	17
 酸辣肥肠	sr la fw ih	17
 响铃海参	xl lk hd uf	17
-印度香米饭	yb du xl mi fj	17
-甘草酸三钾	gj cc sr sj jx	17
 野鸭菜饭	ye ya cd fj	17
 庞德咖啡	ph de ka fw	17
-桂花糖大栗	gv hx th da li	17
 软炸鲜贝	rr va xm bw	17
-桂花糖芋艿	gv hx th yu nd	17
 女贞子酒	nv vf zi jq	17
 麦穗包	md sv bc	17
 烩酸蕾	hv sr lw	17
@@ -5131,52 +4267,33 @@ sort: by_weight
 洋河敦煌	yh he dy hl	17
 地瓜果脯	di gx go pu	17
 一品大包	yi pb da bc	17
-云腿豆焖饭	yy tv dz mf fj	17
-脂油雪花儿菜	vi yz xt hx er cd	17
-百合莲子浆	bd he lm zi jl	17
-痣胡子龙眼包子	vi hu zi ls yj bc zi	17
 迷迭香粉	mi dp xl ff	17
 鱼香腰花	yu xl yc hx	17
-煮饽饽锅子	vu bo bo go zi	17
 武穴酥糖	wu xt su th	17
 扒海羊	ba hd yh	17
 爆墨鱼卷	bc mo yu jr	17
 氽大甲	ty da jx	17
-杭州老鸭煲	hh vz lc ya bc	17
-素椒杂酱面	su jn za jl mm	17
-枸杞银耳汤	gz qi yb er th	17
 鼓汁排骨	gu vi pd gu	17
 烩肥肠	hv fw ih	17
-鸡蛋炒菠菜	ji dj ic bo cd	17
 徽州裹粽	hv vz go zs	17
 蚝油牛柳	hc yz nq lq	17
-广式五仁月饼	gl ui wu rf yt bk	17
 杏仁儿酪	xk rf er lc	17
 鸡腿汤	ji tv th	17
-金针菇肉丝	jb vf gu rz si	17
-西瓜酱罐头	xi gx jl gr tz	17
-素炝春不老	su ql iy bu lc	17
 挂霜丸子	gx ul wj zi	17
 菊花鱼丸	ju hx yu wj	17
 屯溪徽	ty xi hv	17
 素锅盔	su go kv	17
 白肉丝儿	bd rz si er	17
 氽三样儿	ty sj yh er	17
-蒙古手把肉	mg gu uz ba rz	17
 赣州麻通	gj vz ma ts	17
 红豆蛋挞	hs dz dj ta	17
 洱海弓鱼	er hd gs yu	17
-陶陶居上月	tc tc ju uh yt	17
 炸茄饼	va jx bk	17
 熘脊髓	lq ji sv	17
 白鲞扣鸡	bd xl kz ji	17
-堂煎牛仔骨	th jm nq zd gu	17
-天然苋菜红	tm rj xm cd hs	17
 火焙豆腐	ho bw dz fu	17
 咸肉丝儿	xm rz si er	17
-菊花龙虎凤蛇羹	ju hx ls hu fg ue gg	17
 酿山药	nl uj yc	17
-柠檬酸一钠	nk mg sr yi na	17
 玉桂叶	yu gv ye	17
 潮州春饼	ic vz iy bk	17
 东坡方肉	ds po fh rz	17
@@ -5184,33 +4301,21 @@ sort: by_weight
 白汁鱼肚	bd vi yu du	17
 八代鱼	ba dd yu	17
 酱菜四品	jl cd si pb	17
-黄瓜炒肉丝	hl gx ic rz si	17
 芜湖瓜子	wu hu gx zi	17
 莲蓬鱼	lm pg yu	17
-菠菜丸子汤	bo cd wj zi th	17
-兴义耳块粑	xk yi er kk ba	17
-虎跑素火腿	hu pc su ho tv	17
-粗黑胡椒粉	cu hw hu jn ff	17
-干炸赤鳞鱼	gj va ii lb yu	17
-鸡蛋肉松卷	ji dj rz ss jr	17
 珍珠贝肉	vf vu bw rz	17
-武功镇起花面	wu gs vf qi hx mm	16
 凉拌鱿鱼	ll bj yz yu	16
 奶白葡萄	nd bd pu tc	16
 铁板鳝鱼	tp bj uj yu	16
 南通跳面	nj ts tn mm	16
-蟹黄小汤包	xp hl xn th bc	16
 酥肉汤	su rz th	16
 酒糟汤圆	jq zc th yr	16
 牛奶土司	nq nd tu si	16
 杏仁橄榄	xk rf gj lj	16
 岐山面皮	qi uj mm pi	16
 绣球乾贝	xq qq qm bw	16
-海鲜水果沙拉	hd xm uv go ua la	16
 爆炒肉片	bc ic rz pm	16
-格瓦斯饮料	ge wa si yb ln	16
 玉兔海参	yu tu hd uf	16
-茉莉雀舌毫	mo li qt ue hc	16
 枣泥锅饼	zc ni go bk	16
 金钱鸡塔	jb qm ji ta	16
 麦芬蛋糕	md ff dj gc	16
@@ -5218,20 +4323,13 @@ sort: by_weight
 醉鸡翅	zv ji ii	16
 澄江藕粉	ig jl ou ff	16
 蛋黄麻花	dj hl ma hx	16
-东古一品鲜	ds gu yi pb xm	16
 泡椒肥肠	pc jn fw ih	16
-会友发包子	hv yz fa bc zi	16
 奉化摇蜡	fg hx yc la	16
 酥皮鸡饺	su pi ji jn	16
-鸡汤煮千丝	ji th vu qm si	16
-大荔带把肘子	da li dd ba vz zi	16
-陆稿荐卤肉	lu gc jm lu rz	16
 荞面灌肠	qn mm gr ih	16
-康家脆哨面	kh jx cv uc mm	16
 机粽	ji zs	16
 三丝瓜卷	sj si gx jr	16
 樱桃蜜饯	yk tc mi jm	16
-酸豆角肉沫	sr dz jn rz mo	16
 小芝麻饼	xn vi ma bk	16
 汁鲫鱼	vi ji yu	16
 酸菜鱿鱼	sr cd yz yu	16
@@ -5248,20 +4346,13 @@ sort: by_weight
 什锦糕	ui jb gc	16
 腌牛脚筋	yj nq jn jb	16
 菊花卷	ju hx jr	16
-羟基硬脂精	ql ji yk vi jk	16
-鱼片蒸水蛋	yu pm vg uv dj	16
 巴山银芽	ba uj yb ya	16
 叉烤鳜鱼	ia kc gv yu	16
-参芪母鸡汤	cj qi mu ji th	16
 九珠皮蛋	jq vu pi dj	16
-酸菜黑圪条	sr cd hw ge tn	16
-银耳大枣汤	yb er da zc th	16
 布朗族菜	bu lh zu cd	16
 罗锅肉	lo go rz	16
 芫爆肚丝	yj bc du si	16
-和味炒田螺	he ww ic tm lo	16
 虫草鸽	is cc ge	16
-乙酸薄荷酯	yi sr bo he vi	16
 氰钴胺素	qk gu an su	16
 炒珍珠鸡	ic vf vu ji	16
 扒肘条	ba vz tn	16
@@ -5273,45 +4364,32 @@ sort: by_weight
 西汁乳鸽	xi vi ru ge	16
 佛手排骨	fo uz pd gu	16
 繁峙疤饼	fj vi ba bk	16
-清拌腰丝儿	qk bj yc si er	16
-潮州烧雁鹅	ic vz uc yj ee	16
 植物炭黑	vi wu tj hw	16
 姜葱螃蟹	jl cs ph xp	15
 炝肉	ql rz	15
-黑玫瑰咖啡	hw mw gv ka fw	15
 红酒猪排	hs jq vu pd	15
 沙拉蛋	ua la dj	15
 蛋黄面包	dj hl mm bc	15
 乳酪大会	ru lc da hv	15
-黄花菜瘦肉汤	hl hx cd uz rz th	15
 蜜饯四品	mi jm si pb	15
 蒜爆肉	sr bc rz	15
-清真酱牛肉	qk vf jl nq rz	15
 香酥苹果	xl su pk go	15
 金菇掐菜	jb gu qx cd	15
-萝卜烧排骨	lo bo uc pd gu	15
-聚丰德饭店	ju fg de fj dm	15
 椒盐花卷	jn yj hx jr	15
 梅花蛋糕	mw hx dj gc	15
-保定府三件宝	bc dk fu sj jm bc	15
 同源茂	ts yr mc	15
 花椒鱼片	hx jn yu pm	15
-鱼香荷包蛋	yu xl he bc dj	15
 博山烩菜	bo uj hv cd	15
 鸡丝银耳	ji si yb er	15
 冬菜肉末	ds cd rz mo	15
 秦川牌	qb ir pd	15
 天红宝	tm hs bc	15
-桂花甜酒酿	gv hx tm jq nl	15
 炒银丝儿	ic yb si er	15
 卤斑鸠	lu bj jq	15
-四川辣子鸡	si ir la zi ji	15
 沙湾白饼	ua wj bd bk	15
 浏阳茴饼	lq yh hv bk	15
 烟鸽子蛋	yj ge zi dj	15
 酱螺蛳	jl lo si	15
-亚铁氰化钠	ya tp qk hx na	15
-栗子炒子鸡	li zi ic zi ji	15
 炸子蟹	va zi xp	15
 糯米藕片	no mi ou pm	15
 芝麻汤团	vi ma th tr	15
@@ -5319,67 +4397,40 @@ sort: by_weight
 烀烂甲鱼	hu lj jx yu	15
 一品鲳	yi pb ih	15
 梁平甜茶	ll pk tm ia	15
-海天草菇老抽	hd tm cc gu lc iz	15
 甘露饼	gj lu bk	15
 龙眼虾仁	ls yj xx rf	15
 己烯醇	ji xi iy	15
 伯丁罕	bo dk hj	15
 万字扣肉	wj zi kz rz	15
-醋烟肉片儿	cu yj rz pm er	15
 桂林松糕	gv lb ss gc	15
-芹菜牛肉丝	qb cd nq rz si	15
 奶汤白菜	nd th bd cd	15
 合德堂	he de th	15
 砂钵狗肉	ua bo gz rz	15
-丙二醇脂肪酸酯	bk er iy vi fh sr vi	15
 小豆羹	xn dz gg	15
-桥头火锅店	qn tz ho go dm	15
 烟三鲜儿	yj sj xm er	15
 插根儿	ia gf er	15
-两香问政山笋	ll xl wf vg uj sy	15
 御菜五品	yu cd wu pb	15
-乙酸松油酯	yi sr ss yz vi	15
 凤炖牡丹	fg dy mu dj	15
 氽灌肠	ty gr ih	15
 木耳圪贝	mu er ge bw	15
 安定堡	an dk bc	15
 豆汁粥	dz vi vz	15
-葫芦大吉翅子	hu lu da ji ii zi	15
 荔枝酥	li vi su	15
-白炒三七花田鸡	bd ic sj qi hx tm ji	15
-香菇肉酱罐头	xl gu rz jl gr tz	15
-柠檬夹心蛋糕	nk mg jx xb dj gc	15
 干烧大虾	gj uc da xx	15
 炒二冬	ic er ds	15
-红烧猪蹄子	hs uc vu ti zi	15
 老科曼	lc ke mj	15
 脂油年糕	vi yz nm gc	15
-水晶蟹粉卷	uv jk xp ff jr	15
-羟丙基淀粉醚	ql bk ji dm ff mi	15
 洋钱饼	yh qm bk	15
-金针菇培根	jb vf gu pw gf	15
 广州甜品	gl vz tm pb	15
 锦江烤鸭	jb jl kc ya	15
-欧蕾冰咖啡	ou lw bk ka fw	14
 清汤丸子	qk th wj zi	14
 炸卷果儿	va jr go er	14
 葡达	pu da	14
 县前汤团	xm qm th tr	14
-三鲜小馄饨	sj xm xn hy ty	14
-大佛白龙井	da fu bd ls jk	14
 蜜饯红果	mi jm hs go	14
-剁椒大鱼头	do jn da yu tz	14
-核桃红米饭	he tc hs mi fj	14
 红苕泥	hs uc ni	14
 鸡火酥	ji ho su	14
-异戊酸异戊酯	yi wu sr yi wu vi	14
 滇味炒面	dm ww ic mm	14
-西湖桂花藕粉	xi hu gv hx ou ff	14
-喜洲破酥粑粑	xi vz po su ba ba	14
-苹果马提尼	pk go ma ti ni	14
-海南椰丝包	hd nj ye si bc	14
-龙抄手餐厅	ls ic uz cj tk	14
-肉骨茶煲鸡	rz gu ia bc ji	14
 峨眉糕	ee mw gc	14
 小米沙拉	xn mi ua la	14
 鸭黄豆腐	ya hl dz fu	14
@@ -5392,62 +4443,42 @@ sort: by_weight
 烟刀鱼	yj dc yu	14
 糖焖莲子	th mf lm zi	14
 午时粑	wu ui ba	14
-海参武昌鱼	hd uf wu ih yu	14
 干煸冬笋	gj bm ds sy	14
 广安烘糕	gl an hs gc	14
 羊血米线	yh xt mi xm	14
 熘蟹黄	lq xp hl	14
-上海炒年糕	uh hd ic nm gc	14
-家乡莲藕饼	jx xl lm ou bk	14
-柳林芝麻饼	lq lb vi ma bk	14
 凤眼秋波	fg yj qq bo	14
-糖醋软熘鲤鱼焙面	th cu rr lq li yu bw mm	14
 灵丘熏鸡	lk qq xy ji	14
 糖佛手	th fo uz	14
 池塘莲花	ii th lm hx	14
 虎山茶	hu uj ia	14
 翅子汤	ii zi th	14
 银杏蒸鸭	yb xk vg ya	14
-麻仁鹿肉串	ma rf lu rz ir	14
-竹叶抗氧化物	vu ye kh yh hx wu	14
 椰奶布丁	ye nd bu dk	14
 熘什件儿	lq ui jm er	14
-琥珀酸二钠	hu po sr er na	14
-吉祥顶呱呱	ji xl dk gx gx	14
 麻辣肉片	ma la rz pm	14
-牛王庙怪味面	nq wh mn gk ww mm	14
 光村沙虫	gl cy ua is	14
 普鲁兰酶	pu lu lj mw	14
 豇豆糕	jl dz gc	14
 柳州酸	lq vz sr	14
 板粟烧鸡	bj su uc ji	14
-老徐炒糕粿	lc xu ic gc go	14
-香菇瘦肉粥	xl gu uz rz vz	14
 什锦丁儿	ui jb dk er	14
 盒子酥	he zi su	14
 燕尾桃花	yj ww tc hx	14
 佛手海参	fo uz hd uf	14
-肉片焖扁豆	rz pm mf bm dz	14
 麦仔茶	md zd ia	14
 上海冷面	uh hd lg mm	14
-椰汁板兰糕	ye vi bj lj gc	14
-猪柳麦满分	vu lq md mj ff	14
 安铺鸡饭	an pu ji fj	14
 树叶饼	uu ye bk	14
 米汤油馓	mi th yz sj	14
 红豆土司	hs dz tu si	14
 扒栗子	ba li zi	14
-化核加应子	hx he jx yk zi	14
-菜香源川菜馆	cd xl yr ir cd gr	14
 蒸莲藕粉	vg lm ou ff	14
 青蛋糕	qk dj gc	14
-芝麻酱拌面	vi ma jl bj mm	14
 窝丝糖	wo si th	14
 油豆泡	yz dz pc	14
 圪饦汤	ge to th	14
 荷叶凤脯	he ye fg pu	14
-莫斯科红菜汤	mo si ke hs cd th	14
-西藏酥油茶	xi zh su yz ia	14
 什锦烩饭	ui jb hv fj	14
 清炖全鸡	qk dy qr ji	14
 甜盘子	tm pj zi	14
@@ -5455,52 +4486,34 @@ sort: by_weight
 虾米笋粿	xx mi sy go	14
 压韭茄子	ya jq qp zi	14
 熏斑鸠	xy bj jq	14
-益阳松花皮蛋	yi yh ss hx pi dj	14
-牛奶太妃冰淇淋	nq nd td fw bk qi lb	14
-乾县豆腐脑	qm xm dz fu nc	14
 玉蕊茶	yu rv ia	14
 跳水田鸡	tn uv tm ji	14
 葱花烙饼	cs hx lc bk	14
-珊瑚雪花鸡	uj hu xt hx ji	14
 柿霜软糖	ui ul rr th	14
 火腿鱼	ho tv yu	14
 芪蒸鹌鹑	qi vg an iy	14
 王桥豆腐	wh qn dz fu	14
 茴香粥	hv xl vz	14
-番茄松鼠鱼	fj qp ss uu yu	13
 糖熘饹儿	th lq le er	13
 腐皮肉卷	fu pi rz jr	13
-泰式咖哩螃蟹	td ui ka li ph xp	13
 木樨菜	mu xi cd	13
 乾果四品	qm go si pb	13
 油炸肺	yz va fw	13
 烹丁香	pg dk xl	13
 扒燕窝	ba yj wo	13
-奶香玉米饼	nd xl yu mi bk	13
 甜薯片	tm uu pm	13
-牛腩莲藕煲	nq nj lm ou bc	13
 蛋香牛堡	dj xl nq bc	13
-西施团圆饼	xi ui tr yr bk	13
-茄子晒炉肉	qp zi ud lu rz	13
 风味龙虱	fg ww ls ui	13
 果酱酥	go jl su	13
 六合牛脯	lq he nq pu	13
 琵琶鱼肚	pi pa yu du	13
 炸鹿尾儿	va lu ww er	13
 蜜饯银杏	mi jm yb xk	13
-巧克力爆米花	qn ke li bc mi hx	13
-火锅牛肉粉	ho go nq rz ff	13
-意式香浓菜汤	yi ui xl ns cd th	13
 塘栖板鸭	th qi bj ya	13
 菜头饼	cd tz bk	13
-李锦记排骨酱	li jb ji pd gu jl	13
 沙舟踏翠	ua vz ta cv	13
 扒鸡腿儿	ba ji tv er	13
-竹筒粉蒸肠	vu ts ff vg ih	13
-异戊酸乙酯	yi wu sr yi vi	13
 鸡沾口蘑	ji vj kz mo	13
-野鸭桃仁丁	ye ya tc rf dk	13
-泰式酸辣凤爪	td ui sr la fg vc	13
 咸金枣	xm jb zc	13
 豆瓣鲜鱼	dz bj xm yu	13
 姜汁鸭掌	jl vi ya vh	13
@@ -5512,8 +4525,6 @@ sort: by_weight
 罗村竹笋	lo cy vu sy	13
 八宝油糕	ba bc yz gc	13
 竹筒煮汤	vu ts vu th	13
-台湾古早味	td wj gu zc ww	13
-消暑冬瓜盅	xn uu ds gx vs	13
 新疆凉面	xb jl ll mm	13
 烹芽韭	pg ya jq	13
 大麻球	da ma qq	13
@@ -5521,13 +4532,9 @@ sort: by_weight
 珠兰大方	vu lj da fh	13
 什香菜	uf xl cd	13
 酸辣羹	sr la gg	13
-虾肉小笼包	xx rz xn ls bc	13
-平阴梨丸子	pk yb li wj zi	13
-老世泰糕点	lc ui td gc dm	13
 师友面	ui yz mm	13
 焦盖烧饼	jn gd uc bk	13
 香汁大虾	xl vi da xx	13
-西班牙海鲜烩饭	xi bj ya hd xm hv fj	13
 藕丝羹	ou si gg	13
 咸鱼片片	xm yu pm pm	13
 奇味酱	qi ww jl	13
@@ -5538,21 +4545,13 @@ sort: by_weight
 酿白兰瓜	nl bd lj gx	13
 摩登粑粑	mo dg ba ba	13
 烩脐肚	hv qi du	13
-双孢蘑菇罐头	ul bc mo gu gr tz	13
-清炒莴笋丝	qk ic wo sy si	13
 奶汤鸡脯	nd th ji pu	13
-鱼腥草煲猪肺	yu xk cc bc vu fw	13
-双味珍珠元子	ul ww vf vu yr zi	13
-少林八宝酥	uc lb ba bc su	13
 桂花香糕	gv hx xl gc	13
 烧肝尖儿	uc gj jm er	13
 拌稂子	bj lh zi	13
-鲜虾腐皮卷	xm xx fu pi jr	13
 牛百叶汤	nq bd ye th	13
-脂肪酸蔗糖酯	vi fh sr ve th vi	13
 煲仔鱼丸	bc zi yu wj	13
 沔城莲藕	mm ig lm ou	13
-山珍刺龙芽	uj vf ci ls ya	13
 扒三样儿	ba sj yh er	13
 炸紫盖儿	va zi gd er	13
 扒鸡块儿	ba ji kk er	13
@@ -5561,27 +4560,18 @@ sort: by_weight
 烧宝盖儿	uc bc gd er	13
 烧肥肠儿	uc fw ih er	13
 鹅黄肉	ee hl rz	13
-芡实百合芋头煲	qm ui bd he yu tz bc	13
-清真全羊席	qk vf qr yh xi	13
 酱萝卜头	jl lo bo tz	13
 原笼粉蒸	yr ls ff vg	13
 梅干月饼	mw gj yt bk	13
 大福果	da fu go	13
-汉中梆梆面	hj vs bh bh mm	13
 怡味莲	yi ww lm	13
 黑香槟	hw xl bb	13
-单辛酸甘油酯	dj xb sr gj yz vi	13
-清拌粉皮儿	qk bj ff pi er	13
 玫瑰锅炸	mw gv go va	13
 荞坨	qn to	13
-福字瓜烧里脊	fu zi gx uc li ji	13
-老槐树烧饼	lc hk uu uc bk	13
 烧连帖	uc lm tp	13
-莴苣鳝鱼片	wo ju uj yu pm	13
 熊猫品竹	xs mc pb vu	12
 烩腰丁儿	hv yc dk er	12
 踵鱼翅	vs yu ii	12
-红萝卜排骨汤	hs lo bo pd gu th	12
 蛋松果	dj ss go	12
 麻辣鹌鹑	ma la an iy	12
 熘鱼焙面	lq yu bw mm	12
@@ -5590,28 +4580,18 @@ sort: by_weight
 姜汁刀豆	jl vi dc dz	12
 李圪抓	li ge vx	12
 火踵鱼翅	ho vs yu ii	12
-天津火腿肠	tm jb ho tv ih	12
 什锦果冻	ui jb go ds	12
-柠檬起司蛋糕	nk mg qi si dj gc	12
 江米枣	jl mi zc	12
 炒子蟹	ic zi xp	12
-广式云吞面	gl ui yy ty mm	12
 萝卜板	lo bo bj	12
 金钱鱼肚	jb qm yu du	12
-干锅啤酒鸭	gj go pi jq ya	12
 莫基多	mo ji do	12
-通草鲫鱼汤	ts cc ji yu th	12
 杜梅酥	du mw su	12
 蜜枣核桃	mi zc he tc	12
 中华蜜酒	vs hx mi jq	12
 五丝洋粉	wu si yh ff	12
-李锦记豆瓣酱	li jb ji dz bj jl	12
-彩虹冰咖啡	cd hs bk ka fw	12
 海东雪梨	hd ds xt li	12
-开远小卷粉	kd yr xn jr ff	12
 子推蒸饼	zi tv vg bk	12
-义盛永熏鸡	yi ug ys xy ji	12
-鲜虾鸡蛋卷	xm xx ji dj jr	12
 乾县挂面	qm xm gx mm	12
 海白米	hd bd mi	12
 肉丝炒饼	rz si ic bk	12
@@ -5620,12 +4600,8 @@ sort: by_weight
 仙鹤鲍鱼	xm he bc yu	12
 核桃松糕	he tc ss gc	12
 炒荤素儿	ic hy su er	12
-雀巢冰咖啡	qt ic bk ka fw	12
-蟹粉豆腐羹	xp ff dz fu gg	12
 绿园居	lv yr ju	12
-恩济堂秋梨膏	en ji th qq li gc	12
 鹿大哈	lu da ha	12
-广东文昌鸡	gl ds wf ih ji	12
 果糖饮料	go th yb ln	12
 橘瓣鱼圆	ju bj yu yr	12
 黄鱼丝	hl yu si	12
@@ -5633,47 +4609,32 @@ sort: by_weight
 炸花件儿	va hx jm er	12
 芝麻肉丝	vi ma rz si	12
 辣鱼蛋	la yu dj	12
-果粒悬浮饮料	go li xr fu yb ln	12
 青制啤酒	qk vi pi jq	12
 果胶酯酶	go jn vi mw	12
 杨河春绿	yh he iy lv	12
 十二台菜	ui er td cd	12
 吴招治	wu vc vi	12
 烟鸭掌儿	yj ya vh er	12
-杨家吊沪饼	yh jx dn hu bk	12
 烩酸燕儿	hv sr yj er	12
-清宫御膳银丝杂面	qk gs yu uj yb si za mm	12
 密蒙黄	mi mg hl	12
-苏州酱汁肉	su vz jl vi rz	12
-猪油米花糖	vu yz mi hx th	12
 齐山毛尖	qi uj mc jm	12
-培根蔬菜卷	pw gf uu cd jr	12
 撒子麻花	sa zi ma hx	12
-糖水葡萄罐头	th uv pu tc gr tz	12
-抹茶红豆戚风	mo ia hs dz qi fg	12
 青椒玉米	qk jn yu mi	12
 红烧鹿筋	hs uc lu jb	12
-长城饽椤饼	ih ig bo lo bk	12
 拌皮渣儿	bj pi va er	12
 烩节子	hv jp zi	12
 清羔羊肉	qk gc yh rz	12
 黏糊肉	nm hu rz	12
 吞拿鱼卷	ty na yu jr	12
-东江东坡宴	ds jl ds po yj	12
 整肢龙虾	vg vi ls xx	12
-家乐番茄沙司	jx le fj qp ua si	12
 酱酥桃仁	jl su tc rf	12
-李大同双炊糕	li da ts ul iv gc	12
-雪花豆腐羹	xt hx dz fu gg	12
 酱瓜丝儿	jl gx si er	12
 海鲜匹萨	hd xm pi sa	12
-姜汁热味鸡	jl vi re ww ji	12
 家常炒面	jx ih ic mm	12
 雪山蛋糕	xt uj dj gc	12
 粉皮辣鱼	ff pi la yu	12
 仙源食品	xm yr ui pb	12
 水煮蹄花	uv vu ti hx	12
-冬虫夏草鸭	ds is xx cc ya	12
 五香甜沫	wu xl tm mo	12
 捶鸡	iv ji	12
 宝鸡茶酥	bc ji ia su	12
@@ -5683,11 +4644,7 @@ sort: by_weight
 荷包蟹肉	he bc xp rz	12
 沙式饼干	ua ui bk gj	12
 巨记	ju ji	12
-双色玫瑰鱼	ul se mw gv yu	12
-道口烧鸡罐头	dc kz uc ji gr tz	12
-轻身减肥茶	qk uf jm fw ia	12
 羊肉火烧	yh rz ho uc	12
-荔枝鱿鱼卷	li vi yz yu jr	12
 甑山银毫	zg uj yb hc	12
 八宝兔丁	ba bc tu dk	12
 炸烹儿	va pg er	12
@@ -5698,180 +4655,114 @@ sort: by_weight
 草菇烧笋	cc gu uc sy	12
 干锅泥鳅	gj go ni qq	12
 荷叶蒸鱼	he ye vg yu	12
-盛百威包装	ug bd ww bc vl	12
 拌蟹肉	bj xp rz	12
 火烧茨菰	ho uc ci gu	12
-粟米菜花汤	su mi cd hx th	12
 煎茄片	jm jx pm	12
 凤吞翅	fg ty ii	12
 牛排罐头	nq pd gr tz	12
 挞挞面	ta ta mm	12
 红烧下巴	hs uc xx ba	12
 乳扇饺	ru uj jn	11
-小麦草蛋挞	xn md cc dj ta	11
 山鸡丁儿	uj ji dk er	11
 汝城板鸭	ru ig bj ya	11
 铜仁社饭	ts rf ue fj	11
 香菇包子	xl gu bc zi	11
 蜜制蜂糕	mi vi fg gc	11
 苹果炖鱼	pk go dy yu	11
-硬脂酰乳酸钙	yk vi xm ru sr gd	11
-大鱼头豆腐汤	da yu tz dz fu th	11
-奶油花生米	nd yz hx ug mi	11
-蒲城椽头蒸馍	pu ig ir tz vg mo	11
 广饼	gl bk	11
-香菇西兰花	xl gu xi lj hx	11
 石狮甜果	ui ui tm go	11
 藏心鱼圆	ch xb yu yr	11
 红烧猴头	hs uc hz tz	11
 杨记糕点	yh ji gc dm	11
 双色糕	ul se gc	11
 飞龙脯	fw ls pu	11
-八宝葫芦鸡	ba bc hu lu ji	11
 珊瑚桂鱼	uj hu gv yu	11
-红烧咕噜肉	hs uc gu lu rz	11
 鸡什刀削	ji uf dc xn	11
-天目青顶茶	tm mu qk dk ia	11
-番茄牛肉羹	fj qp nq rz gg	11
 豇豆烧肉	jl dz uc rz	11
 铁板猪杂	tp bj vu za	11
 烤羊方	kc yh fh	11
 御菜四品	yu cd si pb	11
-海天特级草菇老抽	hd tm te ji cc gu lc iz	11
 厦门春饼	xx mf iy bk	11
 五丝菜卷	wu si cd jr	11
-加蟹小笼包	jx xp xn ls bc	11
 尖椒兔	jm jn tu	11
 黄县肉盒	hl xm rz he	11
 丹灶慈菇	dj zc ci gu	11
 翡翠鱼珠	fw cv yu vu	11
 糖麻圆	th ma yr	11
 煎酿茄子	jm nl qp zi	11
-花生鸡脚汤	hx ug ji jn th	11
-巧克力鸡尾酒	qn ke li ji ww jq	11
-烩三丝鱼翅	hv sj si yu ii	11
 姜汁仔鸡	jl vi zi ji	11
-南瓜干儿糕	nj gx gj er gc	11
 水果一品	uv go yi pb	11
 橄榄炖鸡	gj lj dy ji	11
 古劳银针	gu lc yb vf	11
 茄汁鱼卷	jx vi yu jr	11
 薯粉糕	uu ff gc	11
-天然果蔬饮料	tm rj go uu yb ln	11
 凤尾金鱼	fg ww jb yu	11
-厦门沙茶面	xx mf ua ia mm	11
 爆三脆	bc sj cv	11
 豆面汤圆	dz mm th yr	11
 如皋肉松	ru gc rz ss	11
-台湾盐酥鸡	td wj yj su ji	11
-矿泉水冷面	kl qr uv lg mm	11
-夜香冬瓜盅	ye xl ds gx vs	11
 香水梨干	xl uv li gj	11
 银丝圆	yb si yr	11
 御扇豆黄	yu uj dz hl	11
-凤梨烩排骨	fg li hv pd gu	11
-糯米大枣粥	no mi da zc vz	11
 红烧全狗	hs uc qr gz	11
 鸭丝掐菜	ya si qx cd	11
-黑豆鲤鱼汤	hw dz li yu th	11
 芡实果	qm ui go	11
 激情海岸	ji qk hd an	11
-王家核桃饼	wh jx he tc bk	11
-五香酱驴肉	wu xl jl lv rz	11
 火爆双脆	ho bc ul cv	11
 黄醪糟	hl lc zc	11
-什锦田鸡油	ui jb tm ji yz	11
 杏仁塔	xk rf ta	11
-香辣霸王肘	xl la ba wh vz	11
 金银枣	jb yb zc	11
-虾皮豆腐汤	xx pi dz fu th	11
 毫糯索	hc no so	11
 丰年果糖	fg nm go th	11
-羊肉炒面片	yh rz ic mm pm	11
 炸软巾	va rr jb	11
 凤尾烧麦	fg ww uc md	11
 豆瓣海参	dz bj hd uf	11
 红杞蒸鸡	hs qi vg ji	11
-鲜菇虾丸汤	xm gu xx wj th	11
 膳粥一品	uj vz yi pb	11
 龙舟镢鱼	ls vz jt yu	11
 造洋饭书	zc yh fj uu	11
 云腿罐头	yy tv gr tz	11
-水晶银菊糕	uv jk yb ju gc	11
 白虾干	bd xx gj	11
 三清碧兰	sj qk bi lj	11
-翡翠水晶龙珠饺	fw cv uv jk ls vu jn	11
 应州牛腰	yk vz nq yc	11
-草石蚕田鸡汤	cc ui cj tm ji th	11
-山药桂圆炖甲鱼	uj yc gv yr dy jx yu	11
 酸枣露	sr zc lu	11
-莲蓉芝麻球	lm rs vi ma qq	11
-硝酸硫胺素	xn sr lq an su	11
 丽人献茗	li rf xm mk	11
 河州大饼	he vz da bk	11
 蚝油仔鸡	hc yz zi ji	11
-清蒸福寿鱼	qk vg fu uz yu	11
 炊石榴鸡	iv ui lq ji	11
-大理石芝士蛋糕	da li ui vi ui dj gc	11
-海派罗宋汤	hd pd lo ss th	11
-陇县马蹄酥	ls xm ma ti su	11
 绍子烘蛋	uc zi hs dj	11
-黑糯米八宝饭	hw no mi ba bc fj	11
-苔菜千层酥	td cd qm cg su	11
 活钻鲤鱼	ho zr li yu	11
 炸南瓜条	va nj gx tn	11
 烧槟子	uc bb zi	11
 爆竹鸡	bc vu ji	11
-南荠草莓饼	nj ji cc mw bk	11
 温泉菜	wf qr cd	11
-香滑鲈鱼球	xl hx lu yu qq	11
 小林煎饼	xn lb jm bk	11
 鬼马牛肉	gv ma nq rz	11
 玉掌献寿	yu vh xm uz	11
-红豆鲤鱼汤	hs dz li yu th	11
 油煎馄饨	yz jm hy ty	11
-川贝炖鹧鸪	ir bw dy ve gu	11
 前菜五品	qm cd wu pb	11
 鼠尾草粉	uu ww cc ff	11
 油爆鲜贝	yz bc xm bw	11
 托板豆腐	to bj dz fu	11
 荠菜鱼卷	ji cd yu jr	11
 翠亨邨	cv hg cy	11
-株洲什锦菜	vu vz ui jb cd	11
-松花淡菜粥	ss hx dj cd vz	11
 油浸鸡	yz jb ji	11
-金钱洋芋饼	jb qm yh yu bk	11
-司陶特啤酒	si tc te pi jq	11
-雪梨炖燕窝	xt li dy yj wo	10
 凤尾腰花	fg ww yc hx	10
-仲景羊肉汤	vs jk yh rz th	10
-猪肚黄芪汤	vu du hl qi th	10
 河曲酸粥	he qu sr vz	10
 黄狮茶	hl ui ia	10
 合阳页面	he yh ye mm	10
 干烧鸡翅	gj uc ji ii	10
 冷冻牛肝	lg ds nq gj	10
-肉末烧茄子	rz mo uc qp zi	10
-桂花大头菜	gv hx da tz cd	10
 旋子锅魁	xr zi go kv	10
 酸奶果冻	sr nd go ds	10
-巧克力冰糕	qn ke li bk gc	10
 麦糊烧	md hu uc	10
 荞面合络	qn mm he lo	10
 油浸腌肉	yz jb yj rz	10
-新奥尔良腌制料	xb ao er ll yj vi ln	10
 太白庄园	td bd vl yr	10
 兢山泉	jk uj qr	10
 爆鱼丁	bc yu dk	10
 五香仔鸽	wu xl zd ge	10
-蚝油西兰花	hc yz xi lj hx	10
-空心鱼丸汤	ks xb yu wj th	10
 参蒸鳝段	cj vg uj dr	10
-苏稽米花糖	su ji mi hx th	10
-玫瑰豆沙月饼	mw gv dz ua yt bk	10
-午餐三明治	wu cj sj mk vi	10
 芦笋鸡块	lu sy ji kk	10
-汤岗子矿泉水	th gh zi kl qr uv	10
 无锡肉排	wu xi rz pd	10
 腰果虾球	yc go xx qq	10
 天湖凤片	tm hu fg pm	10
@@ -5882,14 +4773,8 @@ sort: by_weight
 茄团	jx tr	10
 橄榄沙拉	gj lj ua la	10
 番茄腰柳	fj qp yc lq	10
-春风减肥茶	iy fg jm fw ia	10
-鸡汁油豆腐	ji vi yz dz fu	10
-培根芦笋卷	pw gf lu sy jr	10
-陈醋焖咸蛋	if cu mf xm dj	10
 超山梅子	ic uj mw zi	10
-火腿大白饼	ho tv da bd bk	10
 六安酱鸭	lu an jl ya	10
-回记绿豆糕	hv ji lv dz gc	10
 片烤方肉	pm kc fh rz	10
 金针豆腐	jb vf dz fu	10
 茶食刀切	ia ui dc qp	10
@@ -5898,15 +4783,10 @@ sort: by_weight
 桃仁鸭方	tc rf ya fh	10
 菊花酥饼	ju hx su bk	10
 干煸茭白	gj bm jn bd	10
-硫代二丙酸二月桂	lq dd er bk sr er yt gv	10
-采芝斋糖果	cd vi vd th go	10
 小葱饼	xn cs bk	10
-双糯玫瑰糕	ul no mw gv gc	10
 酿冬瓜圈	nl ds gx qr	10
 咸菜鸭	xm cd ya	10
 冬瓜饼	ds gx bk	10
-草莓千层派	cc mw qm cg pd	10
-海米拌黄瓜	hd mi bj hl gx	10
 蘑菇沙司	mo gu ua si	10
 捶肉丸	iv rz wj	10
 肉酱茄子	rz jl qp zi	10
@@ -5916,37 +4796,26 @@ sort: by_weight
 北京辣菜	bw jk la cd	10
 千层肉饼	qm cg rz bk	10
 蟹黄海参	xp hl hd uf	10
-鲜柠脆虾球	xm nk cv xx qq	10
 蜜饯菠萝	mi jm bo lo	10
 槭风蛋糕	qi fg dj gc	10
-锅魁夹卤肉	go kv jx lu rz	10
-日式炸猪排	ri ui va vu pd	10
-双林姑嫂饼	ul lb gu sc bk	10
 松子鱼米	ss zi yu mi	10
-莼菜黄鱼羹	iy cd hl yu gg	10
 麻辣口条	ma la kz tn	10
-南国恋曲冰咖啡	nj go lm qu bk ka fw	10
 锅塌蒲菜	go ta pu cd	10
 芙蓉大虾	fu rs da xx	10
 竹宴天下	vu yj tm xx	10
 潮州薄饼	ic vz bc bk	10
 什锦暖锅	ui jb nr go	10
 湖州肉粽	hu vz rz zs	10
-邢黄牛腐干	xk hl nq fu gj	10
 白象香糕	bd xl xl gc	10
 竟成园	jk ig yr	10
-宁强王家核桃饼	nk ql wh jx he tc bk	10
 文山鸡丁	wf uj ji dk	10
 天水凉粉	tm uv ll ff	10
 莲子鸡丁	lm zi ji dk	10
-冬笋里脊丝	ds sy li ji si	10
-梁英记裹蒸粽	ll yk ji go vg zs	10
 香菇醉鸡	xl gu zv ji	10
 玉笋蕨菜	yu sy jt cd	10
 回锅鱼片	hv go yu pm	10
 营养藕粉	yk yh ou ff	10
 京酱风肉	jk jl fg rz	10
-万字麻辣肚丝	wj zi ma la du si	10
 蜜饯桂圆	mi jm gv yr	10
 烧烤二品	uc kc er pb	10
 扣肉梅菜	kz rz mw cd	10
@@ -5954,7 +4823,6 @@ sort: by_weight
 粉蒸鳜鱼	ff vg gv yu	10
 香芹片	xl qb pm	10
 茄汁鸡肉	jx vi ji rz	10
-白灼响螺片	bd vo xl lo pm	10
 糖醋荷藕	th cu he ou	10
 抹茶浮雪	mo ia fu xt	10
 炒肉团	ic rz tr	10
@@ -5964,46 +4832,28 @@ sort: by_weight
 广式蜜饯	gl ui mi jm	10
 葱烤大排	cs kc da pd	10
 清流笋干	qk lq sy gj	10
-杞子南枣煲鸡蛋	qi zi nj zc bc ji dj	10
-洋县枣糕馍	yh xm zc gc mo	10
 山西腐乳	uj xi fu ru	10
 劲霸汤皇	jb ba th hl	10
-维族烤羊肉	ww zu kc yh rz	10
 上海炒饭	uh hd ic fj	10
 雪绵豆沙	xt mm dz ua	10
 清炸鹌鹑	qk va an iy	10
-白糖莲心粥	bd th lm xb vz	10
 碳烧啤酒	tj uc pi jq	10
 好丝百叶	hc si bd ye	10
 椒盐锅魁	jn yj go kv	10
 瑶族粑粑	yc zu ba ba	10
-砂锅煨鹿筋	ua go ww lu jb	10
 熘蟹肉	lq xp rz	10
-油旋子锅魁	yz xr zi go kv	10
-咸蛋节瓜鱼尾汤	xm dj jp gx yu ww th	10
 肉末烧茄	rz mo uc jx	10
 安阳三熏	an yh sj xy	10
 火腿土司	ho tv tu si	10
 上海锅贴	uh hd go tp	9
-干锅黄骨鱼	gj go hl gu yu	9
 豆黄糕	dz hl gc	9
 楠溪麦饼	nj xi md bk	9
-紫米四喜汤圆	zi mi si xi th yr	9
-喜年来食品	xi nm ld ui pb	9
-原味双皮奶	yr ww ul pi nd	9
-硫代二丙酸二月桂酯	lq dd er bk sr er yt gv vi	9
 雪花鸡淖	xt hx ji nc	9
-江口豆腐干	jl kz dz fu gj	9
 红油鸭子	hs yz ya zi	9
 泥风鸡	ni fg ji	9
 三色蛋糕	sj se dj gc	9
-朱古力慕丝	vu gu li mu si	9
-通海豆末糖	ts hd dz mo th	9
 素炒腐球	su ic fu qq	9
-青蒜炒腊肉	qk sr ic la rz	9
-日本豆腐煲	ri bf dz fu bc	9
 红烧赤贝	hs uc ii bw	9
-番茄黄骨鱼汤	fj qp hl gu yu th	9
 金丝海蟹	jb si hd xp	9
 三丝鱿鱼	sj si yz yu	9
 冰花雪莲	bk hx xt lm	9
@@ -6011,22 +4861,15 @@ sort: by_weight
 红袍莲子	hs pc lm zi	9
 油焖竹笋	yz mf vu sy	9
 清炒笋尖	qk ic sy jm	9
-洪字鸡丝黄瓜	hs zi ji si hl gx	9
-百合糯米粥	bd he no mi vz	9
 蛤蜊鲫鱼	ge li ji yu	9
-周村酥烧饼	vz cy su uc bk	9
 炸晃虾	va hl xx	9
 云南回饼	yy nj hv bk	9
 攒盒一品	cr he yi pb	9
 炒四宝	ic si bc	9
 剔尖儿	ti jm er	9
-枸杞小米粥	gz qi xn mi vz	9
 高丽豆沙	gc li dz ua	9
 炸蛋包	va dj bc	9
-泰安三美豆腐	td an sj mw dz fu	9
 四川板鸭	si ir bj ya	9
-椒盐八宝鸡	jn yj ba bc ji	9
-卡拉什尼科夫伏特加	ka la uf ni ke fu fu te jx	9
 宫廷排翅	gs tk pd ii	9
 马虎面	ma hu mm	9
 欧查果	ou ia go	9
@@ -6034,90 +4877,56 @@ sort: by_weight
 珊瑚金钩	uj hu jb gz	9
 牡丹虾仁	mu dj xx rf	9
 犀浦酱油	xi pu jl yz	9
-湘江鱼头王	xl jl yu tz wh	9
 重酥烧饼	vs su uc bk	9
-羟基香茅醛	ql ji xl mc qr	9
 陈皮兔肉	if pi tu rz	9
-对羟基苯甲酸甲酯钠	dv ql ji bf jx sr jx vi na	9
 荷叶膳粥	he ye uj vz	9
 百侯薄饼	bd hz bc bk	9
 酸菜煮鱼	sr cd vu yu	9
 溜黄菜	lq hl cd	9
 串炸鲜贝	ir va xm bw	9
-什锦豆腐汤	ui jb dz fu th	9
-煎扒鲭鱼头尾	jm ba qk yu tz ww	9
 酿倭瓜	nl wo gx	9
 五柳鱼丝	wu lq yu si	9
 壶冲油茶	hu is yz ia	9
 龙凤鲜汤	ls fg xm th	9
 鱼匹子	yu pi zi	9
-野山椒牛肉丝	ye uj jn nq rz si	9
 鸭肾汤	ya uf th	9
-年字口蘑发菜	nm zi kz mo fa cd	9
 武城旋饼	wu ig xr bk	9
 金钱香菇	jb qm xl gu	9
-韩国人参鸡	hj go rf uf ji	9
 莲蓉酥饼	lm rs su bk	9
-雪菜笋丝汤	xt cd sy si th	9
-八仙瑶池聚会	ba xm yc ii ju hv	9
-姜太公柿饼	jl td gs ui bk	9
-农家白切鸡	ns jx bd qp ji	9
 砸棕	za zs	9
 叉烧猪肉	ia uc vu rz	9
-教场门饸饹	jn ih mf he le	9
-彩椒炒香肠	cd jn ic xl ih	9
 甜丸卵	tm wj lr	9
-生牛肉河粉	ug nq rz he ff	9
-主席红烧肉	vu xi hs uc rz	9
 芜爆里脊	wu bc li ji	9
 福建年糕	fu jm nm gc	9
 香蕉软糖	xl jn rr th	9
 芪烧活鱼	qi uc ho yu	9
 梧州豆浆	wu vz dz jl	9
 虫草鸭舌	is cc ya ue	9
-奶汤火腿大鱼头	nd th ho tv da yu tz	9
 氽毛豆	ty mc dz	9
-清炖武山鸡	qk dy wu uj ji	9
-南瓜鲜虾沙拉	nj gx xm xx ua la	9
 飘仙一号	pn xm yi hc	9
-降脂益寿茶	jl vi yi uz ia	9
 哈特啤酒	ha te pi jq	9
 海带炖鸭	hd dd dy ya	9
 怪味鸡条	gk ww ji tn	9
 百花鸭舌	bd hx ya ue	9
-辣味红酒烤羊排	la ww hs jq kc yh pd	9
-地中海沙拉	di vs hd ua la	9
 辣豆瓣鱼	la dz bj yu	9
-猴头菇炖竹丝鸡	hz tz gu dy vu si ji	9
 红松鳜鱼	hs ss gv yu	9
 鄣公山茶	vh gs uj ia	9
 糖醋鱼条	th cu yu tn	9
 蓝莓慕丝	lj mw mu si	9
 豆瓣肘子	dz bj vz zi	9
-香辣黄瓜条	xl la hl gx tn	9
 翡翠银耳	fw cv yb er	9
 珍珠鲤鱼	vf vu li yu	9
 蜜饯李子	mi jm li zi	9
 胡椒博士	hu jn bo ui	9
-临朐全羊宴	lb qu qr yh yj	9
 潮汕蚝烙	ic uj hc lc	9
-椒盐海豹蛇	jn yj hd bc ue	9
-红梅牌脆松糖	hs mw pd cv ss th	9
 扒擦	ba ca	9
-李锦记桂林辣椒酱	li jb ji gv lb la jn jl	9
 多味煎饼	do ww jm bk	9
 奶白杏仁	nd bd xk rf	9
-南瓜咕老虾	nj gx gu lc xx	9
 花菇鸭掌	hx gu ya vh	9
 香炸云雾	xl va yy wu	9
 白汁鲳鱼	bd vi ih yu	9
-人参枸杞酒	rf uf gz qi jq	9
 白汁全鱼	bd vi qr yu	9
-曲阜熏豆腐	qu fu xy dz fu	9
-九记路边鸡	jq ji lu bm ji	9
-酥皮奶油蛤蜊汤	su pi nd yz ge li th	9
 玫瑰杨梅	mw gv yh mw	9
-草莓优酪乳	cc mw yz lc ru	9
 鸡血面	ji xt mm	9
 蚝油蘑菇	hc yz mo gu	9
 炒芙蓉蟹	ic fu rs xp	9
@@ -6130,72 +4939,43 @@ sort: by_weight
 黄米切糕	hl mi qp gc	9
 冲糯米粉	is no mi ff	9
 丁香鸭	dk xl ya	9
-陡门头灯盏糕	dz mf tz dg vj gc	9
 酱核桃	jl he tc	9
 草香园	cc xl yr	9
-黑菌蘑菇汤	hw jy mo gu th	9
 信阳板鸭	xb yh bj ya	9
-芙蓉百花鲍	fu rs bd hx bc	9
 湘莲罐头	xl lm gr tz	9
-凉拌红萝卜	ll bj hs lo bo	9
 葱辣鱼	cs la yu	9
-冰激凌水果沙拉	bk ji lk uv go ua la	9
-伍佑糖麻花	wu yz th ma hx	9
 椒盐蹄膀	jn yj ti bh	9
-雪里红肉沫	xt li hs rz mo	8
 松峰绿茶	ss fg lv ia	8
 麻辣凤爪	ma la fg vc	8
 鸳鸯酥盒	yr yh su he	8
 糖醋鸡块	th cu ji kk	8
 姜丝肉蟹	jl si rz xp	8
-烤花揽桂鱼	kc hx lj gv yu	8
 葱油黄鱼	cs yz hl yu	8
 怪味腰果	gk ww yc go	8
-四川风味土豆烧排骨	si ir fg ww tu dz uc pd gu	8
-猪油百果松糕	vu yz bd go ss gc	8
-奶白鲫鱼汤	nd bd ji yu th	8
 白扒广肚	bd ba gl du	8
 白汁鳜鱼	bd vi gv yu	8
-牛尾汤罐头	nq ww th gr tz	8
-甜香玉米杯	tm xl yu mi bw	8
-鹿鞭壮阳汤	lu bm vl yh th	8
-巧手烧雁鸢	qn uz uc yj yr	8
-洪山桥光饼	hs uj qn gl bk	8
 三鲜茄子	sj xm qp zi	8
-虎掌金丝面	hu vh jb si mm	8
-泰式榴莲酥	td ui lq lm su	8
 一掌雪	yi vh xt	8
 红烧猪肚	hs uc vu du	8
 滑溜鹌鹑	hx lq an iy	8
 去皮酥	qu pi su	8
 马记茶汤	ma ji ia th	8
-吉安薄酥饼	ji an bc su bk	8
 龟山茶	gv uj ia	8
 馋酥	ij su	8
 凉拌牛肚	ll bj nq du	8
 烤扁担肉	kc bm dj rz	8
 深渡包袱	uf du bc fu	8
 围炉火锅	ww lu ho go	8
-冬瓜虾皮汤	ds gx xx pi th	8
 爆乌花	bc wu hx	8
 龙须燕丸	ls xu yj wj	8
 米冻糕	mi ds gc	8
 面薄汤	mm bc th	8
-宣堡小馄饨	xr bc xn hy ty	8
-咖啡蛋糕卷	ka fw dj gc jr	8
-百合熘鸡片	bd he lq ji pm	8
 蟹柳沙拉	xp lq ua la	8
 新竹肉圆	xb vu rz yr	8
-詹王瑶柱汁	vj wh yc vu vi	8
 羊肉笼笼	yh rz ls ls	8
 三彩大虾	sj cd da xx	8
 尝酥饼	ih su bk	8
 玉板蟹	yu bj xp	8
-蛋黄千层糕	dj hl qm cg gc	8
-小脑壳烧烤	xn nc ke uc kc	8
-南海里水冬瓜	nj hd li uv ds gx	8
-冰泉滴珠豆浆	bk qr di vu dz jl	8
-腊肉炒菜苔	la rz ic cd td	8
 密汁南瓜	mi vi nj gx	8
 鼠曲果	uu qu go	8
 蜜枣羊肉	mi zc yh rz	8
@@ -6203,17 +4983,14 @@ sort: by_weight
 都督烧麦	du du uc md	8
 凤凰趴窝	fg hl pa wo	8
 糜子粉	mw zi ff	8
-豆腐大菜糕	dz fu da cd gc	8
 上海春卷	uh hd iy jr	8
 茶叶熏鸡	ia ye xy ji	8
 白扒鱼唇	bd ba yu iy	8
 干酱肉	gj jl rz	8
 建郡扁肉	jm jy bm rz	8
-豆角炒肉片	dz jn ic rz pm	8
 粢毛团	zi mc tr	8
 临晋玉瓜	lb jb yu gx	8
 梅花香芋	mw hx xl yu	8
-奇峰阁酒家	qi fg ge jq jx	8
 清蒸山药	qk vg uj yc	8
 水煮鲢鱼	uv vu lm yu	8
 红丝菜	hs si cd	8
@@ -6224,190 +5001,110 @@ sort: by_weight
 酱爆青蟹	jl bc qk xp	8
 带鱼罐头	dd yu gr tz	8
 鲜豆苗	xm dz mn	8
-鲜肉猫耳朵	xm rz mc er do	8
 浮油鸡片	fu yz ji pm	8
-山珍刺五加	uj vf ci wu jx	8
 果瓣子	go bj zi	8
-果酱巧克力	go jl qn ke li	8
-鸡蛋米浆粑粑	ji dj mi jl ba ba	8
-雪花龙须面	xt hx ls xu mm	8
 洋芋檫檫	yh yu ia ia	8
-胡萝卜排骨汤	hu lo bo pd gu th	8
-奶油曲奇饼	nd yz qu qi bk	8
 父子同欢	fu zi ts hr	8
 芋味三绝	yu ww sj jt	8
-白俄罗斯鸡尾酒	bd ee lo si ji ww jq	8
 罗汉鸭	lo hj ya	8
 荞面煎饼	qn mm jm bk	8
-蟹黄灌汤饺	xp hl gr th jn	8
 酥小鲫鱼	su xn ji yu	8
-折耳根炒肉丝	ve er gf ic rz si	8
-肉酿生麸圆	rz nl ug fu yr	8
 拆冻鲫鱼	id ds ji yu	8
 氽节子	ty jp zi	8
 桃醛	tc qr	8
-火爆荔枝腰	ho bc li vi yc	8
-李锦记柱侯酱	li jb ji vu hz jl	8
-萝卜连锅汤	lo bo lm go th	8
 龙井金鱼	ls jk jb yu	8
 肉丝粉皮	rz si ff pi	8
 鸭掌包	ya vh bc	8
 湖彩蛋	hu cd dj	8
-乌狼鲞烤肉	wu lh xl kc rz	8
 蚝油鸭掌	hc yz ya vh	8
 葱花煎蛋	cs hx jm dj	8
-奶香海苔吐司	nd xl hd td tu si	8
 湘城麻饼	xl ig ma bk	8
-草莓夹心面包	cc mw jx xb mm bc	8
-茄汁鱼罐头	jx vi yu gr tz	8
 干锅鸡翅	gj go ji ii	8
 蚕蛹罐头	cj ys gr tz	8
 榨广椒	va gl jn	8
-恩发德蒸饺	en fa de vg jn	8
 祖庵鱼翅	zu an yu ii	8
-胡萝卜餐包	hu lo bo cj bc	8
-阳城肉罐肉	yh ig rz gr rz	8
 金德啤酒	jb de pi jq	8
 茄汁猪排	jx vi vu pd	8
 醋椒桂鱼	cu jn gv yu	8
-养生吐司春卷	yh ug tu si iy jr	8
-聊城铁公鸡	ln ig tp gs ji	8
-肉丝两面黄	rz si ll mm hl	8
-芝麻杏仁糊	vi ma xk rf hu	8
 寿阳头脑	uz yh tz nc	8
 猴银鱼	hz yb yu	8
 高密蜜枣	gc mi mi zc	8
 刺菱角	ci lk jn	8
-富平太后饼	fu pk td hz bk	8
 炖人参汤	dy rf uf th	8
 果仁排骨	go rf pd gu	8
 大山合牌	da uj he pd	8
 水晶橘子	uv jk ju zi	8
-龙川矿泉水	ls ir kl qr uv	8
 卤汁豆干	lu vi dz gj	8
-芋儿鸡火锅	yu er ji ho go	8
 琉璃藕	lq li ou	8
 盐水里脊	yj uv li ji	8
-平都牛肉松	pk dz nq rz ss	8
 酒醋汁	jq cu vi	8
-云娜水果捞	yy na uv go lc	8
-茶树菇烧鸡	ia uu gu uc ji	8
 玉兔白菜	yu tu bd cd	8
-冰焦糖玛奇朵	bk jn th ma qi do	8
-巴拉塔树胶	ba la ta uu jn	8
-糖水杏罐头	th uv xk gr tz	8
 蒜蓉白菜	sr rs bd cd	8
 荷花鱼翅	he hx yu ii	8
 金糕卷	jb gc jr	8
 生烤狍肉	ug kc pc rz	8
-茶叶鲫鱼汤	ia ye ji yu th	8
 炸鸡肉串	va ji rz ir	8
-鸡汤三鲜馄饨	ji th sj xm hy ty	7
 铭雄明	mk xs mk	7
-嘉义的鸡肉饭	jx yi de ji rz fj	7
-三色糯米饭	sj se no mi fj	7
 清汤泡糕	qk th pc gc	7
 泡椒猪肝	pc jn vu gj	7
 莜面饸饹	yz mm he le	7
-春笋炒步鱼	iy sy ic bu yu	7
 樟茶鸡	vh ia ji	7
 福寿临门	fu uz lb mf	7
 干煸鳝背	gj bm uj bw	7
 薄玉茶	bc yu ia	7
-箩粉鱼头豆腐汤	lo ff yu tz dz fu th	7
-龙眼洋参饮	ls yj yh cj yb	7
-宝矿力饮料	bc kl li yb ln	7
 燕禾金	yj he jb	7
 普宁面线	pu nk mm xm	7
 葱炖猪蹄	cs dy vu ti	7
-魔芋锅巴炒肉丝	mo yu go ba ic rz si	7
 好味鸡	hc ww ji	7
 白宫城	bd gs ig	7
 羊杂汤锅	yh za th go	7
-泰式青木瓜沙拉	td ui qk mu gx ua la	7
-孔府一品锅	ks fu yi pb go	7
 杜本内	du bf nw	7
-宁海望海茶	nk hd wh hd ia	7
-南瓜炒虾米	nj gx ic xx mi	7
 白豆沙拉	bd dz ua la	7
 干煎黄鱼	gj jm hl yu	7
-兔肉炖鸡脚	tu rz dy ji jn	7
 云腿奶糖	yy tv nd th	7
 麻城肉糕	ma ig rz gc	7
-泰式凉拌海鲜	td ui ll bj hd xm	7
 黑麻酥	hw ma su	7
-丁酸异戊酯	dk sr yi wu vi	7
-鲑鱼奶油冻	gv yu nd yz ds	7
-蛋形巧克力	dj xk qn ke li	7
 爆炒鳝片	bc ic uj pm	7
 蝴蝶暇卷	hu dp xx jr	7
-狗不理饭庄	gz bu li fj vl	7
-杏仁海绵蛋糕	xk rf hd mm dj gc	7
-重庆口水鸡	is qk kz uv ji	7
 玉带酥	yu dd su	7
 金柑饼	jb gj bk	7
 红豆膳粥	hs dz uj vz	7
 蜜饯金枣	mi jm jb zc	7
-糖醋小萝卜	th cu xn lo bo	7
 牛展汤	nq vj th	7
-富贵黄金卷	fu gv hl jb jr	7
-泰式酸辣虾汤	td ui sr la xx th	7
 辽阳塔糖	ln yh ta th	7
 氽肥肠儿	ty fw ih er	7
 清炖兔子	qk dy tu zi	7
 糖醋面筋	th cu mm jb	7
 蓝莓果泥	lj mw go ni	7
-水果夹心蛋糕	uv go jx xb dj gc	7
 藏族酸奶	zh zu sr nd	7
 炝黄瓜条	ql hl gx tn	7
 可可壳色	ke ke ke se	7
 天津馄饨	tm jb hy ty	7
 好胃到	hc ww dc	7
-炒麦穗花鱿	ic md sv hx yz	7
 豆芽咸菜	dz ya xm cd	7
 奶白枣宝	nd bd zc bc	7
 乙萘酚	yi nd ff	7
 丁香姜糖	dk xl jl th	7
 成都蛋汤	ig du dj th	7
-那不勒斯咖啡	na bu le si ka fw	7
-大白菜水饺	da bd cd uv jn	7
 四喜鸭子	si xi ya zi	7
-米酒茶香鸭	mi jq ia xl ya	7
 迪凯堡	di kd bc	7
 甜酸乳瓜	tm sr ru gx	7
-煎紫米藕夹	jm zi mi ou jx	7
 双酥月饼	ul su yt bk	7
-附片归杞炖羊肉	fu pm gv qi dy yh rz	7
-天目烘青豆	tm mu hs qk dz	7
-曲奇香奶冰淇淋	qu qi xl nd bk qi lb	7
-香煎南瓜饼	xl jm nj gx bk	7
-火腿炒茄瓜	ho tv ic jx gx	7
-酸菜小豆汤	sr cd xn dz th	7
 可得然胶	ke de rj jn	7
-香芋油鸭煲	xl yu yz ya bc	7
-辣炒鱿鱼丝	la ic yz yu si	7
 苏州酱鸭	su vz jl ya	7
 红烧卷鸡	hs uc jr ji	7
 豫章酥鸭	yu vh su ya	7
-连城番薯干	lm ig fj uu gj	7
 代县麻片	dd xm ma pm	7
 雅诗轩	ya ui xr	7
 石家鱼丸	ui jx yu wj	7
 软烧豆腐	rr uc dz fu	7
-春笋白拌鸡	iy sy bd bj ji	7
 小鸡酥	xn ji su	7
 银杏芋泥	yb xk yu ni	7
-扶风鹿糕馍	fu fg lu gc mo	7
-酥炸禾花雀	su va he hx qt	7
 红肉煮馍	hs rz vu mo	7
-干炒牛肉丝	gj ic nq rz si	7
 蒜香鲶鱼	sr xl nm yu	7
-南宋定胜糕	nj ss dk ug gc	7
 硅铝酸钙	gv lv sr gd	7
 百花大虾	bd hx da xx	7
 鱼香苦瓜	yu xl ku gx	7
-台式卤肉酥	td ui lu rz su	7
-泰式咖哩鸡	td ui ka li ji	7
 东璧龙珠	ds bi ls vu	7
 天津锅巴	tm jb go ba	7
 鼎丰白醋	dk fg bd cu	7
@@ -6416,116 +5113,73 @@ sort: by_weight
 高力豆沙	gc li dz ua	7
 红颜汤	hs yj th	7
 大蒜鲶鱼	da sr nm yu	7
-蟾蜍水蛇粥	ij iu uv ue vz	7
-乐昌白毛茶	le ih bd mc ia	7
-柠檬乳酪饼	nk mg ru lc bk	7
 凤翔豆花	fg xl dz hx	7
 锅塌黄鱼	go ta hl yu	7
 姜丝拌汤	jl si bj th	7
 豆浆挂面	dz jl gx mm	7
 麻辣烤肉	ma la kc rz	7
-鸳鸯火锅底	yr yh ho go di	7
-双色马蹄糕	ul se ma ti gc	7
 绿茶慕斯	lv ia mu si	7
-海米白菜汤	hd mi bd cd th	7
 干菜饺	gj cd jn	7
 鲜果银耳	xm go yb er	7
 油爆肚尖	yz bc du jm	7
 五味白肉	wu ww bd rz	7
 口福鸡	kz fu ji	7
 八宝百合	ba bc bd he	7
-迎宾楼菜馆	yk bb lz cd gr	7
 益力宝	yi li bc	7
-青菜肉丸汤	qk cd rz wj th	7
 野无花果	ye wu hx go	7
-桃仁山鸡丁	tc rf uj ji dk	7
 家乐鲜露	jx le xm lu	7
 宝玉鱼唇	bc yu yu iy	7
-什锦人参果	ui jb rf uf go	7
 壶壶油茶	hu hu yz ia	7
-金枪鱼面包	jb ql yu mm bc	7
-咸味奶油糖	xm ww nd yz th	7
 雪里藏珍	xt li ch vf	7
 醋溜藕片	cu lq ou pm	7
 鲜柚子汁	xm yz zi vi	7
-曲沃腊牛肉	qu wo la nq rz	7
 柿子糊塌	ui zi hu ta	7
 面包环	mm bc hr	7
 鲜奶蘑菇	xm nd mo gu	7
 辣白菜卷	la bd cd jr	7
-竹笋香菇汤	vu sy xl gu th	7
 麦打滚	md da gy	7
 牛舌头饼	nq ue tz bk	7
 超益	ic yi	7
-天府花生酥糖	tm fu hx ug su th	7
 米果食	mi go ui	7
 柠檬沙冰	nk mg ua bk	7
 辣子牛肉	la zi nq rz	7
-冰糖蒸鸡胆	bk th vg ji dj	7
 杨梅糕	yh mw gc	7
-玫瑰猪油大方糕	mw gv vu yz da fh gc	7
-焦糖咖啡星冰乐	jn th ka fw xk bk le	7
 奶层糕	nd cg gc	7
 酥皮麻饼	su pi ma bk	7
-延寿堂药糕	yj uz th yc gc	7
 五香麻糕	wu xl ma gc	7
-松香季戊四醇酯	ss xl ji wu si iy vi	7
-上海蟹壳黄	uh hd xp ke hl	7
 菠菜鸡煲	bo cd ji bc	7
-丝瓜炖豆腐	si gx dy dz fu	7
-铁板鱿鱼须	tp bj yz yu xu	7
-艾西姆桑扎	ai xi mu sh va	7
-潇湘五元龟	xn xl wu yr gv	7
 盘古神鹿	pj gu uf lu	7
 白切虾	bd qp xx	7
-摩卡奶油蛋糕	mo ka nd yz dj gc	7
-长清大素包	vh qk da su bc	7
-太原酱肘花	td yr jl vz hx	7
 富油包	fu yz bc	7
 田园汤	tm yr th	7
 拿破伦酥	na po ly su	7
-火腿萝卜丝酥饼	ho tv lo bo si su bk	7
 焦糖泡芙	jn th pc fu	7
-张川羊羔肉	vh ir yh gc rz	7
 蓝莓罐头	lj mw gr tz	7
 乒乓馃	pk ph go	7
-豉汁泰椒浸海螺	ui vi td jn jb hd lo	7
 轻糖杏脯	qk th xk pu	7
 仿膳饽饽	fh uj bo bo	7
-柠汁炸软鸡	nk vi va rr ji	7
 蚝皇凤爪	hc hl fg vc	7
 雪月羊肉	xt yt yh rz	7
 郁滋客来	yu zi ke ld	7
-油煎鸡蛋蘸蜂蜜	yz jm ji dj vj fg mi	6
 五味香糕	wu ww xl gc	6
 松丝汤包	ss si th bc	6
 豆腐排骨	dz fu pd gu	6
-葱豉豆腐汤	cs ui dz fu th	6
-镇平道口烧鸡	vf pk dc kz uc ji	6
 依幼鱼丸	yi yz yu wj	6
 烧填鸭	uc tm ya	6
-干窝带皮蛇	gj wo dd pi ue	6
-原味腌制料	yr ww yj vi ln	6
 荞串	qn ir	6
 辣子鱼块	la zi yu kk	6
 甜合锦	tm he jb	6
 拉丝烙饼	la si lc bk	6
-三义园牛肉焦饼	sj yi yr nq rz jn bk	6
 山楂凉茶	uj va ll ia	6
 黄果冻	hl go ds	6
 蒸拌冷面	vg bj lg mm	6
-乙酸香叶酯	yi sr xl ye vi	6
 摔饼	uk bk	6
 煎连壳蟹	jm lm ke xp	6
 酸辣肘子	sr la vz zi	6
-馄饨千层饼	hy ty qm cg bk	6
 葱油桃酥	cs yz tc su	6
 蜜饯葡萄	mi jm pu tc	6
 龙抱凤蛋	ls bc fg dj	6
-醪糟小汤圆	lc zc xn th yr	6
 大荔瓜果	da li gx go	6
-好乐门蛋黄酱	hc le mf dj hl jl	6
-荷花豆腐大虾	he hx dz fu da xx	6
 炸珍珠虾	va vf vu xx	6
 榕树茶	rs uu ia	6
 乾坤蒸狗	qm ky vg gz	6
@@ -6533,109 +5187,67 @@ sort: by_weight
 维西豆腐	ww xi dz fu	6
 玻璃鲜墨	bo li xm mo	6
 醪糟罐头	lc zc gr tz	6
-芡实猪肚汤	qm ui vu du th	6
-春城鲜虾饺	iy ig xm xx jn	6
-生炊麒麟鱼	ug iv qi lb yu	6
 太白拉糕	td bd la gc	6
-柠檬小蛋糕	nk mg xn dj gc	6
 磨浆果	mo jl go	6
-姜葱蚬芥蒸鱼云	jl cs xm jp vg yu yy	6
 桂花楂糕	gv hx va gc	6
 双黄鱼片	ul hl yu pm	6
 炒八宝饭	ic ba bc fj	6
-乙酸异丁酸蔗糖酯	yi sr yi dk sr ve th vi	6
-强化麦乳精	ql hx md ru jk	6
-猪油松子酥	vu yz ss zi su	6
 辣汁茄丝	la vi jx si	6
 藜蒿腊肉	li hc la rz	6
 兰花大虾	lj hx da xx	6
-什锦麦胚饼	ui jb md pw bk	6
 芙蓉套蟹	fu rs tc xp	6
 沙拉船	ua la ir	6
-梅花青豆糁	mw hx qk dz sj	6
 什锦锅巴	ui jb go ba	6
 茶台茗叙	ia td mk xu	6
-天津炸酱面	tm jb va jl mm	6
 酥炸鸭子	su va ya zi	6
 奇味干锅	qi ww gj go	6
 炸鳝段	va uj dr	6
-乙酸二甲基苄基原酯	yi sr er jx ji bm ji yr vi	6
-香油米花糖	xl yz mi hx th	6
 洞庭水岸	ds tk uv an	6
 冬菇汤包	ds gu th bc	6
-正明斋糕点	vg mk vd gc dm	6
 雪花鱼翅	xt hx yu ii	6
 三鲜蘑菇	sj xm mo gu	6
-滇八件糕点	dm ba jm gc dm	6
-黑白冰咖啡	hw bd bk ka fw	6
 糖胶树胶	th jn uu jn	6
-喷火林宝坚尼	pf ho lb bc jm ni	6
 彩带鱼头	cd dd yu tz	6
-扒鲍鱼芦笋	ba bc yu lu sy	6
 黄州烧梅	hl vz uc mw	6
 双色煎鱼	ul se jm yu	6
 张川锅盔	vh ir go kv	6
 肉花卷	rz hx jr	6
-荠菜肉馄饨	ji cd rz hy ty	6
 酸辣饺面	sr la jn mm	6
-知味小笼包	vi ww xn ls bc	6
 清炒鳝丝	qk ic uj si	6
 白米酥	bd mi su	6
 芒果果泥	mh go go ni	6
 豆沙方糕	dz ua fh gc	6
-黑珍珠汤圆	hw vf vu th yr	6
-意大利调料	yi da li tn ln	6
 糕耙稀饭	gc ba xi fj	6
 软哨面	rr uc mm	6
 蓬菜小面	pg cd xn mm	6
 秦镇皮子	qb vf pi zi	6
-徽州状元饭	hv vz vl yr fj	6
-红辣椒爆炒鳝片	hs la jn bc ic uj pm	6
 鲜菊酥	xm ju su	6
-香菇烧菜心	xl gu uc cd xb	6
-冬菇鸡脚汤	ds gu ji jn th	6
-上岗子面茶	uh gh zi mm ia	6
 鲜奶鱼	xm nd yu	6
-三鲜冰豆腐	sj xm bk dz fu	6
 夹沙荞糕	jx ua qn gc	6
 今朝缘	jb vc yr	6
 红万寿	hs wj uz	6
 五味沙糕	wu ww ua gc	6
 铁板肥肠	tp bj fw ih	6
 生鱼面	ug yu mm	6
-香煎土豆饼	xl jm tu dz bk	6
-川鱼头火锅	ir yu tz ho go	6
 叉烧炒面	ia uc ic mm	6
 御膳烤鸡	yu uj kc ji	6
 浓香鸡块	ns xl ji kk	6
 炊麒麟鱼	iv qi lb yu	6
-仁寿芝麻糕	rf uz vi ma gc	6
 水晶扣肉	uv jk kz rz	6
 怪味核桃	gk ww he tc	6
-泡椒黄辣丁	pc jn hl la dk	6
 原笼牛肉	yr ls nq rz	6
-什锦蜂窝豆腐	ui jb fg wo dz fu	6
-庐江小红头	lu jl xn hs tz	6
-清真什锦细点	qk vf ui jb xi dm	6
-屯溪徽菜馆	ty xi hv cd gr	6
 陈皮鹅	if pi ee	6
 卷筒蛋糕	jr ts dj gc	6
-菜豆腐稀饭	cd dz fu xi fj	6
 炒豆腐松	ic dz fu ss	6
 八卦鱼肚	ba gx yu du	6
-地胆头炖猪月展	de dj tz dy vu yt vj	6
 豆渣猪头	dz va vu tz	6
-榆皮面饸咯	yu pi mm he ge	6
 奶油桂鱼	nd yz gv yu	6
 皮片乳猪	pi pm ru vu	6
 团圆汤	tr yr th	6
-苔干羊肉丝	td gj yh rz si	6
 冻冻肉	ds ds rz	6
 大蒜鲇鱼	da sr nm yu	6
 豆面酥糖	dz mm su th	6
-沙黄蛋角酥	ua hl dj jn su	6
 家乡碌鹅	jx xl lu ee	6
-乙基愈创木酚	yi ji yu il mu ff	6
 肥肠豆花	fw ih dz hx	6
 搅醋丝	jn cu si	6
 荷兰沙司	he lj ua si	6
@@ -6644,48 +5256,27 @@ sort: by_weight
 意式拉花	yi ui la hx	6
 奇力元	qi li yr	6
 凉拌芫荽	ll bj yj sv	6
-老冬瓜荷叶汤	lc ds gx he ye th	6
 三杯脚鱼	sj bw jn yu	6
-龙眼甜烧白	ls yj tm uc bd	6
-奶油小饼干	nd yz xn bk gj	6
 琅琊酥糖	lh ya su th	6
-银耳汽锅鸡	yb er qi go ji	6
 奶汁角	nd vi jn	6
 甜酸海蜇	tm sr hd ve	6
-挂炉沙板鸡	gx lu ua bj ji	6
-南霞泥鳅粉干	nj xx ni qq ff gj	6
 首乌鸡丁	uz wu ji dk	6
-豆茸酿枇杷	dz rs nl pi pa	6
 豆沙苹果	dz ua pk go	6
-莲蓉甘露酥	lm rs gj lu su	6
-海天老抽王	hd tm lc iz wh	6
-翡冷翠提拉米苏	fw lg cv ti la mi su	6
 混糖锅魁	hy th go kv	6
-羟甲基淀粉钠	ql jx ji dm ff na	6
 翡翠鸡翅	fw cv ji ii	6
 苏式船点	su ui ir dm	6
 绒鸡待哺	rs ji dd bu	6
-芝麻酥心糖	vi ma su xb th	6
 洪洞醪糟	hs ds lc zc	6
-沙市甜独蒜头	ua ui tm du sr tz	6
-淮杞鸡脚响螺汤	hk qi ji jn xl lo th	6
-单县四君子酒	dj xm si jy zi jq	6
-烟肉蛋麦满分	yj rz dj md mj ff	6
 夏茂芋包	xx mc yu bc	6
 挂炉山鸡	gx lu uj ji	6
 糯米塞藕	no mi sd ou	6
-宫廷小黄瓜	gs tk xn hl gx	6
-峡州碧峰茶	xx vz bi fg ia	6
 三鲜鱼丸	sj xm yu wj	6
-汾宁白糖棉花糕	ff nk bd th mm hx gc	6
 花式酥	hx ui su	6
 篮球鸽蛋	lj qq ge dj	6
 猪油松糕	vu yz ss gc	6
 松树猴头	ss uu hz tz	6
 水浒肉	uv hu rz	6
 虫草鹌鹑	is cc an iy	6
-牛肉末炒芹菜	nq rz mo ic qb cd	6
-苏式鲜肉月饼	su ui xm rz yt bk	6
 宫灯鱼丝	gs dg yu si	6
 糯米甜糟	no mi tm zc	6
 蕃茄鸡煲	fj qp ji bc	6
@@ -6693,84 +5284,55 @@ sort: by_weight
 熟栗糕	uu li gc	6
 拉糟鱼块	la zc yu kk	6
 仔姜牛肉	zd jl nq rz	6
-海天黄豆酱	hd tm hl dz jl	6
 决明胶	jt mk jn	6
 生炒面	ug ic mm	6
-冬菇蒸滑鸡	ds gu vg hx ji	6
 黄精蒸鸡	hl jk vg ji	6
 前菜七品	qm cd qi pb	6
 峨秀糕	ee xq gc	6
 库车汤面	ku ie th mm	6
 癸酸乙酯	gv sr yi vi	6
 杨梅虾球	yh mw xx qq	6
-鸡茸笔架鱼肚	ji rs bi jx yu du	6
 蜜饯鲜桃	mi jm xm tc	6
 压合落	ya he lo	5
 牛蒡糕	nq bh gc	5
 油脂肠	yz vi ih	5
-青苔童鸭糁	qk td ts ya sj	5
-油条烩鳝鱼	yz tn hv uj yu	5
-姜茸柠檬锔鸡腿	jl rs nk mg ju ji tv	5
-劲霸鲍鱼汁	jb ba bc yu vi	5
 札干	va gj	5
 酱焖鹌鹑	jl mf an iy	5
 海带焖饭	hd dd mf fj	5
-九洞矿泉水	jq ds kl qr uv	5
 青海名菜	qk hd mk cd	5
 黑京果	hw jk go	5
 莲子膳粥	lm zi uj vz	5
 平锅羊肉	pk go yh rz	5
-御泉杏仁露	yu qr xk rf lu	5
 藕粉饺	ou ff jn	5
 李咸饼	li xm bk	5
 麻辣黄鳝	ma la hl uj	5
-詹王火腿汁	vj wh ho tv vi	5
 米冻蜂	mi ds fg	5
-北杏猪肺汤	bw xk vu fw th	5
-参芪红枣乳鸽汤	cj qi hs zc ru ge th	5
-当归百合兔	dh gv bd he tu	5
 大理雪茶	da li xt ia	5
 丁酸苄酯	dk sr bm vi	5
-粟米香菇排骨汤	su mi xl gu pd gu th	5
 塞上香哪	sd uh xl na	5
 豆沙奶卷	dz ua nd jr	5
-湘西外婆菜	xl xi wd po cd	5
 虾须牛肉	xx xu nq rz	5
-枸杞牛鞭汤	gz qi nq bm th	5
-腊味芋头糕	la ww yu tz gc	5
 叉子火食	ia zi ho ui	5
 红苕饼	hs uc bk	5
 酱桃仁	jl tc rf	5
 蜜饯苹果	mi jm pk go	5
 含羞果	hj xq go	5
-辣味肉皮冻	la ww rz pi ds	5
 烙糕子	lc gc zi	5
 黄蜀葵胶	hl uu kv jn	5
 什锦点心	ui jb dm xb	5
 子萝卜汤	zi lo bo th	5
-宫廷风味糕点	gs tk fg ww gc dm	5
-新都桂花糕	xb dz gv hx gc	5
 红烧滑水	hs uc hx uv	5
-海带萝卜汤	hd dd lo bo th	5
 东阴宫	ds yb gs	5
-芙蓉藿香饺	fu rs ho xl jn	5
-小鸡煮稀饭	xn ji vu xi fj	5
 辣椒橙	la jn ig	5
-板栗焖仔鸡	bj li mf zi ji	5
-大块煮羊肉	da kk vu yh rz	5
 八宝梨罐	ba bc li gr	5
 沙蒿胶	ua hc jn	5
 蜜饯瓜条	mi jm gx tn	5
 土豆粑粑	tu dz ba ba	5
 包饼油条	bc bk yz tn	5
-蚝油叉烧包	hc yz ia uc bc	5
 御膳豆黄	yu uj dz hl	5
 白羊肾羹	bd yh uf gg	5
-杏仁小饼干	xk rf xn bk gj	5
 徽州蒸鸡	hv vz vg ji	5
-乳膳萨其马	ru uj sa qi ma	5
 灵山粗粉	lk uj cu ff	5
-鹿茸牛肉卷	lu rs nq rz jr	5
 白芷汤	bd vi th	5
 合油酥	he yz su	5
 赖桃酥	ld tc su	5
@@ -6781,328 +5343,181 @@ sort: by_weight
 红烧腐竹	hs uc fu vu	5
 腌水芥皮	yj uv jp pi	5
 地栗糕	di li gc	5
-剁椒小芋头	do jn xn yu tz	5
 香蕉锅炸	xl jn go va	5
-德式土豆泥	de ui tu dz ni	5
-翡翠鸳鸯带	fw cv yr yh dd	5
-太极发财燕	td ji fa cd yj	5
-清炒小花菇	qk ic xn hx gu	5
-长治山楂饼	vh vi uj va bk	5
-木糖醇酐单硬脂酸酯	mu th iy gj dj yk vi sr vi	5
-奶油西兰花	nd yz xi lj hx	5
-豆角干煲鲩鱼尾	dz jn gj bc hr yu ww	5
-生熏大黄鱼	ug xy dd hl yu	5
 玛瑙团	ma nc tr	5
 夹心虾糕	jx xb xx gc	5
 凤尾群翅	fg ww qy ii	5
-慈禧小窝头	ci xi xn wo tz	5
 前菜四品	qm cd si pb	5
 鹤庆米糕	he qk mi gc	5
 黄焖鸭肝	hl mf ya gj	5
 金钩翡翠	jb gz fw cv	5
 糖炒大扁	th ic da bm	5
 五香干丝	wu xl gj si	5
-培根奶油蛋汁	pw gf nd yz dj vi	5
-果胶酶制剂	go jn mw vi ji	5
-蜜饯莱阳梨	mi jm ld yh li	5
-蔊菜雪梨冰糖汁	hj cd xt li bk th vi	5
 芙蓉鱼骨	fu rs yu gu	5
-意大利式米饭	yi da li ui mi fj	5
 油炸麻圆	yz va ma yr	5
-糖醋素排骨	th cu su pd gu	5
 白汁牛肉	bd vi nq rz	5
-冰糖金耳鸽蛋	bk th jb er ge dj	5
 红薯宽粉	hs uu kr ff	5
-金牌叉烧酥	jb pd ia uc su	5
-冰镇番茄汁	bk vf fj qp vi	5
 泉水土鸡	qr uv tu ji	5
-鲜肉榨菜月饼	xm rz va cd yt bk	5
 雪花鸡汤	xt hx ji th	5
 五香熟芥	wu xl uu jp	5
 乌梅糕	wu mw gc	5
 蒲公英节	pu gs yk jp	5
 珍珠肠粉	vf vu ih ff	5
 烟薰鸭子	yj xy ya zi	5
-百草梨膏糖	bd cc li gc th	5
-己基间苯二酚	ji ji jm bf er ff	5
-长治腊驴肉	vh vi la lv rz	5
-鸡丝伊府面	ji si yi fu mm	5
 可可桃仁	ke ke tc rf	5
 恭城柿饼	gs ig ui bk	5
 香脆锅巴	xl cv go ba	5
 西湖藕粥	xi hu ou vz	5
-鱼头酸笋汤	yu tz sr sy th	5
-鲜百合煎酿绿豆	xm bd he jm nl lv dz	5
 响铃球	xl lk qq	5
 碱酥饼	jm su bk	5
-王家核桃烧饼	wh jx he tc uc bk	5
 土豆松糕	tu dz ss gc	5
-泰山豆腐面	td uj dz fu mm	5
 香炸雪梨	xl va xt li	5
 白玉藏珠	bd yu ch vu	5
-葱烧鲨鱼皮	cs uc ua yu pi	5
-肉蓉玉米羹	rz rs yu mi gg	5
 五华尊	wu hx zy	5
 四喜乾果	si xi qm go	5
-广东省海南省	gl ds ug hd nj ug	5
-新南轩酒家	xb nj xr jq jx	5
-连理双味鱼	lm li ul ww yu	5
-金钱口蘑汤	jb qm kz mo th	5
 鸡蛋春饼	ji dj iy bk	5
 沙河蛋糕	ua he dj gc	5
 晶糕肉片	jk gc rz pm	5
-西湖蜜皇彩花	xi hu mi hl cd hx	5
 炒虾丝	ic xx si	5
-无花果炖瘦肉	wu hx go dy uz rz	5
 泰州干丝	td vz gj si	5
 风林茄子	fg lb qp zi	5
 出口马蹄	iu kz ma ti	5
 热水藕	re uv ou	5
 油糊角	yz hu jn	5
-肉片炒莴笋	rz pm ic wo sy	5
 五彩虾松	wu cd xx ss	5
-油泡鱼青丸	yz pc yu qk wj	5
 素炒豇豆	su ic jl dz	5
-可可麦乳精	ke ke md ru jk	5
-砂锅炖驴肉	ua go dy lv rz	5
 菜远牛肉	cd yr nq rz	5
 随上薄饼	sv uh bc bk	5
 参茸茶	uf rs ia	5
-海米珍珠笋	hd mi vf vu sy	5
-山药鲫鱼豆腐汤	uj yc ji yu dz fu th	5
-酥油太花盏	su yz td hx vj	5
-法式红酒焗蜗牛	fa ui hs jq ju wo nq	5
-佛豆柠檬枇	fu dz nk mg pi	5
-香蕉蛋奶饼	xl jn dj nd bk	5
 细馓子	xi sj zi	5
 鸽戏牛蛙	ge xi nq wa	5
 琵琶酥	pi pa su	5
-太平猴魁绿茶	td pk hz kv lv ia	5
-七彩什锦煲	qi cd ui jb bc	5
 红烧猪腰	hs uc vu yc	5
 当归獐肉	dh gv vh rz	5
-黑豆焖猪蹄	hw dz mf vu ti	5
-糖化酶制剂	th hx mw vi ji	5
 油焖草菇	yz mf cc gu	5
 藏族吹肺	zh zu iv fw	5
 东坡茄子	ds po qp zi	5
 牛肉烧麦	nq rz uc md	5
 蟹黄肉包	xp hl rz bc	5
 洱海海菜	er hd hd cd	5
-香滑椰汁糕	xl hx ye vi gc	5
 什锦花篮	ui jb hx lj	5
-菊花黄浸膏	ju hx hl jb gc	5
-莲子银耳梨	lm zi yb er li	5
-酸辣鱿鱼丝	sr la yz yu si	5
-芋儿烧排骨	yu er uc pd gu	5
-八宝黑米粥	ba bc hw mi vz	5
 红焖羊头	hs mf yh tz	5
 姊妹七辣	zi mw qi la	5
-潮州腐乳饼	ic vz fu ru bk	5
-明珠香芋饼	mk vu xl yu bk	5
 桂花栗饼	gv hx li bk	5
 发米粑	fa mi ba	5
 冰豌豆粉	bk wj dz ff	5
-油豆腐镶肉	yz dz fu xl rz	5
 石家酱方	ui jx jl fh	5
 济南香肠	ji nj xl ih	5
-白巧克力冰淇淋	bd qn ke li bk qi lb	5
 椒油扁豆	jn yz bm dz	5
-肉末胡萝卜	rz mo hu lo bo	5
 泡椒河鳗	pc jn he mj	5
 椒河鳗	jn he mj	5
-脆皮马蹄糕	cv pi ma ti gc	5
-桂圆羊肉煲	gv yr yh rz bc	5
 牙牙饭	ya ya fj	5
-芦笋炒牛肉	lu sy ic nq rz	5
 鲎馃	hz go	5
-水晶梅花包	uv jk mw hx bc	5
-曹马芝麻糖	cc ma vi ma th	5
-萝卜煮肉丸	lo bo vu rz wj	5
 高倍果汁	gc bw go vi	5
 紫苏梅鸡	zi su mw ji	5
-红枣薏仁粥	hs zc yi rf vz	5
 牛肉小包	nq rz xn bc	5
 高丽鱼条	gc li yu tn	5
-苗家粉蒸肉	mn jx ff vg rz	5
 珍珠粉耙	vf vu ff ba	5
 炸大扁	va da bm	5
-蚕豆炒虾仁	cj dz ic xx rf	5
-甘麦红枣汤	gj md hs zc th	5
-绩溪一品锅	ji xi yi pb go	5
 双色软糖	ul se rr th	5
 御香源	yu xl yr	5
 朴枳粿	pu vi go	5
 怪味大扁	gk ww da bm	5
 铁板鸡杂	tp bj ji za	5
-蒸鸡蛋肉卷	vg ji dj rz jr	5
 叉烧鸭子	ia uc ya zi	5
-冰糖哈士蟆	bk th ha ui ma	5
 火爆腰块	ho bc yc kk	5
-漆油炒米酒	qi yz ic mi jq	5
-抚仙湖抗浪鱼	fu xm hu kh lh yu	5
-铜井巷素面	ts jk xl su mm	5
 滑溜贝球	hx lq bw qq	5
 天水搅团	tm uv jn tr	5
 凉拌牛蒡	ll bj nq bh	5
 酥盐鸡块	su yj ji kk	5
 清蒸鲻鱼	qk vg zi yu	5
-三鲜紫米蛋糕	sj xm zi mi dj gc	5
-薏仁猪肚汤	yi rf vu du th	5
 蜜汁金枣	mi vi jb zc	5
 大叶苦茶	da ye ku ia	5
 五香苦瓜	wu xl ku gx	5
 糖醋鸡圆	th cu ji yr	5
-雪蛤膏专门店	xt ha gc vr mf dm	5
-老二位麻酱烧饼	lc er ww ma jl uc bk	5
 杏仁薄脆	xk rf bc cv	5
-花草木三友茶	hx cc mu sj yz ia	5
-鸡蛋熨斗糕	ji dj yy dz gc	5
 明珠豆腐	mk vu dz fu	5
 河南卤面	he nj lu mm	5
 甜酱萝葡	tm jl lo pu	5
 九姓团圆	jq xk tr yr	4
-蘑菇窝窝面	mo gu wo wo mm	4
 脆皮桂鱼	cv pi gv yu	4
 烧鸡酥	uc ji su	4
-鲤鱼补血汤	li yu bu xt th	4
-莲香脱骨鸡	lm xl to gu ji	4
 香菇素鸡	xl gu su ji	4
-三年陈花雕酒	sj nm if hx dn jq	4
 炸熘黄鱼	va lq hl yu	4
-低脂芝士蛋糕	di vi vi ui dj gc	4
 鸡豆冰粉	ji dz bk ff	4
 小林黄姜	xn lb hl jl	4
 水晶枇杷	uv jk pi pa	4
 奶油回饼	nd yz hv bk	4
 枣泥松糕	zc ni ss gc	4
 西式酥饼	xi ui su bk	4
-毛豆煎臭豆腐	mc dz jm iz dz fu	4
-安康窝窝面	an kh wo wo mm	4
 清蒸鹰龟	qk vg yk gv	4
-金万利香橙酒	jb wj li xl ig jq	4
 姜汁扁豆	jl vi bm dz	4
-通草排骨汤	ts cc pd gu th	4
-爆炒猪血丸子	bc ic vu xt wj zi	4
 姜味蛋糕	jl ww dj gc	4
 三鲜瑶柱	sj xm yc vu	4
 玻璃蛋糕	bo li dj gc	4
-西安油酥饼	xi an yz su bk	4
 直腰虾仁	vi yc xx rf	4
 素脆鳝	su cv uj	4
-香焙核桃挞	xl bw he tc ta	4
 八宝蜜食	ba bc mi ui	4
 香酥凤腿	xl su fg tv	4
-蟹肉西兰花	xp rz xi lj hx	4
-菜豆腐节节	cd dz fu jp jp	4
-青萝卜陈皮煲鸭汤	qk lo bo if pi bc ya th	4
-吴常昌牛巴	wu ih ih nq ba	4
-油爆鱿鱼卷	yz bc yz yu jr	4
 芹黄鱼丝	qb hl yu si	4
 干烹仔鸡	gj pg zi ji	4
 重油炒面	vs yz ic mm	4
-梅兰锡咖啡	mw lj xi ka fw	4
 兼善餐厅	jm uj cj tk	4
 松子茄鱼	ss zi jx yu	4
-詹王猪骨汁	vj wh vu gu vi	4
 酸汤饵丝	sr th er si	4
 罗卜红	lo bo hs	4
 清汤米线	qk th mi xm	4
 潮汕朥糕	ic uj lc gc	4
-美味葱油饼	mw ww cs yz bk	4
-桂花辣酱芥	gv hx la jl jp	4
 梅竹山石	mw vu uj ui	4
 板栗仔鸡	bj li zi ji	4
 花江炒粉	hx jl ic ff	4
-原只木瓜炖雪蛤	yr vi mu gx dy xt ha	4
-生呛梭子蟹	ug ql so zi xp	4
 桔烧巴	ju uc ba	4
-青瓜皮蛋汤	qk gx pi dj th	4
 芒果鸡柳	mh go ji lq	4
 五香酥饼	wu xl su bk	4
-双色绿茶饼干	ul se lv ia bk gj	4
 红薯酸奶	hs uu sr nd	4
 温江酥糖	wf jl su th	4
 香烤肋排	xl kc le pd	4
 上汤虾丸	uh th xx wj	4
-绿豆小米稀饭	lv dz xn mi xi fj	4
 萍踪叠影	pk zs dp yk	4
-杏仁银肺汤	xk rf yb fw th	4
 姜拌藕	jl bj ou	4
 一品酥方	yi pb su fh	4
-大西洋珍鲑比萨	da xi yh vf gv bi sa	4
 荷叶三蒸	he ye sj vg	4
 虾仁吐司	xx rf tu si	4
 韭菜鲜鱿	jq cd xm yz	4
 核桃鸡汤	he tc ji th	4
-正宗涮羊肉	vg zs ur yh rz	4
 沙司牛尾	ua si nq ww	4
-麻花酥鲫鱼	ma hx su ji yu	4
 桂花酱鸡	gv hx jl ji	4
-希腊雪花粥	xi la xt hx vz	4
 猪皮萝卜	vu pi lo bo	4
-秦邮全鸭宴	qb yz qr ya yj	4
-柯尔克孜族烤全羊	ke er ke zi zu kc qr yh	4
-桂花炒米糕	gv hx ic mi gc	4
 丝丝糕	si si gc	4
-明顺斋烧饼	mk uy vd uc bk	4
 蜜饯桔子	mi jm ju zi	4
 酸菜梅鱼	sr cd mw yu	4
-绿豆乳饮料	lv dz ru yb ln	4
-美味蛋包饭	mw ww dj bc fj	4
-麻辣萝卜丝	ma la lo bo si	4
 豆腐蛎	dz fu li	4
 椒盐肘子	jn yj vz zi	4
 象眼鸽蛋	xl yj ge dj	4
-斜切通心粉沙拉	xp qp ts xb ff ua la	4
-豉汁凉瓜炆蟹	ui vi ll gx wf xp	4
 龙凤瓦酥	ls fg wa su	4
 青椒塞肉	qk jn sd rz	4
 辽牛	ln nq	4
 锅煽豆腐	go uj dz fu	4
-金腿烧圆鱼	jb tv uc yr yu	4
-翠竹粉蒸鱼	cv vu ff vg yu	4
-金溪藕丝糖	jb xi ou si th	4
 豆瓣鲜鱿	dz bj xm yz	4
-牛柳炒白蘑	nq lq ic bd mo	4
 西洋烩鸡	xi yh hv ji	4
 菠萝软糖	bo lo rr th	4
-回族碾馔儿	hv zu nm vr er	4
 欧利伐	ou li fa	4
 椒油银耳	jn yz yb er	4
 尤溪卜鸭	yz xi bo ya	4
 希乐夫	xi le fu	4
-干连福海参	gj lm fu hd uf	4
-鸳鸯夹心饼	yr yh jx xb bk	4
-金牌手撕鸭	jb pd uz si ya	4
 食嘉益	ui jx yi	4
 甜酸豆腐	tm sr dz fu	4
 烧卖酥	uc md su	4
-氢化松香甘油酯	qk hx ss xl gj yz vi	4
 碧波田鸡	bi bo tm ji	4
-桂花栗子酥	gv hx li zi su	4
 西瓜奶酪	xi gx nd lc	4
-虎皮梳子肉	hu pi uu zi rz	4
 鱼米羹	yu mi gg	4
-明炉梅子鸭	mk lu mw zi ya	4
-五香辣味牛肉干	wu xl la ww nq rz gj	4
 玉兰明虾	yu lj mk xx	4
-椰香咖喱鸡	ye xl ga li ji	4
-鱼胶圆肉炖水鸭	yu jn yr rz dy uv ya	4
-新鲜木瓜南北杏炖雪耳	xb xm mu gx nj bw xk dy xt er	4
-芦笋鲍鱼汤	lu sy bc yu th	4
-上汤奶白菜	uh th nd bd cd	4
 炒豌豆夹	ic wj dz jx	4
 莲花蛋糕	lm hx dj gc	4
 严州雪梨	yj vz xt li	4
-干贝萝卜汤	gj bw lo bo th	4
 金钱吐丝	jb qm tu si	4
-水晶翡翠饺	uv jk fw cv jn	4
 葱花缸炉	cs hx gh lu	4
-凉瓜浸田鸡	ll gx jb tm ji	4
 根面角	gf mm jn	4
-新郑丁家粉蒸肉	xb vg dk jx ff vg rz	4
-酸辣萝卜干	sr la lo bo gj	4
 刺云实胶	ci yy ui jn	4
 海参碗鱼	hd uf wj yu	4
 网油鱼卷	wh yz yu jr	4
@@ -7111,61 +5526,35 @@ sort: by_weight
 酸枣色	sr zc se	4
 鲜炒鱼片	xm ic yu pm	4
 美国香瓜	mw go xl gx	4
-石屏荔枝酥	ui pk li vi su	4
-白岘吊瓜子	bd xm dn gx zi	4
 鯮鱼饼	zs yu bk	4
-柠檬薏米水	nk mg yi mi uv	4
-一品蒸黄鱼	yi pb vg hl yu	4
-醉蟹清炖鸡	zv xp qk dy ji	4
-绿豆冬瓜汤	lv dz ds gx th	4
 沙维康	ua ww kh	4
-李派林急汁	li pd lb ji vi	4
-萝卜氽鲫鱼	lo bo ty ji yu	4
 小稀瓜瓜	xn xi gx gx	4
-花旗参炖水鸭	hx qi cj dy uv ya	4
 麻花腰子	ma hx yc zi	4
-稀珍黑米粥	xi vf hw mi vz	4
-冬瓜连锅汤	ds gx lm go th	4
-甜玉米饮料	tm yu mi yb ln	4
 海参肘子	hd uf vz zi	4
 红酒沙司	hs jq ua si	4
-两英番薯粥	ll yk fj uu vz	4
 含羞丸子	hj xq wj zi	4
 锅散丹	go sj dj	4
-法式芝香烤翅	fa ui vi xl kc ii	4
 蛋酥炒面	dj su ic mm	4
-薄荷叶松香	bo he ye ss xl	4
 鱼香牛腩	yu xl nq nj	4
 干捞米粉	gj lc mi ff	4
-珍珠豆腐羹	vf vu dz fu gg	4
 网包鳜鱼	wh bc gv yu	4
 罐罐豆花	gr gr dz hx	4
-燕窝炖雪梨	yj wo dy xt li	4
-木瓜煲老鸭	mu gx bc lc ya	4
 皖古王	wj gu wh	4
 什锦蛋卷	ui jb dj jr	4
-盐焗鹌鹑蛋	yj ju an iy dj	4
 上海汤圆	uh hd th yr	4
 千层蒸糕	qm cg vg gc	4
 龙衔海棠	ls xm hd th	4
 茶绿色素	ia lv se su	4
-菊花佛手酥	ju hx fo uz su	4
-淳安辣椒酱	iy an la jn jl	4
-奇异果煎虾沙拉	qi yi go jm xx ua la	4
 羊耳鸡塔	yh er ji ta	4
-菠菜炒生鱼片	bo cd ic ug yu pm	4
 双薯沙拉	ul uu ua la	4
-宁夏酿皮子	nk xx nl pi zi	4
 小煎仔鸡	xn jm zi ji	4
 日式戚风	ri ui qi fg	4
 兰度鸽脯	lj du ge pu	4
 裹烧茭白	go uc jn bd	4
-五寨猪黑肉炖粉	wu vd vu hw rz dy ff	4
 翡翠玉扇	fw cv yu uj	4
 宫保兔肉	gs bc tu rz	4
 蜜枣银心	mi zc yb xb	4
 糖醋包菜	th cu bc cd	4
-墨鱼香菇冬笋粥	mo yu xl gu ds sy vz	4
 果酱金糕	go jl jb gc	4
 莲蓉小鸡	lm rs xn ji	4
 四样荤素	si yh hy su	4
@@ -7173,67 +5562,40 @@ sort: by_weight
 蕃茄马蹄	fj qp ma ti	4
 活血药酒	ho xt yc jq	4
 太平糕	td pk gc	4
-奶油花蛋糕	nd yz hx dj gc	4
-酱蜜汁烤鸭脯	jl mi vi kc ya pu	4
-酸辣岩水豆花	sr la yj uv dz hx	4
-晋城炒凉粉	jb ig ic ll ff	4
 气磺蛋	qi hl dj	4
 麦胚饼干	md pw bk gj	4
 酸笋焖鱼	sr sy mf yu	4
-抹茶轻乳酪蛋糕	mo ia qk ru lc dj gc	4
 浦江蟹羹	pu jl xp gg	4
 白炒虾球	bd ic xx qq	4
 四甜蜜饯	si tm mi jm	4
-劲霸辣椒汁	jb ba la jn vi	4
 岳南泡糖	yt nj pc th	4
-土豆烧肉丁	tu dz uc rz dk	4
 香煎茄片	xl jm jx pm	4
 木三对	mu sj dv	4
 五味花枝	wu ww hx vi	4
 混堂锅魁	hy th go kv	4
 劲霸橙汁	jb ba ig vi	4
-酸包菜炒粉皮	sr bc cd ic ff pi	4
-稀豆粉油条	xi dz ff yz tn	4
 精莜面	jk yz mm	4
 玻璃酥鸡	bo li su ji	4
 锅贴鸡片	go tp ji pm	4
 椒油茭白	jn yz jn bd	4
 菠菜煎饼	bo cd jm bk	4
 芙蓉鱼角	fu rs yu jn	4
-沙县豆腐丸	ua xm dz fu wj	4
-肌醇六磷酸钠	ji iy lq lb sr na	4
-镇远陈年道菜	vf yr if nm dc cd	4
-干锅飘香手撕鸡	gj go pn xl uz si ji	4
 弋阳醋鸡	yi yh cu ji	4
-三色鸡鱼丸	sj se ji yu wj	4
 矮子斋	ai zi vd	4
 南瓜小点	nj gx xn dm	4
 笋鲍鱼汤	sy bc yu th	4
-干煸鳝鱼丝	gj bm uj yu si	4
 鲜竹牛肉	xm vu nq rz	4
-果胶裂解酶	go jn lp jp mw	4
 炒三脆	ic sj cv	4
 鸡粥蒲菜	ji vz pu cd	4
-龟鹤延年汤	gv he yj nm th	4
 黑豆叶菜	hw dz ye cd	4
-龙眼莲子羹	ls yj lm zi gg	4
-老大房月饼	lc da fh yt bk	4
 面筋皮子	mm jb pi zi	4
 蜜饯马蹄	mi jm ma ti	4
 湖南腊鱼	hu nj la yu	4
-圆白菜炒腊肉	yr bd cd ic la rz	4
 甘笋蒸饼	gj sy vg bk	4
-福山烧小鸡	fu uj uc xn ji	4
 龙凤炒饭	ls fg ic fj	4
-水晶蹄膀香肴肉	uv jk ti bh xl yc rz	4
-糖醋软熘黄河鲤鱼	th cu rr lq hl he li yu	4
-一品豆腐汤	yi pb dz fu th	4
-翠竹粉蒸鮰鱼	cv vu ff vg hv yu	4
 锅榻腰盒	go ta yc he	4
-二仙烧羊肉	er xm uc yh rz	4
 热炒四品	re ic si pb	4
 沙茶粿	ua ia go	4
-荷叶新凤鸡	he ye xb fg ji	4
 香菜芯	xl cd xb	4
 保德碗托	bc de wj to	4
 佛手三丝	fo uz sj si	4
@@ -7246,128 +5608,70 @@ sort: by_weight
 甘菊猪肚	gj ju vu du	4
 芪蛇汤	qi ue th	4
 羊肉合面	yh rz he mm	4
-酱爆肉酥饼	jl bc rz su bk	4
-海天上等蚝油	hd tm uh dg hc yz	4
-参芪炖白凤	cj qi dy bd fg	4
 虾籽管廷	xx zi gr tk	4
 荷包水鱼	he bc uv yu	4
 金华馒头	jb hx mj tz	4
-泰式千层糕	td ui qm cg gc	4
 太史饼	td ui bk	4
-牛膝炖猪蹄	nq xi dy vu ti	4
 红杞活鱼	hs qi ho yu	4
-虾皮炒冬瓜	xx pi ic ds gx	4
-西柚三文鱼	xi yz sj wf yu	4
 百鸟还巢	bd nn hd ic	4
 补血酥糖	bu xt su th	4
 香爆螺盏	xl bc lo vj	4
-千岛汁鸡球	qm dc vi ji qq	4
 发饽饽	fa bo bo	4
 怀胎桂鱼	hk td gv yu	4
 扒酿海参	ba nl hd uf	4
-秋梨膏的做法	qq li gc de zo fa	4
 麻雀肉饼	ma qt rz bk	4
-热带杂果罐头	re dd za go gr tz	4
 芥末鸭膀	jp mo ya bh	4
 茄汁菜包	jx vi cd bc	4
 踏绿波	ta lv bo	4
 酥心脆糖	su xb cv th	4
 牡丹蝎托	mu dj xp to	4
 回锅腊肉	hv go la rz	4
-五彩炒驼峰	wu cd ic to fg	4
 卡蕾多儿	ka lw do er	4
 灯影苕片	dg yk uc pm	4
 烧三味	uc sj ww	4
-西式烤面包	xi ui kc mm bc	4
 桂林粽子	gv lb zs zi	4
-上海炸猪排	uh hd va vu pd	4
-真如白切羊肉	vf ru bd qp yh rz	4
-苦瓜黑鱼汤	ku gx hw yu th	4
-荞麦面扒糕	qn md mm pa gc	4
 虾羹汤	xx gg th	4
 熘豆芽	lq dz ya	4
 馄饨鸭子	hy ty ya zi	4
-红豆百合糖水	hs dz bd he th uv	4
 冬蓉酥	ds rs su	4
 小羊羹	xn yh gg	4
 鲜果羹	xm go gg	3
-烟熏三文鱼沙拉	yj xy sj wf yu ua la	3
-白沙井水煮白扎肉	bd ua jk uv vu bd va rz	3
-白浇鳙鱼头	bd jn ys yu tz	3
 北京美晶	bw jk mw jk	3
-落叶琵琶虾	lo ye pi pa xx	3
 木洞晒枣	mu ds ud zc	3
 酥卷佛手	su jr fo uz	3
-韩式烤鱿鱼	hj ui kc yz yu	3
-草莓薏仁优格	cc mw yi rf yz ge	3
 冬瓜甑	ds gx zg	3
 羊肉扁食	yh rz bm ui	3
-苣荬菜包子	qu md cd bc zi	3
 奶汤元鱼	nd th yr yu	3
-德国乳酪蛋糕	de go ru lc dj gc	3
-聚氧乙烯山梨醇酐单月桂酸酯	ju yh yi xi uj li iy gj dj yt gv sr vi	3
-八公山雪月银球	ba gs uj xt yt yb qq	3
-美式炭烤排骨	mw ui tj kc pd gu	3
 蒜苗炒虾	sr mn ic xx	3
-杭式榴莲酥	hh ui lq lm su	3
 秦安米黄	qb an mi hl	3
 鲜肉抄手	xm rz ic uz	3
-清江鱼茄子煲	qk jl yu qp zi bc	3
-芝香鸡肉酥	vi xl ji rz su	3
-帕玛森芝士	pa ma sf vi ui	3
-锦州什锦小菜	jb vz ui jb xn cd	3
-五香松花蛋	wu xl ss hx dj	3
-松子枣泥拉糕	ss zi zc ni la gc	3
-枸杞山药粥	gz qi uj yc vz	3
 真豆咖啡	vf dz ka fw	3
-砂钵黄陂三合	ua bo hl po sj he	3
-盐菜回锅肉	yj cd hv go rz	3
 怡神饮料	yi uf yb ln	3
-凤翔豆花泡馍	fg xl dz hx pc mo	3
 暇油黄瓜	xx yz hl gx	3
-景芝三盖饼	jk vi sj gd bk	3
-烧罗汉面筋	uc lo hj mm jb	3
 绣球全鱼	xq qq qr yu	3
 咯嗒面	ge da mm	3
 小炒白菜	xn ic bd cd	3
-炖口蘑龙凤珠	dy kz mo ls fg vu	3
 百乐熏鸡	bd le xy ji	3
 巍山蜜饯	ww uj mi jm	3
 软煎虾仁	rr jm xx rf	3
-乾州豆腐脑	qm vz dz fu nc	3
 姜爆三丝	jl bc sj si	3
 杂瓣海参	za bj hd uf	3
 豆皮卷圈	dz pi jr qr	3
-绿茶糯米卷	lv ia no mi jr	3
 爆炒乌鸡	bc ic wu ji	3
-香芒心太软	xl mh xb td rr	3
 天麻全鸡	tm ma qr ji	3
 芙蓉烧麦	fu rs uc md	3
 葡皇世家	pu hl ui jx	3
 串烧海鲜	ir uc hd xm	3
-文昌空心煎堆	wf ih ks xb jm dv	3
 炝玉龙片	ql yu ls pm	3
 双烤肉	ul kc rz	3
-鲜果馅汤元	xm go xm th yr	3
 溜锅板	lq go bj	3
-酸腌菜炒藕	sr yj cd ic ou	3
-鱼头粉丝煲	yu tz ff si bc	3
 芝麻锅炸	vi ma go va	3
 松花彩蛋	ss hx cd dj	3
-温江程抄手	wf jl ig ic uz	3
 溪口香蕉	xi kz xl jn	3
-生炒蒜苔肉	ug ic sr td rz	3
-香草绿豆糕	xl cc lv dz gc	3
 南乳小排	nj ru xn pd	3
-维也纳巧克力杏仁蛋糕	ww ye na qn ke li xk rf dj gc	3
-田纳西黑泥	tm na xi hw ni	3
-鸡蓉奶油羹	ji rs nd yz gg	3
-八宝炒年糕	ba bc ic nm gc	3
-巧克力松露蛋糕	qn ke li ss lu dj gc	3
 枸杞香蛋	gz qi xl dj	3
 炒绵羊丝	ic mm yh si	3
 氏丸子	ui wj zi	3
-油汆排骨年糕	yz cr pd gu nm gc	3
 香芒冰情	xl mh bk qk	3
 纳溪泡糖	na xi pc th	3
 蛏溜奇	ig lq qi	3
@@ -7377,249 +5681,113 @@ sort: by_weight
 五仁酥	wu rf su	3
 紫盖肉	zi gd rz	3
 清炒莲藕	qk ic lm ou	3
-土豆火腿沙拉	tu dz ho tv ua la	3
 藏族血肠	zh zu xt ih	3
 临汝药酒	lb ru yc jq	3
 御菜一品	yu cd yi pb	3
 麻辣肉丁	ma la rz dk	3
 山珍蕨菜	uj vf jt cd	3
 蓝圣斯	lj ug si	3
-二块粑炒火腿	er kk ba ic ho tv	3
 泰国炸鱼	td go va yu	3
 肉茸菠菜	rz rs bo cd	3
-鱼香油菜苔	yu xl yz cd td	3
 湘式酥点	xl ui su dm	3
-新疆琉璃葡萄	xb jl lq li pu tc	3
 五彩蟹盒	wu cd xp he	3
-炸佛手通脊	va fo uz ts ji	3
 八宝膳粥	ba bc uj vz	3
-阆中白糖蒸馍	lh vs bd th vg mo	3
-刀鱼羹卤子面	dc yu gg lu zi mm	3
-对羟基苯甲酸丙酯钠	dv ql ji bf jx sr bk vi na	3
 木耳鸡丝	mu er ji si	3
 总汇沙拉	zs hv ua la	3
-李锦记财神蚝油	li jb ji cd uf hc yz	3
 芝葱饼	vi cs bk	3
-白果南杏生鱼汤	bd go nj xk ug yu th	3
-蜜汁一品肉	mi vi yi pb rz	3
 烫面油饼	th mm yz bk	3
-疆字红油百叶	jl zi hs yz bd ye	3
-五花肉炒豆腐泡菜	wu hx rz ic dz fu pc cd	3
 兔耳草醛	tu er cc qr	3
 泡椒乳鸽	pc jn ru ge	3
-清炖萝卜牛肉	qk dy lo bo nq rz	3
-何首乌山鸡	he uz wu uj ji	3
 宰羔肉	zd gc rz	3
-西式米花糕	xi ui mi hx gc	3
 糯米砣	no mi to	3
-碧玉豌豆仁	bi yu wj dz rf	3
-山楂牛肉干	uj va nq rz gj	3
-奶油火腿馅饼	nd yz ho tv xm bk	3
 冬菇炒面	ds gu ic mm	3
-尖椒耗儿鱼	jm jn hc er yu	3
-阿胶养阴粥	ee jn yh yb vz	3
-豆苗蘑菇汤	dz mn mo gu th	3
-万字珊瑚白菜	wj zi uj hu bd cd	3
-千岛湖红烧鱼头	qm dc hu hs uc yu tz	3
-百果提浆饼	bd go ti jl bk	3
-菊花海鲜锅	ju hx hd xm go	3
 茄汁牛扒	jx vi nq ba	3
-蛋黄凤尾白玉卷	dj hl fg ww bd yu jr	3
-兰州烤羊肉	lj vz kc yh rz	3
-奶油蘑菇鸡	nd yz mo gu ji	3
-野生大鱼坊	ye ug da yu fh	3
 椒盐锅盔	jn yj go kv	3
 酸辣冷鱼	sr la lg yu	3
-铁素四色球	tp su si se qq	3
 银耳果羹	yb er go gg	3
-锡包银鳕鱼	xi bc yb xt yu	3
-南疆水晶无花果	nj jl uv jk wu hx go	3
-雁荡白云茶	yj dh bd yy ia	3
-无字盐水牛肉	wu zi yj uv nq rz	3
-扶风鹿羔馍	fu fg lu gc mo	3
-冬菇雪耳猪胰汤	ds gu xt er vu yi th	3
 姜丝牛肉	jl si nq rz	3
 肉未烧饼	rz ww uc bk	3
-清蒸西瓜鸡	qk vg xi gx ji	3
-玉林牛腩米粉	yu lb nq nj mi ff	3
 蜜汁肥桃	mi vi fw tc	3
 红扒鱼肚	hs ba yu du	3
 孝义火烧	xn yi ho uc	3
-淡菜紫菜瘦肉汤	dj cd zi cd uz rz th	3
-剁椒胖鱼头	do jn ph yu tz	3
 炊莲花鸡	iv lm hx ji	3
-之江鲈莼羹	vi jl lu iy gg	3
 炒腰脑	ic yc nc	3
-党参黄芪炖鸡汤	dh uf hl qi dy ji th	3
 银鱼藕丝	yb yu ou si	3
-杨长子火腿肠	yh vh zi ho tv ih	3
-新红铝色淀	xb hs lv se dm	3
 文成拉面	wf ig la mm	3
 莲篷豆腐	lm pg dz fu	3
 五夫醉鸡	wu fu zv ji	3
 炸豆奶	va dz nd	3
 清蒸青鳝	qk vg qk uj	3
 葱辣鱼脯	cs la yu pu	3
-炸吉利排骨	va ji li pd gu	3
 鲜奶泡夫	xm nd pc fu	3
 代黄杏	dd hl xk	3
 菜烩面	cd hv mm	3
 青椒南瓜	qk jn nj gx	3
 龙眼凤肝	ls yj fg gj	3
-关爷宫前尖米丸	gr ye gs qm jm mi wj	3
-蛋白果汁饮料	dj bd go vi yb ln	3
-山梨醇酐单硬脂酸酯	uj li iy gj dj yk vi sr vi	3
 三色鸡丁	sj se ji dk	3
-孔府烤花搅鲑鱼	ks fu kc hx jn gv yu	3
 家常旺	jx ih wh	3
 炸糯米鸡	va no mi ji	3
 东坡鳊鱼	ds po bm yu	3
-粉丝海米芹菜汤	ff si hd mi qb cd th	3
-干火靠大虾	gj ho kc da xx	3
 糖醋猪腰	th cu vu yc	3
-柠檬黄铝色淀	nk mg hl lv se dm	3
-通草炖猪脚	ts cc dy vu jn	3
 卧龙戏珠	wo ls xi vu	3
-果酱蛋糕卷	go jl dj gc jr	3
-川冬菜炒鲜蚕豆	ir ds cd ic xm cj dz	3
-罗望子多糖胶	lo wh zi do th jn	3
 玉林肉蛋	yu lb rz dj	3
-香脂醋风味烤鸡	xl vi cu fg ww kc ji	3
-泡菜炒肉末	pc cd ic rz mo	3
 麻滋粿	ma zi go	3
 红糟鱼丝	hs zc yu si	3
-基本戚风蛋糕	ji bf qi fg dj gc	3
-枣仁龙眼粥	zc rf ls yj vz	3
-木耳红枣粥	mu er hs zc vz	3
-桑椹红枣汤	sh uf hs zc th	3
-干锅带皮黄牛肉	gj go dd pi hl nq rz	3
 肉丸豆腐	rz wj dz fu	3
-淮杞炖羊肉	hk qi dy yh rz	3
 田艾板	tm ai bj	3
 千层发糕	qm cg fa gc	3
 奉香上寿	fg xl uh uz	3
 普斯福特	pu si fu te	3
 罐儿蹄	gr er ti	3
-水晶明虾球	uv jk mk xx qq	3
 素桃酥	su tc su	3
-己基肉桂醛	ji ji rz gv qr	3
 豆沙松糕	dz ua ss gc	3
 蜜芙蓉	mi fu rs	3
 波丝油糕	bo si yz gc	3
-蟹粉西兰花	xp ff xi lj hx	3
-黄豆猪肝汤	hl dz vu gj th	3
-泸州鱼头火锅	lu vz yu tz ho go	3
 赣州三鱼	gj vz sj yu	3
 芦笋大虾	lu sy da xx	3
-大理翠梅酸辣鱼	da li cv mw sr la yu	3
-大石四季仔	da ui si ji zd	3
-二甲基苄基原醇	er jx ji bm ji yr iy	3
 泡绿菜花	pc lv cd hx	3
 八珍月饼	ba vf yt bk	3
-八宝银耳羹	ba bc yb er gg	3
 贡品麻花	gs pb ma hx	3
-肉苁蓉炖羊肉	rz cs rs dy yh rz	3
-肉苁蓉炖羊肾	rz cs rs dy yh uf	3
-夏威夷冰咖啡	xx ww yi bk ka fw	3
-鲜椒嫩仔鸡	xm jn nf zi ji	3
 金银鸽肉	jb yb ge rz	3
 水煎饼	uv jm bk	3
-杞忧烘皮肘	qi yz hs pi vz	3
-美式洋葱圈	mw ui yh cs qr	3
-苦麦菜鲩鱼片滚豆腐	ku md cd hr yu pm gy dz fu	3
-银耳香菇鸡肉汤	yb er xl gu ji rz th	3
 干烧萝卜	gj uc lo bo	3
-持炉珍珠鸡	ii lu vf vu ji	3
-仪征雀脯菜	yi vg qt pu cd	3
 玉竹心子	yu vu xb zi	3
 熟鱼面	uu yu mm	3
 凤凰萝卜	fg hl lo bo	3
-随上荷叶卷	sv uh he ye jr	3
-西洋菜蜜枣鲫鱼汤	xi yh cd mi zc ji yu th	3
-歙县豆腐脑髓	ue xm dz fu nc sv	3
 糖醋莴笋	th cu wo sy	3
-花生酥心糖	hx ug su xb th	3
 醋椒活鱼	cu jn ho yu	3
-香煎柠檬鸭	xl jm nk mg ya	3
 蝴蝶烩鳝	hu dp hv uj	3
-甘甜黑巧克力	gj tm hw qn ke li	3
-海天老抽豉油皇	hd tm lc iz ui yz hl	3
 寡妇之吻	gx fu vi wf	3
-鸡丝炒年糕	ji si ic nm gc	3
-哈尔滨熏鸡	ha er bb xy ji	3
-醋辣白菜梗	cu la bd cd gg	3
-桂花红烧肉	gv hx hs uc rz	3
-陈年菜脯鸡	if nm cd pu ji	3
-鲜牛奶煮鱼	xm nq nd vu yu	3
-抹茶冰淇淋蛋糕	mo ia bk qi lb dj gc	3
-清蒸杞甲鱼	qk vg qi jx yu	3
-广式腊味煲仔饭	gl ui la ww bc zd fj	3
 津八件	jb ba jm	3
-山梨醇酐单月桂酸酯	uj li iy gj dj yt gv sr vi	3
 麻辣白菜	ma la bd cd	3
-酸汤龙骨面	sr th ls gu mm	3
-胡桃豆腐羹	hu tc dz fu gg	3
 绿豆团	lv dz tr	3
-回族麦芽糖	hv zu md ya th	3
 脆署饼	cv uu bk	3
 铁扒仔鸡	tp ba zi ji	3
-重庆火锅鱼	is qk ho go yu	3
 桃杞鸡卷	tc qi ji jr	3
 天冬蜜饯	tm ds mi jm	3
-粉丝香菇蛋汤	ff si xl gu dj th	3
-海鲜豆腐羹	hd xm dz fu gg	3
-抹茶椰奶凉糕	mo ia ye nd ll gc	3
-干锅腊味河蚌	gj go la ww he bh	3
-老妈子带鱼	lc ma zi dd yu	3
-龙岭五炒粉	ls lk wu ic ff	3
-豉椒炒牛肉	ui jn ic nq rz	3
-翡翠瑶柱羹	fw cv yc vu gg	3
 上海蒸鱼	uh hd vg yu	3
-玫瑰凉糍粑	mw gv ll ci ba	3
 三七蒸鸡	sj qi vg ji	3
 清水鲩圆	qk uv hr yr	3
 茉莉鱼丁	mo li yu dk	3
 炸蒸肉	va vg rz	3
-清炸黄河刀鱼	qk va hl he dc yu	3
 木耳酱	mu er jl	3
 芙蓉海底	fu rs hd di	3
-宜春松花皮蛋	yi iy ss hx pi dj	3
-红烧麒麟面	hs uc qi lb mm	3
 龙城狗肉	ls ig gz rz	3
-玫瑰薄荷茶	mw gv bo he ia	3
-番茄煮黄豆	fj qp vu hl dz	3
 甜蒲桃	tm pu tc	3
-鹿邑孔集卤鸡	lu yi ks ji lu ji	3
 一品薯包	yi pb uu bc	3
-青豆牛肉末	qk dz nq rz mo	3
 提丝发糕	ti si fa gc	3
 麻仁酥鸭	ma rf su ya	3
-天水浆水面	tm uv jl uv mm	3
-烧椒拌皮蛋	uc jn bj pi dj	3
-乳酪蒸虾仁	ru lc vg xx rf	3
-豉汁蟠龙鳝	ui vi pj ls uj	3
-苯基苯酚钠	bf ji bf ff na	3
 如意竹荪	ru yi vu sy	3
 南式细点	nj ui xi dm	3
 枇杷肝	pi pa gj	3
 客家茶果	ke jx ia go	3
 寺前馄饨	si qm hy ty	3
-支竹羊腩煲	vi vu yh nj bc	3
 泡菜肉末	pc cd rz mo	3
 睁眼辣子	vg yj la zi	3
-法式桃子布丁	fa ui tc zi bu dk	3
-奶黄雪蛤酥	nd hl xt ha su	3
 北方嘉宾	bw fh jx bb	3
-米茸芋丝虾煲	mi rs yu si xx bc	3
-长春鹿鞭汤	ih iy lu bm th	3
 延边冷面	yj bm lg mm	3
-湖州大馄饨	hu vz da hy ty	3
 菊花对蟹	ju hx dv xp	3
 葡萄雪鸡	pu tc xt ji	3
-莘塍豆腐干	uf ig dz fu gj	3
-葡萄菠萝杏汁	pu tc bo lo xk vi	3
-新疆抓饭烧麦	xb jl vx fj uc md	3
-得心斋酝猪蹄	de xb vd yy vu ti	3
 软蟳粥	rr xy vz	3
 螃蟹酥	ph xp su	3
 干烧雅鱼	gj uc ya yu	3
@@ -7627,143 +5795,81 @@ sort: by_weight
 旺得芬	wh de ff	3
 鸡鸭饸饹	ji ya he le	3
 黄精炖肉	hl jk dy rz	3
-松树猴头蘑	ss uu hz tz mo	3
-新疆丝路明珠	xb jl si lu mk vu	3
 白梨凤脯	bd li fg pu	3
 咖喱焖鸡	ga li mf ji	3
 橙酒汁	ig jq vi	3
 秀山雪枣	xq uj xt zc	3
 糟煨冬笋	zc ww ds sy	3
-马铃薯冷汤	ma lk uu lg th	3
 崞阳麻叶	go yh ma ye	3
 十香果	ui xl go	3
-红咖喱金瓜加积鸭	hs ga li jb gx jx ji ya	3
 青豆色拉	qk dz se la	3
-红蜻蜓鱼头火锅	hs qk tk yu tz ho go	3
 芝麻田鸡	vi ma tm ji	3
 小肉面	xn rz mm	3
-锅贴石斑夹	go tp ui bj jx	3
 五柳鲜鱼	wu lq xm yu	3
 红扒鱼唇	hs ba yu iy	3
 虾肉月饼	xx rz yt bk	3
 非常男士	fw ih nj ui	3
 崇州荞面	is vz qn mm	3
-水煮白扎肉	uv vu bd va rz	3
 怿味胡豆	yi ww hu dz	3
-桑叶眉豆卷	sh ye mw dz jr	3
 苕酥糖	uc su th	3
-李锦记精选生抽	li jb ji jk xr ug iz	3
 大米蛋糕	da mi dj gc	3
-章鱼焖花腩	vh yu mf hx nj	3
 玛瑙银杏	ma nc yb xk	3
-嫦娥奔月饼	ih ee bf yt bk	3
-亮蓝铝色淀	ll lj lv se dm	3
 五色沙拉	wu se ua la	3
 麻食子	ma ui zi	3
-渭南水晶饼	ww nj uv jk bk	3
-二仙居碗坨	er xm ju wj to	3
 鳝鱼辣汤	uj yu la th	3
-鲫鱼黄瓜汤	ji yu hl gx th	3
 北芪瘦肉	bw qi uz rz	3
-彭州九尺板鸭	pg vz jq ii bj ya	3
-樊记肉加馍	fj ji rz jx mo	3
-太子参百合田鸡汤	td zi cj bd he tm ji th	3
-宫廷小窝头	gs tk xn wo tz	3
 麻辣冬笋	ma la ds sy	3
 荷包圆子	he bc yr zi	3
 合菜盖被	he cd gd bw	3
-茄子三明治	qp zi sj mk vi	3
-甘草抗氧化物	gj cc kh yh hx wu	3
 南瓜蒸肉	nj gx vg rz	3
 紫萝牛肉	zi lo nq rz	3
 四宝上汤	si bc uh th	3
-苹果菠萝生姜汁	pk go bo lo ug jl vi	3
 雪花鱼肚	xt hx yu du	3
 棠花吐蕊	th hx tu rv	3
 鱼云酥	yu yy su	3
-四季美小笼汤包	si ji mw xn ls th bc	3
 烩乌龟蛋	hv wu gv dj	3
-蜜汁三文鱼	mi vi sj wf yu	3
-小葱烧财鱼	xn cs uc cd yu	3
 蜜饯龙眼	mi jm ls yj	3
 白蜜黄螺	bd mi hl lo	3
 鸡蛋包藕	ji dj bc ou	3
 鸡肠饼	ji ih bk	3
 烙饼拌汤	lc bk bj th	3
 豆苗虾仁	dz mn xx rf	3
-网油凤肝卷	wh yz fg gj jr	3
-馄饨香蕉卷	hy ty xl jn jr	3
 宜宾肺片	yi bb fw pm	3
 红喜包	hs xi bc	3
-百果馅酒酿圆子	bd go xm jq nl yr zi	3
 泡椒鸡片	pc jn ji pm	3
-香酥竹荪鱼	xl su vu sy yu	3
 甜薯羹	tm uu gg	2
-桂花白糖饼	gv hx bd th bk	2
-凤庆粑粑卷	fg qk ba ba jr	2
 橘露汤圆	ju lu th yr	2
-温州黄汤茶	wf vz hl th ia	2
 黑加仑红	hw jx ly hs	2
-香辣腌制料	xl la yj vi ln	2
-荞蕨象生梨	qn jt xl ug li	2
-金牌猪手王	jb pd vu uz wh	2
 担担鸡	dj dj ji	2
 萨其马桃	sa qi ma tc	2
 花雕醉虾	hx dn zv xx	2
-鸡肉沙拉口袋饼	ji rz ua la kz dd bk	2
-哈尔滨风干口条	ha er bb fg gj kz tn	2
 狍子脊	pc zi ji	2
 欢心美	hr xb mw	2
 高桥松糕	gc qn ss gc	2
 韭菜馃	jq cd go	2
-茶熏八爪鱼	ia xy ba vc yu	2
 水晶团子	uv jk tr zi	2
 炸蚕蛹鸡	va cj ys ji	2
-西班牙土豆煎蛋	xi bj ya tu dz jm dj	2
-花生大枣猪蹄汤	hx ug da zc vu ti th	2
 烤牌子	kc pd zi	2
-鱼腥草蒸鸡	yu xk cc vg ji	2
-老汤黄狗猪头肉	lc th hl gz vu tz rz	2
 葱爆兔肉	cs bc tu rz	2
-烧鸡丁辣子	uc ji dk la zi	2
 锅盔辣子	go kv la zi	2
 三丝驼峰	sj si to fg	2
-贵妃松花饼	gv fw ss hx bk	2
 猪耳朵面	vu er do mm	2
 干巴月饼	gj ba yt bk	2
 良友橄榄	ll yz gj lj	2
 糖醋嫩藕	th cu nf ou	2
 八宝桂鱼	ba bc gv yu	2
-红枣红糖煮南瓜	hs zc hs th vu nj gx	2
 路南乳扇	lu nj ru uj	2
-干锅青笋腊肉	gj go qk sy la rz	2
-老竹大方茶	lc vu da fh ia	2
 糖熘鲤鱼	th lq li yu	2
 宝箱豆腐	bc xl dz fu	2
 蜜饯菱角	mi jm lk jn	2
 红烧浮皮	hs uc fu pi	2
-西兰花浓汤	xi lj hx ns th	2
-北杏参地老鸭汤	bw xk cj de lc ya th	2
 路易歌德	lu yi ge de	2
-滨州锅子饼	bb vz go zi bk	2
 红枣炖梨	hs zc dy li	2
-煎豆腐鱼烙	jm dz fu yu lc	2
-云耳西芹炒肉片	yy er xi qb ic rz pm	2
 金腿鲫鱼	jb tv ji yu	2
 沙锅散丹	ua go sj dj	2
 香烹狍脊	xl pg pc ji	2
-大顺斋糕点厂	da uy vd gc dm ih	2
 锥栗罐头	vv li gr tz	2
-红油抄手酱	hs yz ic uz jl	2
-山药煮豆腐	uj yc vu dz fu	2
-番茄泡蛋汤	fj qp pc dj th	2
 葱辣鱼条	cs la yu tn	2
-莲茸层层酥	lm rs cg cg su	2
-李锦记草菇老抽	li jb ji cc gu lc iz	2
-长寿龙须面	ih uz ls xu mm	2
-绿芦笋罐头	lv lu sy gr tz	2
-炒良乡栗子	ic ll xl li zi	2
-八宝肉辣子	ba bc rz la zi	2
 云南油茶	yy nj yz ia	2
 腰果芹心	yc go qb xb	2
 拔丝蜜桔	ba si mi ju	2
@@ -7771,173 +5877,86 @@ sort: by_weight
 果酱咖啡	go jl ka fw	2
 铁板泥鳅	tp bj ni qq	2
 上海油鸡	uh hd yz ji	2
-李锦记幼滑虾酱	li jb ji yz hx xx jl	2
 砂锅三味	ua go sj ww	2
 酸奶戚风	sr nd qi fg	2
-金色咖啡茶	jb se ka fw ia	2
 破酥缸炉	po su gh lu	2
 绩溪菜糕	ji xi cd gc	2
 玉面葫芦	yu mm hu lu	2
-山城棒棒鸡	uj ig bh bh ji	2
 五白糕	wu bd gc	2
 酸辣三丝	sr la sj si	2
 湘西辣椒	xl xi la jn	2
-白果桂花羹	bd go gv hx gg	2
-聚甘油蓖麻醇酯	ju gj yz bi ma iy vi	2
 雾洞茶	wu ds ia	2
-淮杞塘虱鱼汤	hk qi th ui yu th	2
 薄荷香糕	bo he xl gc	2
 清蒸钳鱼	qk vg qm yu	2
 凤穿金衣	fg ir jb yi	2
 素臊子面	su sc zi mm	2
 红枣酥肉	hs zc su rz	2
-艄公号子鱼	uc gs hc zi yu	2
-青蟹粉丝煲	qk xp ff si bc	2
-牡蛎蒸米饭	mu li vg mi fj	2
-五香脆皮鸡	wu xl cv pi ji	2
 芝麻肉片	vi ma rz pm	2
-抗坏血酸磷酸酯镁	kh hk xt sr lb sr vi mw	2
-脆皮咕噜肉	cv pi gu lu rz	2
 香酥山药	xl su uj yc	2
 玉兰花糕	yu lj hx gc	2
-猪油夹沙球	vu yz jx ua qq	2
-过桥牛百叶	go qn nq bd ye	2
 一品配方	yi pb pw fh	2
 天山烘绿	tm uj hs lv	2
 麻辣鳝片	ma la uj pm	2
 疙瘩油茶	ge da yz ia	2
 纸包三鲜	vi bc sj xm	2
 牛膝蹄筋	nq xi ti jb	2
-明顺斋什锦烧饼	mk uy vd ui jb uc bk	2
-陆家浜糖枣	lu jx bh th zc	2
-荣华麻香酥	rs hx ma xl su	2
 藏式面条	ch ui mm tn	2
 敬奉环浆	jk fg hr jl	2
 绿茶软糖	lv ia rr th	2
 五香腰果	wu xl yc go	2
 四喜鱼卷	si xi yu jr	2
 花盏龙眼	hx vj ls yj	2
-知味斋水爆肚	vi ww vd uv bc du	2
 煸馅水饺	bm xm uv jn	2
 醋拌莲藕	cu bj lm ou	2
 高维苏肠	gc ww su ih	2
-巴国玉米糕	ba go yu mi gc	2
-西梅酿羊排	xi mw nl yh pd	2
 甜艾团	tm ai tr	2
-满天香贯香寸	mj tm xl gr xl cy	2
-五香牛筋斗	wu xl nq jb dz	2
-鲍汁百龄菇	bc vi bd lk gu	2
-红椒爆鲜虾	hs jn bc xm xx	2
-牛奶煮平菇	nq nd vu pk gu	2
 洋烧排骨	yh uc pd gu	2
-雷家豆腐元子	lw jx dz fu yr zi	2
 红酒牛腩	hs jq nq nj	2
-金腿脊梅炖腰酥	jb tv ji mw dy yc su	2
-百合冰咖啡	bd he bk ka fw	2
-松脆海蜇皮	ss cv hd ve pi	2
 清炒鸭掌	qk ic ya vh	2
-蟹黄大生翅	xp hl da ug ii	2
 油浸鲳鱼	yz jb ih yu	2
-巧克力收蛋泡盏	qn ke li uz dj pc vj	2
-西红柿肉片汤	xi hs ui rz pm th	2
-蟹黄扒芦笋	xp hl ba lu sy	2
 狗仔粉	gz zd ff	2
-栗子焖羊肉	li zi mf yh rz	2
 尧王饼	yc wh bk	2
-红茶海绵蛋糕	hs ia hd mm dj gc	2
-茄汤焗香鸡	jx th ju xl ji	2
-鹌鹑枸杞粥	an iy gz qi vz	2
-滑肉烩鲜竹	hx rz hv xm vu	2
 焚香入宴	ff xl ru yj	2
 漆蜡妙食	qi la mn ui	2
-银耳雪梨柚子蜜	yb er xt li yz zi mi	2
-炖豆腐猪蹄香菇	dy dz fu vu ti xl gu	2
-煎金钱牛柳	jm jb qm nq lq	2
-冻豆腐金针	ds dz fu jb vf	2
 清明艾饺	qk mk ai jn	2
-金樱子杜仲煲猪尾	jb yk zi du vs bc vu ww	2
-金针菇肉丝汤	jb vf gu rz si th	2
-长崎蜂蜜蛋糕	ih qi fg mi dj gc	2
-什锦水果羹	ui jb uv go gg	2
-蜜桂花生糖	mi gv hx ug th	2
-清炖开凌梭	qk dy kd lk so	2
 金狮绣球	jb ui xq qq	2
-果汁煎肉脯	go vi jm rz pu	2
 炝豆腐	ql dz fu	2
 麻麻豆豆	ma ma dz dz	2
 烩金银丝	hv jb yb si	2
 红茶饼干	hs ia bk gj	2
-青椒炒子鸡	qk jn ic zi ji	2
-迟菜心滚肉片汤	ii cd xb gy rz pm th	2
 香肠芥兰	xl ih jp lj	2
 一品鲳鱼	yi pb ih yu	2
-归参山药猪腰	gv cj uj yc vu yc	2
-八宝蛋炸食	ba bc dj va ui	2
-奶油菠萝冻	nd yz bo lo ds	2
-秘制国药中华鳖	mi vi go yc vs hx bp	2
-香蕉芝士蛋糕	xl jn vi ui dj gc	2
 猪头方肉	vu tz fh rz	2
-蜜瓜螺头鸡汤	mi gx lo tz ji th	2
 砂仁糕	ua rf gc	2
-什锦多维玉米面粥	ui jb do ww yu mi mm vz	2
-玉溪水晶蜜饯	yu xi uv jk mi jm	2
 河曲红果	he qu hs go	2
-灰树花保健饮料	hv uu hx bc jm yb ln	2
 梧州月饼	wu vz yt bk	2
 核桃香脆	he tc xl cv	2
 普米饭肠	pu mi fj ih	2
 一主六配	yi vu lq pw	2
-李锦记蒸鱼豆豉	li jb ji vg yu dz ii	2
 香蕉果炸	xl jn go va	2
 糖醋蜜肉	th cu mi rz	2
-嘉兴鲜肉粽子	jx xk xm rz zs zi	2
 公爵樱桃	gs jt yk tc	2
-酒香椒盐肘子	jq xl jn yj vz zi	2
-生烧筋尾舌	ug uc jb ww ue	2
 三涧料酒	sj jm ln jq	2
-红茶法式薄饼	hs ia fa ui bc bk	2
 软脂糕	rr vi gc	2
-济南蜜三刀	ji nj mi sj dc	2
-十二酸乙酯	ui er sr yi vi	2
 锅熠银鱼	go yi yb yu	2
-党参麦冬瘦肉汤	dh uf md ds uz rz th	2
-木瓜粟米花生生鱼汤	mu gx su mi hx ug ug yu th	2
 回手面	hv uz mm	2
-洋葱炒鳝糊	yh cs ic uj hu	2
 桂花橄榄	gv hx gj lj	2
 金柑桔饼	jb gj ju bk	2
 奶酪软糖	nd lc rr th	2
-椰蓉马卡隆	ye rs ma ka ls	2
-鸿起顺饭馆	hs qi uy fj gr	2
 虾枣汤	xx zc th	2
-银杏蚬鸭煲	yb xk xm ya bc	2
 香蘑炖鸡	xl mo dy ji	2
-阿胶牛肉汤	ee jn nq rz th	2
-金山时雨茶	jb uj ui yu ia	2
-山珍大叶芹	uj vf da ye qb	2
-香酥蛋塔盅	xl su dj ta vs	2
-渭南时晨包子	ww nj ui if bc zi	2
 万能烤箱	wj ng kc xl	2
-干菜擦酥饼	gj cd ca su bk	2
 蜜辣椒	mi la jn	2
-榄仁猪油糕	lj rf vu yz gc	2
 酱爆螺片	jl bc lo pm	2
-劲霸牛肉汁	jb ba nq rz vi	2
 发面油饼	fa mm yz bk	2
-猴头蘑烩凤片	hz tz mo hv fg pm	2
 风鸡斩肉	fg ji vj rz	2
 蛤什蟆汤	ha uf ma th	2
-稻香春南味食品	dc xl iy nj ww ui pb	2
-银芽韭菜花	yb ya jq cd hx	2
 小茶糕	xn ia gc	2
 素枣糕	su zc gc	2
 江南丸	jl nj wj	2
 炒山药泥	ic uj yc ni	2
-干焙洋芋丝	gj bw yh yu si	2
 酥炸嫩鸡	su va nf ji	2
 蓝锭果红	lj dk go hs	2
-什锦水果羔	ui jb uv go gc	2
-白鹅煨淡菜	bd ee ww dj cd	2
 天津烧肉	tm jb uc rz	2
 西芹鸡肫	xi qb ji vy	2
 猪肉烧卖	vu rz uc md	2
@@ -7947,1033 +5966,475 @@ sort: by_weight
 翡翠烧买	fw cv uc md	2
 火炙糕	ho vi gc	2
 大花蛋糕	da hx dj gc	2
-葱油发面饼	cs yz fa mm bk	2
 熬黄花鱼	ao hl hx yu	2
-椰香红豆糕	ye xl hs dz gc	2
 葱油草菇	cs yz cc gu	2
-水晶菊花酥	uv jk ju hx su	2
 百子冬瓜	bd zi ds gx	2
 高丽香蕉	gc li xl jn	2
 金华豆豉	jb hx dz ii	2
-去皮番茄罐头	qu pi fj qp gr tz	2
-澳大利亚的芒果	ao da li ya de mh go	2
-鱼香酥青豆	yu xl su qk dz	2
-常州德泰恒	ih vz de td hg	2
 基斯乐	ji si le	2
 麻心元宵	ma xb yr xn	2
 烤牛骨	kc nq gu	2
 摩利菌	mo li jy	2
-核桃葡萄干面包	he tc pu tc gj mm bc	2
-虹桥绿豆糕	hs qn lv dz gc	2
-生态咖啡调糖	ug td ka fw dn th	2
 金钱干贝	jb qm gj bw	2
-五彩牛肉丝	wu cd nq rz si	2
 凉拌茭白	ll bj jn bd	2
-沙参心肺汤	ua uf xb fw th	2
-龙宫照宝鸭	ls gs vc bc ya	2
-牛奶千层蛋糕	nq nd qm cg dj gc	2
 冷冻鸭掌	lg ds ya vh	2
-五味明虾片	wu ww mk xx pm	2
 紫香乾	zi xl qm	2
-箬叶芝麻糖细卷	ro ye vi ma th xi jr	2
 薯粉果	uu ff go	2
 烤鱼扇	kc yu uj	2
 落葵红	lo kv hs	2
-三鲜龙凤球	sj xm ls fg qq	2
-油酥小水果	yz su xn uv go	2
 甜辣乾	tm la qm	2
 长寿薄脆	ih uz bc cv	2
-黑樱桃烧鸭脯	hw yk tc uc ya pu	2
-东北一锅出	ds bw yi go iu	2
-海带鸭子汤	hd dd ya zi th	2
 西安包子	xi an bc zi	2
-柳城云片糕	lq ig yy pm gc	2
-莳萝芦笋三文鱼面	ui lo lu sy sj wf yu mm	2
-椰蓉杏仁饼	ye rs xk rf bk	2
-寿字五香大虾	uz zi wu xl da xx	2
-茄子煮花甲	qp zi vu hx jx	2
 糕粑藕粉	gc ba ou ff	2
 糖酱鱼	th jl yu	2
-老鸭炖虫草	lc ya dy is cc	2
-莲童牌冬瓜条	lm ts pd ds gx tn	2
-干贝水晶鸡	gj bw uv jk ji	2
 炒鸡米	ic ji mi	2
-鲤鱼苦瓜汤	li yu ku gx th	2
 红扒排翅	hs ba pd ii	2
-紫桂焖大排	zi gv mf da pd	2
 虾米笋馃	xx mi sy go	2
-金枪鱼三文治	jb ql yu sj wf vi	2
 泡菜鹅肠	pc cd ee ih	2
 百仁全鸭	bd rf qr ya	2
-川味沸腾鱼	ir ww fw tg yu	2
-玉竹百合猪瘦肉汤	yu vu bd he vu uz rz th	2
-奶油核桃糕	nd yz he tc gc	2
 苏八件	su ba jm	2
-卡布罗尔巴西烤肉	ka bu lo er ba xi kc rz	2
 干煸豇豆	gj bm jl dz	2
-猪脊鸡肫粥	vu ji ji vy vz	2
-芥兰炒香肠	jp lj ic xl ih	2
-麻婆豆腐餐厅	ma po dz fu cj tk	2
 火鞭牛肉	ho bm nq rz	2
 豆芽罐头	dz ya gr tz	2
 蛏干烧肉	ig gj uc rz	2
 凉粉鲫鱼	ll ff ji yu	2
 笨月饼	bf yt bk	2
 钱江鲈鱼	qm jl lu yu	2
-手撕火焙鱼	uz si ho bw yu	2
 麻蓉炸糕	ma rs va gc	2
-苁蓉羊肉羹	cs rs yh rz gg	2
-枸杞牛肝汤	gz qi nq gj th	2
-酱烧冬瓜条	jl uc ds gx tn	2
 虎皮香肉	hu pi xl rz	2
 双仁浮皮	ul rf fu pi	2
-洋参雪耳炖燕窝	yh cj xt er dy yj wo	2
 香油膳糊	xl yz uj hu	2
-广州白切鸡	gl vz bd qp ji	2
-南通甜包瓜	nj ts tm bc gx	2
 罗汉鱼首	lo hj yu uz	2
 网油腰卷	wh yz yc jr	2
 川味蟹	ir ww xp	2
-松子黄干糕	ss zi hl gj gc	2
 肉末洋葱	rz mo yh cs	2
-鲜莲炒子鸡	xm lm ic zi ji	2
-修水双井茶	xq uv ul jk ia	2
 玛加列	ma jx lp	2
 豆鼓肉	dz gu rz	2
 竹桶粽子	vu ts zs zi	2
 白汁甘笋	bd vi gj sy	2
-仙度氏咖啡	xm du ui ka fw	2
 酱油嫩鸡	jl yz nf ji	2
-油炸卤制花干	yz va lu vi hx gj	2
 四喜福袋	si xi fu dd	2
 野鸭脯	ye ya pu	2
-糖水洋梨罐头	th uv yh li gr tz	2
 丁果糖	dk go th	2
-炸鸳鸯嘎渣	va yr yh ga va	2
 红糖锅盔	hs th go kv	2
 川汁鸭掌	ir vi ya vh	2
-黄金咖喱角	hl jb ga li jn	2
-薄荷蔬菜沙拉	bo he uu cd ua la	2
 百叶酥	bd ye su	2
 金牛鸭子	jb nq ya zi	2
-天一坊饭庄	tm yi fh fj vl	2
 荷花蛋糕	he hx dj gc	2
 自酥饼	zi su bk	2
 佤族鼠食	wa zu uu ui	2
-凯司令蛋糕	kd si lk dj gc	2
 双椒烘蛋	ul jn hs dj	2
-山楂云卷糕	uj va yy jr gc	2
 砂锅山海	ua go uj hd	2
 白脱核桃	bd to he tc	2
-水煮回头鱼	uv vu hv tz yu	2
-巍山粑肉饵丝	ww uj ba rz er si	2
-干锅飘香鸡	gj go pn xl ji	2
 家常鸡块	jx ih ji kk	2
 花茹田鸡	hx ru tm ji	2
-牛肉丝炒芹菜	nq rz si ic qb cd	2
 三色蛋卷	sj se dj jr	2
 肝糕汤	gj gc th	2
-豆苗炒虾片	dz mn ic xx pm	2
 香菇豆角	xl gu dz jn	2
-李锦记豉油鸡汁	li jb ji ui yz ji vi	2
-王婆麻辣鸡	wh po ma la ji	2
-大厨来豆瓣酱	da iu ld dz bj jl	2
 云河段霄	yy he dr xn	2
 枣泥米糕	zc ni mi gc	2
 荞面包子	qn mm bc zi	2
-吗啉脂肪酸盐果蜡	ma lb vi fh sr yj go la	2
 红烧鸭翅	hs uc ya ii	2
-干锅野猪肉	gj go ye vu rz	2
-豉椒墨鱼球	ui jn mo yu qq	2
 脆青梅	cv qk mw	2
 白汁菜心	bd vi cd xb	2
-赤小豆粟米须生鱼汤	ii xn dz su mi xu ug yu th	2
-太子参无花果瘦肉汤	td zi cj wu hx go uz rz th	2
-面筋萨其马	mm jb sa qi ma	2
 大蛋散	da dj sj	2
-原盅炖北菇	yr vs dy bw gu	2
-八宝糯米鸡	ba bc no mi ji	2
 青椒豇豆	qk jn jl dz	2
-大厨来蒜蓉辣椒酱	da iu ld sr rs la jn jl	2
-荷叶米粉鸡	he ye mi ff ji	2
-丝瓜白菜猪瘦肉汤	si gx bd cd vu uz rz th	2
-氽银耳鸭舌	ty yb er ya ue	2
-刀削油泼面	dc xn yz po mm	2
-开远甜蕌头	kd yr tm lw tz	2
-白炒墨鱼卷	bd ic mo yu jr	2
-猪脾枣米粥	vu pi zc mi vz	2
 干贝汤包	gj bw th bc	2
-红枣枸杞奶	hs zc gz qi nd	2
 香草话梅	xl cc hx mw	2
-蜜汁辣黄瓜	mi vi la hl gx	2
 熬乳茶	ao ru ia	2
 干炸黄雀	gj va hl qt	2
-黄鱼鱼肚汤	hl yu yu du th	2
-荷包桂花糯	he bc gv hx no	2
-日式照烧鸡腿	ri ui vc uc ji tv	2
-李锦记精选老抽	li jb ji jk xr lc iz	2
-酸奶芝士蛋糕	sr nd vi ui dj gc	2
-慧娟火腿笋干老鸭面	hv jr ho tv sy gj lc ya mm	2
-清蒸冬瓜鸡块	qk vg ds gx ji kk	2
 草莓摩司	cc mw mo si	2
-香菇茭白汤	xl gu jn bd th	2
 粉汤彩饺	ff th cd jn	2
-果仁夹心蛋糕	go rf jx xb dj gc	2
 软炸石鸡	rr va ui ji	2
 炸元葱	va yr cs	2
-雪耳炖白鸽	xt er dy bd ge	2
 金鱼角	jb yu jn	2
-海天味极鲜	hd tm ww ji xm	2
-三文鱼寿司卷	sj wf yu uz si jr	2
 担担油茶	dj dj yz ia	2
 香橙糕	xl ig gc	2
 油淋鸽子	yz lb ge zi	2
-通三益秋梨膏	ts sj yi qq li gc	2
 海鲜粉干	hd xm ff gj	2
-西红柿煎蛋汤	xi hs ui jm dj th	2
 蜜瓜脆鳝	mi gx cv uj	2
 象生雪梨	xl ug xt li	2
 西府酿皮	xi fu nl pi	2
 炒香舌片	ic xl ue pm	2
-广式烧填鸭	gl ui uc tm ya	2
-乡村小炒鸡	xl cy xn ic ji	2
 火爆猪肝	ho bc vu gj	2
-姜丝焗肉蟹	jl si ju rz xp	2
 宿松雪枣	su ss xt zc	2
-昆布鸡腿汤	ky bu ji tv th	2
 松花饼干	ss hx bk gj	2
 板栗月饼	bj li yt bk	2
-猪肉韭菜馅水饺	vu rz jq cd xm uv jn	2
 蜜饯槟子	mi jm bb zi	2
-银杞明目汤	yb qi mk mu th	2
 呱嗒子	gx da zi	2
 固体乳胶	gu ti ru jn	2
-绿豆小煎饼	lv dz xn jm bk	2
-烤鳗鱼鸡蛋卷	kc mj yu ji dj jr	2
-金牛牌奶油蛋卷	jb nq pd nd yz dj jr	2
 打头道	da tz dc	2
 炸鸡蛋包	va ji dj bc	2
-山药薏仁茯苓粳米粥	uj yc yi rf fu lk jk mi vz	2
-赤藓红铝色淀	ii xm hs lv se dm	2
-五通桥叶儿耙	wu ts qn ye er ba	2
 番茄海蜇	fj qp hd ve	2
-耀华西餐厅	yc hx xi cj tk	2
-生地排骨汤	ug di pd gu th	2
 鹅肝坯	ee gj pi	2
-果汁牛肉片	go vi nq rz pm	2
-大枣百合汤	da zc bd he th	2
-栗子莲子猪腰汤	li zi lm zi vu yc th	2
 鱼鳞酥	yu lb su	2
-鱿鱼蒜头酱	yz yu sr tz jl	2
 毛豆结	mc dz jp	2
 三角火烧	sj jn ho uc	2
-水饺豆沙煎饼	uv jn dz ua jm bk	2
 拔丝楂糕	ba si va gc	2
 湖米茭白	hu mi jn bd	2
 人参枣汁	rf uf zc vi	2
 四色片糕	si se pm gc	2
 吉祥干贝	ji xl gj bw	2
 砂煲鱼头	ua bc yu tz	2
-川味口水鸡	ir ww kz uv ji	2
 桐庐白梨	ts lu bd li	2
-咸鱼茄瓜煲	xm yu jx gx bc	2
 蜜汁蕃茄	mi vi fj qp	2
 素锅烤鸭	su go kc ya	2
-聚氧乙烯木糖醇酐单硬脂酸酯	ju yh yi xi mu th iy gj dj yk vi sr vi	2
-自贡水煮牛肉	zi gs uv vu nq rz	2
 金钱牛排	jb qm nq pd	2
-铁板日本豆腐	tp bj ri bf dz fu	2
-清水滑子蘑罐头	qk uv hx zi mo gr tz	2
-香肠烧菜花	xl ih uc cd hx	2
-酷蛋白酸钠	ku dj bd sr na	2
 云托八鲜	yy to ba xm	2
 珊瑚鱼丁	uj hu yu dk	2
-莲子营养粉	lm zi yk yh ff	2
 清蒸鹌鹑	qk vg an iy	2
 美式煮鱼	mw ui vu yu	2
 葡式烩饭	pu ui hv fj	2
-蛋黄甘露酥	dj hl gj lu su	2
 夷陵春卷	yi lk iy jr	2
-鹿茸炖羊肾	lu rs dy yh uf	2
 豉汁鱼云	ui vi yu yy	2
 白烧鱼翅	bd uc yu ii	2
-栗子淮山煲鸡脚	li zi hk uj bc ji jn	2
-海参木耳汤	hd uf mu er th	1
-人参核桃仁粥	rf uf he tc rf vz	1
-松子河虾仁	ss zi he xx rf	1
-虫草八卦汤	is cc ba gx th	1
-棒骨土豆地饵汤	bh gu tu dz de er th	1
 软炸虾糕	rr va xx gc	1
-卡布奇诺冰咖啡	ka bu qi no bk ka fw	1
-莲子百合糯米粥	lm zi bd he no mi vz	1
 白丰糕	bd fg gc	1
-菜心炒猪肝	cd xb ic vu gj	1
 炒素腰花	ic su yc hx	1
 壬酸乙酯	rf sr yi vi	1
 群虾戏荷	qy xx xi he	1
 五神饮	wu uf yb	1
 古陈仓牌	gu if ch pd	1
 怪味花仁	gk ww hx rf	1
-苹果粟米鸡肉羹	pk go su mi ji rz gg	1
-苹果沙司罐头	pk go ua si gr tz	1
-飘香猪脆骨	pn xl vu cv gu	1
-虎皮核桃仁	hu pi he tc rf	1
-十全炆补汤	ui qr wf bu th	1
-德式生汁香蕉卷	de ui ug vi xl jn jr	1
 海蜇头子	hd ve tz zi	1
 鸡焖蟹煲	ji mf xp bc	1
-咖喱焗肉蟹	ga li ju rz xp	1
-鲜花藤萝饼	xm hx tg lo bk	1
 鱼花豆腐	yu hx dz fu	1
 炒双泥	ic ul ni	1
 龙虾酥糖	ls xx su th	1
-雷公山天麻	lw gs uj tm ma	1
-荷香糯米排骨	he xl no mi pd gu	1
 越蔓橘	yt mj ju	1
 凉拌冬瓜	ll bj ds gx	1
-葱爆羊肉丁	cs bc yh rz dk	1
 香辣毛豆	xl la mc dz	1
-条头糕薄荷糕	tn tz gc bo he gc	1
-黑胡椒溜肉	hw hu jn lq rz	1
-百合枣仁汤	bd he zc rf th	1
 热蔗汁	re ve vi	1
-武汉猪肉干	wu hj vu rz gj	1
 海参饼	hd uf bk	1
-海米烧萝卜	hd mi uc lo bo	1
 荤油米糕	hy yz mi gc	1
-罗马风味起士蛋花汤	lo ma fg ww qi ui dj hx th	1
-沙窝椒汁大鱼头	ua wo jn vi da yu tz	1
-拌豆腐干丝	bj dz fu gj si	1
-蒜香烟肉蒸扇贝	sr xl yj rz vg uj bw	1
-枸杞炖羊脑	gz qi dy yh nc	1
-茄汁斑鱼块	jx vi bj yu kk	1
 樱桃土豆	yk tc tu dz	1
-独蒜烧虾仁	du sr uc xx rf	1
 清炒海蚌	qk ic hd bh	1
 八宝鸭羹	ba bc ya gg	1
 丙酸苄酯	bk sr bm vi	1
-首乌熟地炖兔肉	uz wu uu di dy tu rz	1
-鹅石板江湖菜	ee ui bj jl hu cd	1
-广灵五香瓜子	gl lk wu xl gx zi	1
 冷冻牛肚	lg ds nq du	1
-鲜哈蜜瓜汁	xm ha mi gx vi	1
 酸辣猪肚	sr la vu du	1
 吉利大虾	ji li da xx	1
-豌豆炸酱面	wj dz va jl mm	1
 佛手广肚	fo uz gl du	1
 锅贴鸭方	go tp ya fh	1
 问荆茶	wf jk ia	1
 金镶玉板	jb xl yu bj	1
 车前子茶	ie qm zi ia	1
 风情羊柳	fg qk yh lq	1
-韭菜炒莴笋丝	jq cd ic wo sy si	1
-墨西哥鸡肉玉米汤	mo xi ge ji rz yu mi th	1
-麦芽山楂饮	md ya uj va yb	1
-鲜蘑炒肉片	xm mo ic rz pm	1
-辣味过江鸡	la ww go jl ji	1
-聚氧乙烯山梨醇酐单油酸酯	ju yh yi xi uj li iy gj dj yz sr vi	1
-杏仁香片酥	xk rf xl pm su	1
-油酥火焙鱼	yz su ho bw yu	1
-鸡翅羊肚菌	ji ii yh du jy	1
-熟色拉米肠	uu se la mi ih	1
-芦笋炒鸡柳	lu sy ic ji lq	1
 糖江脐	th jl qi	1
 金盏松茸	jb vj ss rs	1
-胡椒西红柿	hu jn xi hs ui	1
-异构化乳糖液	yi gz hx ru th ye	1
 糖柑饼	th gj bk	1
 太子麦蕉	td zi md jn	1
-定边羊羔肉	dk bm yh gc rz	1
-鲜奶鱼茸羹	xm nd yu rs gg	1
 捶烩鸡片	iv hv ji pm	1
-辣味特级板烧鸡腿堡	la ww te ji bj uc ji tv bc	1
-芹黄烧鱼条	qb hl uc yu tn	1
 凉拌三色	ll bj sj se	1
-红葱烧腊肉	hs cs uc la rz	1
 姜堰酥饼	jl yj su bk	1
-花胶瘦肉羹	hx jn uz rz gg	1
-香辣脆皮明虾	xl la cv pi mk xx	1
 碎米鸡丁	sv mi ji dk	1
 炖柠檬鸭	dy nk mg ya	1
-陈皮爆河虾	if pi bc he xx	1
-炝糟五花肉	ql zc wu hx rz	1
 乌饭果	wu fj go	1
-山葵烤牛排	uj kv kc nq pd	1
-蟹黄养汤烧卖	xp hl yh th uc md	1
-白豪银针茶	bd hc yb vf ia	1
-烤腹脊牛肉	kc fu ji nq rz	1
-可乐土豆饼	ke le tu dz bk	1
-清凉的钵仔糕	qk ll de bo zd gc	1
-香葱苏打饼干	xl cs su da bk gj	1
 煎蒸黄鱼	jm vg hl yu	1
-鱼柳烩杂海鲜	yu lq hv za hd xm	1
-参茸鸡肉汤	uf rs ji rz th	1
-桔子柠檬布丁	ju zi nk mg bu dk	1
-白汁五柳鱼	bd vi wu lq yu	1
-靖江牛肉脯	jk jl nq rz pu	1
 炝莲白卷	ql lm bd jr	1
-聚氧乙烯聚氧丙烯季戊四醇醚	ju yh yi xi ju yh bk xi ji wu si iy mi	1
-景星碧绿茶	jk xk bi lv ia	1
 曲曲汤	qu qu th	1
 徽州园子	hv vz yr zi	1
-泡椒蒸水鱼	pc jn vg uv yu	1
 凤凰鱼肚	fg hl yu du	1
-什大酥烧饼	uf da su uc bk	1
-醒脑安神冬瓜汤	xk nc an uf ds gx th	1
 炒螺丝面	ic lo si mm	1
-十二烷基二甲基溴化铵	ui er wj ji er jx ji xq hx an	1
 皂荚糖胶	zc jx th jn	1
-桂花白糖甜菜条	gv hx bd th tm cd tn	1
-圣诞老人蛋糕	ug dj lc rf dj gc	1
-石花菜鲍鱼汤	ui hx cd bc yu th	1
-小白菜苡米粥	xn bd cd yi mi vz	1
-花生支竹鱼头汤	hx ug vi vu yu tz th	1
-牛油蜜糖玉米	nq yz mi th yu mi	1
 白油肉片	bd yz rz pm	1
 崂山矿啤	lc uj kl pi	1
 南通油饼	nj ts yz bk	1
 三色丁	sj se dk	1
-巧克力无花果球	qn ke li wu hx go qq	1
-罗汉果爽喉茶	lo hj go ul hz ia	1
-脂肪酸单甘油脂	vi fh sr dj gj yz vi	1
-二氢香豆素	er qk xl dz su	1
 沙勿来	ua wu ld	1
-三丝拌糟鸡	sj si bj zc ji	1
-冬菇炖鸡汤	ds gu dy ji th	1
 酱腌紫茄	jl yj zi jx	1
 昆特香精	ky te xl jk	1
 农家乐元	ns jx le yr	1
 三鲜锅粑	sj xm go ba	1
-鲫鱼汆白玉	ji yu cr bd yu	1
 雪山潭虾	xt uj tj xx	1
 川辣黄瓜	ir la hl gx	1
 凤梨蟹柳	fg li xp lq	1
-葱油核桃鱼卷	cs yz he tc yu jr	1
 锦城露芽	jb ig lu ya	1
 口味鳝片	kz ww uj pm	1
 秘制肘子	mi vi vz zi	1
-乌骨鸡归黄汤	wu gu ji gv hl th	1
-脆炸火龙果	cv va ho ls go	1
-东方蒙特尔	ds fh mg te er	1
-杏仁椰奶果果丁	xk rf ye nd go go dk	1
-倭井潭硬糕	wo jk tj yk gc	1
-辣味炸鸡翅	la ww va ji ii	1
-辣汁酱香肘	la vi jl xl vz	1
-三丝面疙瘩	sj si mm ge da	1
 鱼香全茄	yu xl qr jx	1
-韭菜墨鱼丝	jq cd mo yu si	1
 锅酥牛肉	go su nq rz	1
-解热清滞汤	jp re qk vi th	1
-空心琉璃丸子	ks xb lq li wj zi	1
-海米拌菜花	hd mi bj cd hx	1
 温酒醉虾	wf jq zv xx	1
 冰汁杏淖	bk vi xk nc	1
 新都姜糖	xb dz jl th	1
 炒鸡什件	ic ji uf jm	1
-酱香萝卜皮	jl xl lo bo pi	1
 桔花晶	ju hx jk	1
 统管糖	ts gr th	1
-青苔童鸭豆糁	qk td ts ya dz sj	1
-芝麻小白菜	vi ma xn bd cd	1
 冷冻牛舌	lg ds nq ue	1
 醉鹅掌	zv ee vh	1
-什锦冬瓜帽	ui jb ds gx mc	1
-贝丝扒菜胆	bw si ba cd dj	1
-药膳煲水鱼	yc uj bc uv yu	1
-甘柠芝麻虾	gj nk vi ma xx	1
-雀巢黑椒牛柳	qt ic hw jn nq lq	1
-香酥牛柳卷	xl su nq lq jr	1
-咖喱焖羊腩	ga li mf yh nj	1
-芥菜咸蛋鱼头汤	jp cd xm dj yu tz th	1
-雄鸡雪莲盅	xs ji xt lm vs	1
-巧克力汽酒	qn ke li qi jq	1
-红花檀香茶	hs hx tj xl ia	1
 宁氏鳝丝	nk ui uj si	1
 干煸莲藕	gj bm lm ou	1
 虾子茄段	xx zi jx dr	1
-奶黄冰皮月饼	nd hl bk pi yt bk	1
-芝士蛋堡餐	vi ui dj bc cj	1
 杏仁炖肉	xk rf dy rz	1
-上海猪肉灌肠	uh hd vu rz gr ih	1
 鹦鹉莴笋	yk wu wo sy	1
 紫色沙拉	zi se ua la	1
-风味南美螺	fg ww nj mw lo	1
-淮山薏米羊肾汤	hk uj yi mi yh uf th	1
-黑麦金笋面	hw md jb sy mm	1
-法式烩鱼汤	fa ui hv yu th	1
 尊尼沃加	zy ni wo jx	1
 桔瓣鱼汆	ju bj yu cr	1
-丝瓜猪肝瘦肉汤	si gx vu gj uz rz th	1
-酸枣仁枸杞茶	sr zc rf gz qi ia	1
 松仁粉丝	ss rf ff si	1
-豆腐蟹肉忌廉汤	dz fu xp rz ji lm th	1
-奶油洋菇浓汤	nd yz yh gu ns th	1
 蜜饯香蕉	mi jm xl jn	1
 麦精酥	md jk su	1
-兔肝鸡蛋汤	tu gj ji dj th	1
-碳酸氢三钠	tj sr qk sj na	1
-芒香西番莲	mh xl xi fj lm	1
 狼牙生菜	lh ya ug cd	1
 海绵糕	hd mm gc	1
 嗡山药	wg uj yc	1
-韩式辣酱鱿鱼丝	hj ui la jl yz yu si	1
-辛烯基琥珀酸铝淀粉	xb xi ji hu po sr lv dm ff	1
 鱼香菜心	yu xl cd xb	1
 咸甜薄餐	xm tm bc cj	1
-萝卜牛百叶汤	lo bo nq bd ye th	1
-精制番薯粥	jk vi fj uu vz	1
 肉末白菜	rz mo bd cd	1
-兰花金钱酿发菜	lj hx jb qm nl fa cd	1
-仲夏野莓冰淇淋	vs xx ye mw bk qi lb	1
 荷塘莲香	he th lm xl	1
 侉炖羊肉	kx dy yh rz	1
 状元卤味	vl yr lu ww	1
 太极双泥	td ji ul ni	1
-肉松三文治	rz ss sj wf vi	1
 乡宁油糕	xl nk yz gc	1
 芙蓉鹿尾	fu rs lu ww	1
 仙城束沙	xm ig uu ua	1
-菜干鸭肾蜜枣汤	cd gj ya uf mi zc th	1
 心形面包	xb xk mm bc	1
-虎皮烩鸡丁	hu pi hv ji dk	1
-香菇肉末烧卖	xl gu rz mo uc md	1
 雪梨肘棒	xt li vz bh	1
 泡莱鲫鱼	pc ld ji yu	1
-大厨来桂林辣椒酱	da iu ld gv lb la jn jl	1
-苋菜红铝色淀	xm cd hs lv se dm	1
 粗花糕	cu hx gc	1
-空心南瓜饼	ks xb nj gx bk	1
-杭州绿豆糕	hh vz lv dz gc	1
-旱蒸贝母鸡	hj vg bw mu ji	1
-米老鼠蛋糕	mi lc uu dj gc	1
 水饺元	uv jn yr	1
 芝麻鱼球	vi ma yu qq	1
 茄汁鳕鱼	jx vi xt yu	1
 葱油蒸鸭	cs yz vg ya	1
-大荆石莲糊	da jk ui lm hu	1
-辣椒炒肚片	la jn ic du pm	1
 火烧头尾	ho uc tz ww	1
 湘味方肉	xl ww fh rz	1
-乳鸽瓤猪肚	ru ge rh vu du	1
-紫菜蛋皮卷	zi cd dj pi jr	1
-墨西哥凉面	mo xi ge ll mm	1
-葡萄柚沙拉	pu tc yz ua la	1
-野山椒河蚌炖猪脚	ye uj jn he bh dy vu jn	1
-白干煮三丝	bd qm vu sj si	1
 上杂拌	uh za bj	1
 鸡丁干粉	ji dk gj ff	1
-杏花楼广式月饼	xk hx lz gl ui yt bk	1
-得奖英国老黑啤	de jl yk go lc hw pi	1
 软炸菜花	rr va cd hx	1
-香辣咖哩面包	xl la ka li mm bc	1
-山毛榉坚果	uj mc ju jm go	1
-罗汉果焖瓜子鸡	lo hj go mf gx zi ji	1
-猪肝枸杞子汤	vu gj gz qi zi th	1
-云长玉浆饺	yy vh yu jl jn	1
 鸡里爆	ji li bc	1
 莜面栳栳	yz mm lc lc	1
-印度咖喱焖羊腩	yb du ga li mf yh nj	1
-鲜瑶柱牛肉	xm yc vu nq rz	1
 偶氮玉红	ou dj yu hs	1
-烤花揽鳜鱼	kc hx lj gv yu	1
-红枣炖鲫鱼汤	hs zc dy ji yu th	1
-韩城羊肉臊子饸饹	hj ig yh rz sc zi he le	1
-清汤玉带鸡	qk th yu dd ji	1
 太极芋头	td ji yu tz	1
-香脆葡萄塔	xl cv pu tc ta	1
 白焯响螺	bd ic xl lo	1
-永州炒血鸭	ys vz ic xt ya	1
-绿豆豆沙包	lv dz dz ua bc	1
 灌蟹鱼圆	gr xp yu yr	1
-潮汕卤水鹅掌	ic uj lu uv ee vh	1
 口蘑小包	kz mo xn bc	1
-西红柿起司沙拉	xi hs ui qi si ua la	1
-普罗旺斯大蒜西红柿面	pu lo wh si da sr xi hs ui mm	1
 麻香酥鸭	ma xl su ya	1
-茄汁牛肉汤	jx vi nq rz th	1
 天水麻食	tm uv ma ui	1
 翡翠剔尖	fw cv ti jm	1
-干贝云丝豆腐汤	gj bw yy si dz fu th	1
 鸡肉线粉	ji rz xm ff	1
 随滑飞龙	sv hx fw ls	1
-韭菜炒绿豆芽	jq cd ic lv dz ya	1
-意式香脂醋酱拌田园沙拉	yi ui xl vi cu jl bj tm yr ua la	1
 虾片粥	xx pm vz	1
-红豆圆仔汤	hs dz yr zd th	1
-日落黄铝色淀	ri lo hl lv se dm	1
-烙韭菜馅饼	lc jq cd xm bk	1
 酒酿斑鸠	jq nl bj jq	1
 彩色肉丝	cd se rz si	1
 蒲州清柿	pu vz qk ui	1
-绿波廊船点	lv bo lh ir dm	1
-宁式苔菜月饼	nk ui td cd yt bk	1
-枸杞百合粥	gz qi bd he vz	1
 桃盐桃片	tc yj tc pm	1
-蕨根粉煮鳝鱼	jt gf ff vu uj yu	1
-亚洲辣牛肉和葡萄	ya vz la nq rz he pu tc	1
 叶子面包	ye zi mm bc	1
-土豆罐焖鸡	tu dz gr mf ji	1
-糖醋红柿椒	th cu hs ui jn	1
 糟鸡糟肉	zc ji zc rz	1
-香煎莲藕饼	xl jm lm ou bk	1
 油淋笋鸡	yz lb sy ji	1
-鱼羊炖时蔬	yu yh dy ui uu	1
 王记麻花	wh ji ma hx	1
-平遥熟牛肉	pk yc uu nq rz	1
-番茄薯仔牛尾汤	fj qp uu zd nq ww th	1
 聚三鲜	ju sj xm	1
-海带清热汤	hd dd qk re th	1
-蓬莱仙芝茶	pg ld xm vi ia	1
 雪里藏珠	xt li ch vu	1
-海米萝卜汤	hd mi lo bo th	1
-香炸南瓜饼	xl va nj gx bk	1
 椒盐肚尖	jn yj du jm	1
 椒盐麻饼	jn yj ma bk	1
 橙味蛋黄	ig ww dj hl	1
-彩虹水晶球	cd hs uv jk qq	1
 玉盏龙眼	yu vj ls yj	1
 花菇田鸡	hx gu tm ji	1
 豆面球	dz mm qq	1
 玉馅酥	yu xm su	1
 简易蛋糕	jm yi dj gc	1
-什锦豆腐煲	ui jb dz fu bc	1
-虾仁拌莼菜	xx rf bj iy cd	1
 茄汁薯枣	jx vi uu zc	1
-香粽烧排骨	xl zs uc pd gu	1
 翠柳凤丝	cv lq fg si	1
 蜜三果	mi sj go	1
 桃子色拉	tc zi se la	1
 豆瓣卿鱼	dz bj qk yu	1
 竹影海参	vu yk hd uf	1
-宫廷小萝葡	gs tk xn lo pu	1
-剁椒大白菜	do jn da bd cd	1
 奇异天空	qi yi tm ks	1
-苦地胆猪瘦肉汤	ku de dj vu uz rz th	1
 金丝玉兔	jb si yu tu	1
-奥地利式烤牛肉扒	ao di li ui kc nq rz ba	1
 龙凤双锤	ls fg ul iv	1
-杭州地方小吃	hh vz di fh xn ii	1
-上海馄饨汤	uh hd hy ty th	1
 香酥蛋挞	xl su dj ta	1
 甜菊绿茶	tm ju lv ia	1
-奶油花生糖	nd yz hx ug th	1
-叶绿素铜钾盐	ye lv su ts jx yj	1
-猪肚煲咸菜	vu du bc xm cd	1
 牛蒡沙拉	nq bh ua la	1
 五彩抄手	wu cd ic uz	1
-豆腐排骨豆芽汤	dz fu pd gu dz ya th	1
 砂锅螃蟹	ua go ph xp	1
 唯我鼎边	ww wo dk bm	1
 白菜木须	bd cd mu xu	1
-多彩冰皮月饼	do cd bk pi yt bk	1
 徽式炒面	hv ui ic mm	1
 油爆鱼芹	yz bc yu qb	1
-开封套四宝	kd fg tc si bc	1
-西西里面包	xi xi li mm bc	1
-玫瑰百果蜜糕	mw gv bd go mi gc	1
-沙拉海鲜卷	ua la hd xm jr	1
-白术猪肚汤	bd vu vu du th	1
-龙眼咸烧白	ls yj xm uc bd	1
 苦瓜鸡片	ku gx ji pm	1
-蒜拌空心菜	sr bj ks xb cd	1
 夹沙月饼	jx ua yt bk	1
-蟹肉青瓜沙律	xp rz qk gx ua lv	1
-竹笋西瓜皮鲤鱼汤	vu sy xi gx pi li yu th	1
-海鲜铁锅烧	hd xm tp go uc	1
 圆黄蛋糕	yr hl dj gc	1
-酥蜜鲜果夹	su mi xm go jx	1
 养胃酥	yh ww su	1
-冰结构蛋白	bk jp gz dj bd	1
 布里芝士	bu li vi ui	1
-环己基丙酸烯丙酯	hr ji ji bk sr xi bk vi	1
 干蒸百合	gj vg bd he	1
 菁岛啤酒	jk dc pi jq	1
-金华五仁月饼	jb hx wu rf yt bk	1
-喀什馕坑肉	ka ui nh kg rz	1
-脆皮鸳鸯糕	cv pi yr yh gc	1
-蜜汁江米藕	mi vi jl mi ou	1
-欧式重乳酪蛋糕	ou ui vs ru lc dj gc	1
 薏美酥	yi mw su	1
 五柳全鱼	wu lq qr yu	1
 绿茶糕点	lv ia gc dm	1
-剁椒蒸芋头仔	do jn vg yu tz zd	1
 鲜蘑蒸鸡	xm mo vg ji	1
-北京蜜饯果脯	bw jk mi jm go pu	1
 葱油苦瓜	cs yz ku gx	1
-金锋鲁肉饭	jb fg lu rz fj	1
-李锦记金标生抽	li jb ji jb bn ug iz	1
-葡萄干炒饭	pu tc gj ic fj	1
 鲜味大虾	xm ww da xx	1
 冬菇藕夹	ds gu ou jx	1
 葱油大烧	cs yz da uc	1
-蚝皇蒸凤爪	hc hl vg fg vc	1
 卡真调料	ka vf tn ln	1
 味之臾	ww vi yu	1
-豆豉烧中段	dz ii uc vs dr	1
-粉丝焗膏蟹	ff si ju gc xp	1
 铁板腰花	tp bj yc hx	1
-沙嗲羊肉串	ua dp yh rz ir	1
-汤团缸鸭狗	th tr gh ya gz	1
 汀州伊面	tk vz yi mm	1
 玄酒一杯	xr jq yi bw	1
-耗子洞樟茶鸭	hc zi ds vh ia ya	1
-三驱田凉粉	sj qu tm ll ff	1
 炒葱椒鸡	ic cs jn ji	1
-韭菜炒黄鳝	jq cd ic hl uj	1
 火腿豆豉	ho tv dz ii	1
-蒜香煎海虾	sr xl jm hd xx	1
 蜜青梅	mi qk mw	1
 如意乌龙	ru yi wu ls	1
-芦笋煎黄菜	lu sy jm hl cd	1
-澳洲万格红	ao vz wj ge hs	1
-海天鲜味生抽	hd tm xm ww ug iz	1
-乡村玉米饼	xl cy yu mi bk	1
-丹参黄豆汤	dj uf hl dz th	1
-宁波豆酥糖	nk bo dz su th	1
 烧五丝	uc wu si	1
 土豆蛋糕	tu dz dj gc	1
-八宝青蟹饭	ba bc qk xp fj	1
 炒禾花雀	ic he hx qt	1
 铺层馍馍	pu cg mo mo	1
 红鱼拜年	hs yu bd nm	1
 爱尔香	ai er xl	1
-里水金丝虾	li uv jb si xx	1
-咖喱鸡丝羹	ga li ji si gg	1
-挪威水果布丁	no ww uv go bu dk	1
 芙蓉菜心	fu rs cd xb	1
 高邮董糖	gc yz ds th	1
-上海茶叶蛋	uh hd ia ye dj	1
-楚宝桂花赤豆汤	iu bc gv hx ii dz th	1
-番茄奶油土豆团	fj qp nd yz tu dz tr	1
 彝家醉虾	yi jx zv xx	1
 炝黄瓜衣	ql hl gx yi	1
-番茄煮红衫鱼	fj qp vu hs uj yu	1
 竹节鸡盅	vu jp ji vs	1
-姜茶乌梅粥	jl ia wu mw vz	1
-清补凉乳鸽汤	qk bu ll ru ge th	1
-如皋萝卜粒	ru gc lo bo li	1
 红脸烧饼	hs lm uc bk	1
 山药甜汤	uj yc tm th	1
-薄荷薰衣草茶	bo he xy yi cc ia	1
-鲜虾扒豆苗	xm xx ba dz mn	1
 葡萄面排	pu tc mm pd	1
-风味腊肠卷	fg ww la ih jr	1
-牛肉蔬菜浓汤	nq rz uu cd ns th	1
 雀巢鸟窝	qt ic nn wo	1
-韩城羊肉饸饹	hj ig yh rz he le	1
 桂鱼排骨	gv yu pd gu	1
-海带猪骨汤	hd dd vu gu th	1
-雪梨兔肉羹	xt li tu rz gg	1
-红豆莲枣粽	hs dz lm zc zs	1
 我爱烧烤	wo ai uc kc	1
-肉丁黄瓜酱	rz dk hl gx jl	1
 酿银瓜	nl yb gx	1
 黄金肉丸	hl jb rz wj	1
-天津五香猪肉干	tm jb wu xl vu rz gj	1
-成都毛风鸡	ig du mc fg ji	1
-鲫鱼蘑菇汤	ji yu mo gu th	1
 宣威洋芋	xr ww yh yu	1
 烤芒果虾	kc mh go xx	1
-蓝莓冻芝士蛋糕	lj mw ds vi ui dj gc	1
-五香牛肉松	wu xl nq rz ss	1
-上海蜜汁小肉	uh hd mi vi xn rz	1
-鲜贝冬瓜球	xm bw ds gx qq	1
 滑炒山药	hx ic uj yc	1
 麻辣冬瓜	ma la ds gx	1
-东坡春鸠脍	ds po iy jq kk	1
-油煎南瓜饼	yz jm nj gx bk	1
 芦笋虾球	lu sy xx qq	1
 宁波腊鸭	nk bo la ya	1
 椒盐虾仁	jn yj xx rf	1
 苦荞饸饹	ku qn he le	1
 低糖蜜饯	di th mi jm	1
-广州鸡仔饼	gl vz ji zd bk	1
-参茸葛仙米	uf rs ge xm mi	1
 素酿南瓜	su nl nj gx	1
 炒白鸽	ic bd ge	1
-牛蒡排骨汤	nq bh pd gu th	1
-香甜滋润玻璃肉饭	xl tm zi ry bo li rz fj	1
 煎云吞	jm yy ty	1
-植物添银花	vi wu tm yb hx	1
 鸡汁燕窝	ji vi yj wo	1
-清汤银耳素鸽蛋	qk th yb er su ge dj	1
 地锅草鸡	de go cc ji	1
 茅麓旗枪	mc lu qi ql	1
-安神首乌粥	an uf uz wu vz	1
 沅陵酥糖	yr lk su th	1
-本斋清真肉饼	bf vd qk vf rz bk	1
 老面大包	lc mm da bc	1
 鮰鱼肚片	hv yu du pm	1
-胡椒海参汤	hu jn hd uf th	1
 南通文蛤	nj ts wf ha	1
 鹿宛茶	lu wj ia	1
-脆嫩味辣炒鱿鱼丝	cv nf ww la ic yz yu si	1
 南瓜花粥	nj gx hx vz	1
-莲子血糯饭	lm zi xt no fj	1
-东山坞豆腐皮	ds uj wu dz fu pi	1
-佛山柱侯酱	fo uj vu hz jl	1
-鸡汤浸时蔬	ji th jb ui uu	1
 家常烤鸡	jx ih kc ji	1
 猴头四宝	hz tz si bc	1
-南乳小凤饼	nj ru xn fg bk	1
 聪喝识	cs he ui	1
 乾州鸡面	qm vz ji mm	1
 蜜佛手	mi fo uz	1
-参果炖瘦肉	cj go dy uz rz	1
-豆豉剁辣椒	dz ii do la jn	1
-酥皮芋蓉盅	su pi yu rs vs	1
-果酱白蜂糕	go jl bd fg gc	1
 昌顺干货	ih uy gj ho	1
 菠菜蛋蓉	bo cd dj rs	1
 黄花酥	hl hx su	1
 口蘑鹿肉	kz mo lu rz	1
-酥炸春花肉	su va iy hx rz	1
-辣椒叶鸡蛋汤	la jn ye ji dj th	1
 白八粿	bd ba go	1
 烙司松饼	lc si ss bk	1
 素炒鸡丁	su ic ji dk	1
-红糖米花糖	hs th mi hx th	1
-乔家栅粽子	qn jx va zs zi	1
-香葱咖喱面包	xl cs ga li mm bc	1
-银牙韭菜花	yb ya jq cd hx	1
-回族蒸艾叶	hv zu vg ai ye	1
-哈尔滨干肠	ha er bb gj ih	1
 金钩包子	jb gz bc zi	1
-豆香斋牛肉香圈	dz xl vd nq rz xl qr	1
 鸡丝月饼	ji si yt bk	1
 砍花糖	kj hx th	1
-一品酸辣鸡	yi pb sr la ji	1
 空心酥饼	ks xb su bk	1
-人参鸡肉汤	rf uf ji rz th	1
-酸菜饵块粑	sr cd er kk ba	1
-四季鱼头王	si ji yu tz wh	1
 黄尖笋	hl jm sy	1
-黄瓜鸡杂汤	hl gx ji za th	1
-葱白姜糖汤	cs bd jl th th	1
 花果黄鱼	hx go hl yu	1
 扛糟鸡	kh zc ji	1
-无锡酱烧肝	wu xi jl uc gj	1
 燕影金蔬	yj yk jb uu	1
 桃花米线	tc hx mi xm	1
 玫瑰子姜	mw gv zi jl	1
-夹沙条头糕	jx ua tn tz gc	1
-枸杞田螺汤	gz qi tm lo th	1
 土沱麻饼	tu to ma bk	1
 河内圆茶	he nw yr ia	1
-潮式老婆饼	ic ui lc po bk	1
-秘制口味蛇	mi vi kz ww ue	1
 生敲膳丝	ug qn uj si	1
 小米凉粉	xn mi ll ff	1
 宰羊羔肉	zd yh gc rz	1
 八宝甜粽	ba bc tm zs	1
 生煎肉包	ug jm rz bc	1
 奶油条酥	nd yz tn su	1
-冬菇虫草炖鲍参	ds gu is cc dy bc cj	1
 烤薄脆	kc bc cv	1
 怪味果仁	gk ww go rf	1
-姜汁拌菠菜	jl vi bj bo cd	1
 酥炸茄盒	su va jx he	1
 水煮凤片	uv vu fg pm	1
-深圳盐田海鲜街	uf vf yj tm hd xm jp	1
 糖拌菜心	th bj cd xb	1
-口感盐煎肉	kz gj yj jm rz	1
 多味黄瓜	do ww hl gx	1
-清炖姜归羊肉汤	qk dy jl gv yh rz th	1
 糌粑粥	zj ba vz	1
 咖喱樱桃	ga li yk tc	1
 参婆千子	cj po qm zi	1
 古县蕨菜	gu xm jt cd	1
-樱桃酒咖啡	yk tc jq ka fw	1
-淳安猕猴桃	iy an mi hz tc	1
 鼓板龙蟹	gu bj ls xp	1
 茯苓饼干	fu lk bk gj	1
-博爱浆面条	bo ai jl mm tn	1
 金瓜酥	jb gx su	1
-亨氏骨髓蔬菜泥	hg ui gu sv uu cd ni	1
-菜远卤牛肉	cd yr lu nq rz	1
 豆香麻糍	dz xl ma ci	1
-话梅手剥笋	hx mw uz bo sy	1
-玉竹沙参鹧鸪汤	yu vu ua uf ve gu th	1
-葡萄白兰瓜配薄荷汁沙拉	pu tc bd lj gx pw bo he vi ua la	1
 花菇石鸡	hx gu ui ji	1
-西米银耳羹	xi mi yb er gg	1
-蒲江猪油米花糖	pu jl vu yz mi hx th	1
 卢氏麻片	lu ui ma pm	1
-河岔口咸鸭蛋	he ia kz xm ya dj	1
-菠萝龙眼鱼	bo lo ls yj yu	1
 水泡鱼元	uv pc yu yr	1
 红楼糕点	hs lz gc dm	1
 川辣蟹	ir la xp	1
 奶香菠菜	nd xl bo cd	1
-花生桂圆红枣汤	hx ug gv yr hs zc th	1
-香酥丹麦曲奇	xl su dj md qu qi	1
 豆瓣鱼条	dz bj yu tn	1
 昔阳头脑	xi yh tz nc	1
-山药蒸鲫鱼	uj yc vg ji yu	1
 五丁鱼圆	wu dk yu yr	1
-鲜肉香菇烧麦	xm rz xl gu uc md	1
-黄芪南枣黄鳝汤	hl qi nj zc hl uj th	1
 香卤猪肘	xl lu vu vz	1
 薏米膳继	yi mi uj ji	1
-湖南油淋鸡	hu nj yz lb ji	1
 高梁肉	gc ll rz	1
-红烧猴头蘑	hs uc hz tz mo	1
-美极基围虾	mw ji ji ww xx	1
 杏仁沙拉	xk rf ua la	1
-香浓黑巧克力蛋糕	xl ns hw qn ke li dj gc	1
-靛蓝铝色淀	dm lj lv se dm	1
 脆皮锅魁	cv pi go kv	1
 金钱鸡卷	jb qm ji jr	1
 烤网油签	kc wh yz qm	1
-蜜桂芳米花糖	mi gv fh mi hx th	1
-麻辣兔火锅	ma la tu ho go	1
-三文一品汤包	sj wf yi pb th bc	1
-黄墩湖腊豆	hl dy hu la dz	1
-奶油乳酪蛋糕	nd yz ru lc dj gc	1
-诱惑红铝色淀	yz ho hs lv se dm	1
-广味源生抽王	gl ww yr ug iz wh	1
 香煎翘鱼	xl jm qn yu	1
 天水里脊	tm uv li ji	1
-肉末土豆丝	rz mo tu dz si	1
 浙南鱼面	ve nj yu mm	1
-麻酱拌豆腐	ma jl bj dz fu	1
 魔芋烧鱼	mo yu uc yu	1
 拔丝桔子	ba si ju zi	1
-香菠血糯饭	xl bo xt no fj	1
-吊炉饼鸡蛋羹	dn lu bk ji dj gg	1
-参麦雪梨瘦肉汤	cj md xt li uz rz th	1
-火腿萝卜丝汤	ho tv lo bo si th	1
-黑玉米饮料	hw yu mi yb ln	1
-香煎黄糕粑	xl jm hl gc ba	1
 杨梅醛	yh mw qr	1
-风车苹果派	fg ie pk go pd	1
 独蒜烧虾	du sr uc xx	1
 翠绿玉米	cv lv yu mi	1
 果酱烧饼	go jl uc bk	1
-口味金牛蹄	kz ww jb nq ti	1
 清汤圆子	qk th yr zi	1
-白芨冰糖燕窝	bd ji bk th yj wo	1
 腐皮虾包	fu pi xx bc	1
-枸杞菊花煲排骨	gz qi ju hx bc pd gu	1
 橙花排骨	ig hx pd gu	1
 水煎乳饼	uv jm ru bk	1
-茭白炒毛豆	jn bd ic mc dz	1
-法国奶油蟹肉黑麦金笋面	fa go nd yz xp rz hw md jb sy mm	1
 皮萨草叶	pi sa cc ye	1
 白圆蛋糕	bd yr dj gc	1
 花篮白菜	hx lj bd cd	1
-荪角四宝汤	sy jn si bc th	1
 镶竹荪	xl vu sy	1
 闷炉烧饼	mf lu uc bk	1
-粉白美人茶	ff bd mw rf ia	1
-白炒刀鱼丝	bd ic dc yu si	1
-鸽子玻璃糕	ge zi bo li gc	1
-海米烧菜花	hd mi uc cd hx	1
 什锦烩面	ui jb hv mm	1
 火爆猪肚	ho bc vu du	1
 油爆鸭舌	yz bc ya ue	1
-醒胃腌椰菜花	xk ww yj ye cd hx	1
 承德凉粉	ig de ll ff	1
 拨鱼儿面	bo yu er mm	1
 马蹄蛋糕	ma ti dj gc	1
 鞍山肉枣	an uj rz zc	1
-同江赫哲族生鱼片	ts jl he ve zu ug yu pm	1
 滷白菜	lu bd cd	1
-蒿杆炒鳝丝	hc gj ic uj si	1
-凉拌辣味螺	ll bj la ww lo	1
-意大利小松饼	yi da li xn ss bk	1
 烤茭白笋	kc jn bd sy	1
-酸辣臊子蹄筋	sr la sc zi ti jb	1
 檀扇鸭掌	tj uj ya vh	1
 笋丝百叶	sy si bd ye	1
-银丝仔乌汤	yb si zd wu th	1
-阴菜牛展汤	yb cd nq vj th	1
-泰式凉拌花枝	td ui ll bj hx vi	1
 煎转鲫鱼	jm vr ji yu	1
 翡翠鱼丁	fw cv yu dk	1
-老姜枸杞羊肉汤	lc jl gz qi yh rz th	1
 丰收龙舟	fg uz ls vz	1
-李锦记沙茶酱	li jb ji ua ia jl	1
-彭集红烧肘子	pg ji hs uc vz zi	1
-法式乳酪蛋糕	fa ui ru lc dj gc	1
-混合胡椒粉	hy he hu jn ff	1
-白果海鲜羹	bd go hd xm gg	1
-扒龙须鲍鱼	ba ls xu bc yu	1
-煨牛肉月饼	ww nq rz yt bk	1
 绿盛源	lv ug yr	1
 水芝士	uv vi ui	1
-胡椒生姜滚猪瘦肉	hu jn ug jl gy vu uz rz	1
 晶玉海棠	jk yu hd th	1
 生嗜鸡块	ug ui ji kk	1
-乡宁白面油糕	xl nk bd mm yz gc	1
 桃仁饮	tc rf yb	1
 建德烧饼	jm de uc bk	1
-香肠炒油菜	xl ih ic yz cd	1
 鳝鱼煮馍	uj yu vu mo	1
 砂锅鱿鱼	ua go yz yu	1
-洋县猪白血	yh xm vu bd xt	1
-美的青春茶	mw de qk iy ia	1
-花生酱葱花饼	hx ug jl cs hx bk	1
 雪衣红沙	xt yi hs ua	1
-酸辣海参锅巴	sr la hd uf go ba	1
-什锦一品锅	ui jb yi pb go	1
-苗乡酸汤水饺	mn xl sr th uv jn	1
-甲基邻氨基苯甲酸甲酯	jx ji lb an ji bf jx sr jx vi	1
 咸真酥	xm vf su	1
-法式牛油炸鱼	fa ui nq yz va yu	1
 清汤炸肚	qk th va du	1
-浓缩康保蓝	ns so kh bc lj	1
 花样馃子	hx yh go zi	1
 蜜食果	mi ui go	1
-脆皮鱼香牛肉	cv pi yu xl nq rz	1
 银鱼肉丝	yb yu rz si	1
 巴巴莱拉	ba ba ld la	1
 虾仁盒子	xx rf he zi	1
-天门冬酰苯氨酸甲酯	tm mf ds xm bf an sr jx vi	1
-里水霸王鸭	li uv ba wh ya	1
 师爷盒	ui ye he	1
-苹果白兰地咖啡	pk go bd lj di ka fw	1
-红白果仁汤	hs bd go rf th	1
 青椒煎蛋	qk jn jm dj	1
-板栗煲老鸡	bj li bc lc ji	1
 大蒜干贝	da sr gj bw	1
-抹茶起司蛋糕	mo ia qi si dj gc	1
 拼杂烩	pb za hv	1
-四味山药膏	si ww uj yc gc	1
-仙鹤望金桥	xm he wh jb qn	1
-冬虫草炖水鱼	ds is cc dy uv yu	1
-巧克力刺猬	qn ke li ci ww	1
-进士糕和状元饼	jb ui gc he vl yr bk	1
 壬内酯	rf nw vi	1
 毫吉阿	hc ji aa	1
-肉碎豉椒炒豇豆	rz sv ui jn ic jl dz	1
 糖醋藕块	th cu ou kk	1
-口镇顺香斋南肠	kz vf uy xl vd nj ih	1
-大厨来海鲜酱	da iu ld hd xm jl	1
-豉椒蒸腊肉	ui jn vg la rz	1
 清炖蚌肉	qk dy bh rz	1
 酥香凤翅	su xl fg ii	1
-薏仁苦瓜粥	yi rf ku gx vz	1
-萝卜丝油墩子	lo bo si yz dy zi	1
 鸳鸯哺乳	yr yh bu ru	1
 明心糖	mk xb th	1
-芝士海鲜盏	vi ui hd xm vj	1
-扒素子双菇	ba su zi ul gu	1
-泡椒响螺片	pc jn xl lo pm	1
-银耳保健饮料	yb er bc jm yb ln	1
-震运同玫瑰酥糖	vf yy ts mw gv su th	1
-草莓龙舌兰	cc mw ls ue lj	1
-香煎菜脯蛋	xl jm cd pu dj	1
-熟地山药粥	uu di uj yc vz	1
 敦煌榆钱	dy hl yu qm	1
-双色核桃饼干	ul se he tc bk gj	1
 蟹肉圆子	xp rz yr zi	1
 水桃酥	uv tc su	1
-清凉漱口剂	qk ll uu kz ji	1
-炸冬瓜丸子	va ds gx wj zi	1
 锅塌鸡片	go ta ji pm	1
 清炒三丁	qk ic sj dk	1
-百合炒西兰花	bd he ic xi lj hx	1
 珍珠南瓜	vf vu nj gx	1
 油酥蛋卷	yz su dj jr	1
-香片辫子包	xl pm bm zi bc	1

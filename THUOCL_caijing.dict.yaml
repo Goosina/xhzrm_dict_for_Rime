@@ -532,7 +532,6 @@ sort: by_weight
 理赔	li pw	17793
 社会团体	ue hv tr ti	17771
 逆转	ni vr	17728
-华尔街日报	hx er jp ri bc	17719
 市值	ui vi	17693
 港元	gh yr	17665
 管理层	gr li cg	17641
@@ -689,7 +688,6 @@ sort: by_weight
 违约金	ww yt jb	9209
 出局	iu ju	9195
 中兴	vs xk	9165
-首席执行官	uz xi vi xk gr	9153
 独资	du zi	9143
 铁道	tp dc	9124
 硬币	yk bi	9071
@@ -714,7 +712,6 @@ sort: by_weight
 出货	iu ho	8617
 佣金	ys jb	8580
 体彩	ti cd	8569
-市场占有率	ui ih vj yz lv	8560
 海尔	hd er	8513
 东航	ds hh	8346
 压低	ya di	8340
@@ -817,7 +814,6 @@ sort: by_weight
 暴富	bc fu	5868
 委托书	ww to uu	5849
 牛市	nq ui	5832
-第一财经日报	di yi cd jk ri bc	5814
 散户	sj hu	5810
 联通	lm ts	5809
 停牌	tk pd	5807
@@ -859,7 +855,6 @@ sort: by_weight
 银联	yb lm	5097
 国网	go wh	5086
 看涨	kj vh	5084
-经济参考报	jk ji cj kc bc	5070
 借款人	jp kr rf	5065
 广发	gl fa	5053
 承租人	ig zu rf	5010
@@ -891,7 +886,6 @@ sort: by_weight
 高盛	gc ug	4520
 净资产	jk zi ij	4518
 新经济	xb jk ji	4493
-经济技术开发区	jk ji ji uu kd fa qu	4469
 合金	he jb	4466
 炒房	ic fh	4461
 衍生品	yj ug pb	4393
@@ -915,13 +909,11 @@ sort: by_weight
 雅虎	ya hu	4155
 退市	tv ui	4140
 人寿保险	rf uz bc xm	4136
-中南财经政法大学	vs nj cd jk vg fa da xt	4108
 三角形	sj jn xk	4092
 托盘	to pj	4088
 据传	ju ir	4009
 盎司	ah si	4005
 出资人	iu zi rf	3993
-中国银监会	vs go yb jm hv	3981
 信贷资金	xb dd zi jb	3972
 花旗	hx qi	3971
 政府采购	vg fu cd gz	3961
@@ -982,7 +974,6 @@ sort: by_weight
 强生	ql ug	3271
 获批	ho pi	3259
 星巴克	xk ba ke	3253
-中国人民银行	vs go rf mb yb hh	3229
 钱庄	qm vl	3228
 异动	yi ds	3226
 进口商	jb kz uh	3222
@@ -993,7 +984,6 @@ sort: by_weight
 财险	cd xm	3183
 金鹰	jb yk	3173
 销售一空	xn uz yi ks	3168
-国家外汇管理局	go jx wd hv gr li ju	3167
 港股	gh gu	3140
 参保率	cj bc lv	3118
 中银	vs yb	3117
@@ -1004,7 +994,6 @@ sort: by_weight
 交行	jn hh	3092
 存贷款	cy dd kr	3081
 金城	jb ig	3080
-中国经济周刊	vs go jk ji vz kj	3079
 物价指数	wu jx vi uu	3076
 担保人	dj bc rf	3049
 光华	gl hx	3042
@@ -1027,7 +1016,6 @@ sort: by_weight
 财务部	cd wu bu	2751
 发行价	fa xk jx	2751
 消费类	xn fw lw	2741
-大中型企业	da vs xk qi ye	2741
 阿波罗	aa bo lo	2718
 还本付息	hr bf fu xi	2706
 发行人	fa xk rf	2702
@@ -1049,7 +1037,6 @@ sort: by_weight
 摘牌	vd pd	2536
 跌至	dp vi	2531
 赌球	du qq	2523
-资产负债表	zi ij fu vd bn	2516
 利差	li ia	2494
 灰色收入	hv se uz ru	2473
 汇票	hv pn	2464
@@ -1068,7 +1055,6 @@ sort: by_weight
 到账	dc vh	2373
 当期	dh qi	2351
 闲钱	xm qm	2346
-每日经济新闻	mw ri jk ji xb wf	2345
 清仓	qk ch	2323
 联华	lm hx	2318
 纪念币	ji nm bi	2315
@@ -1154,7 +1140,6 @@ sort: by_weight
 最高价	zv gc jx	1673
 贴现	tp xm	1672
 美国银行	mw go yb hh	1668
-上海财经大学	uh hd cd jk da xt	1649
 鞍钢	an gh	1645
 撤资	ie zi	1632
 接盘	jp pj	1629
@@ -1192,7 +1177,6 @@ sort: by_weight
 银监局	yb jm ju	1408
 中国联通	vs go lm ts	1404
 乐视网	le ui wh	1402
-中国经营报	vs go jk yk bc	1398
 满堂红	mj th hs	1394
 国投	go tz	1392
 选择权	xr ze qr	1389
@@ -1201,17 +1185,14 @@ sort: by_weight
 承销商	ig xn uh	1365
 新卡	xb ka	1353
 热钱	re qm	1349
-经济基本面	jk ji ji bf mm	1343
 通货紧缩	ts ho jb so	1341
 特别关注	te bp gr vu	1339
 币种	bi vs	1329
 银元	yb yr	1328
 通货	ts ho	1326
 杀跌	ua dp	1320
-股份有限公司	gu ff yz xm gs si	1314
 自由竞争	zi yz jk vg	1312
 新大陆	xb da lu	1306
-资产负债率	zi ij fu vd lv	1301
 暂行办法	zj xk bj fa	1296
 分理处	ff li iu	1292
 涨跌幅	vh dp fu	1289
@@ -1338,7 +1319,6 @@ sort: by_weight
 净额	jk ee	805
 安永	an ys	802
 天弘	tm hs	800
-中国证券报	vs go vg qr bc	798
 古钱币	gu qm bi	798
 配股	pw gu	794
 爱立信	ai li xb	793
@@ -1395,10 +1375,8 @@ sort: by_weight
 康达	kh da	643
 证券日报	vg qr ri bc	643
 实得	ui de	638
-上海证券报	uh hd vg qr bc	635
 三立	sj li	631
 老千	lc qm	628
-控股有限公司	ks gu yz xm gs si	626
 本票	bf pn	626
 基民	ji mb	626
 跳空	tn ks	625
@@ -1417,7 +1395,6 @@ sort: by_weight
 代理制	dd li vi	590
 电汇	dm hv	590
 中小盘股	vs xn pj gu	589
-资本密集型	zi bf mi ji xk	588
 虹桥机场	hs qn ji ih	588
 中投公司	vs tz gs si	586
 有偿转让	yz ih vr rh	581
@@ -1520,7 +1497,6 @@ sort: by_weight
 对赌	dv du	412
 易宝	yi bc	411
 日照港	ri vc gh	410
-宏观经济学	hs gr jk ji xt	409
 持有人	ii yz rf	406
 扛住	kh vu	405
 尾市	ww ui	403
@@ -1582,7 +1558,6 @@ sort: by_weight
 抬轿	td jn	324
 侨汇	qn hv	323
 新高点	xb gc dm	323
-商业银行法	uh ye yb hh fa	322
 热点话题	re dm hx ti	320
 中国太保	vs go td bc	320
 租购	zu gz	319
@@ -1593,7 +1568,6 @@ sort: by_weight
 纪念钞	ji nm ic	311
 研究报告	yj jq bc gc	307
 冲高	is gc	305
-国际金融报	go ji jb rs bc	305
 出口业	iu kz ye	304
 卡特尔	ka te er	304
 邮币卡	yz bi ka	303
@@ -1610,7 +1584,6 @@ sort: by_weight
 总成交量	zs ig jn ll	297
 农行卡	ns hh ka	296
 富国银行	fu go yb hh	293
-摩根斯坦利	mo gf si tj li	290
 发行期	fa xk qi	290
 天香	tm xl	289
 厦华	ua hx	288
@@ -1628,7 +1601,6 @@ sort: by_weight
 法人股	fa rf gu	279
 簿册	bu ce	275
 点位	dm ww	275
-中国经济时报	vs go jk ji ui bc	273
 看跌	kj dp	272
 国通	go ts	272
 断点	dr dm	266
@@ -1638,13 +1610,11 @@ sort: by_weight
 中润	vs ry	261
 银泰百货	yb td bd ho	261
 投资业	tz zi ye	261
-律师事务所	lv ui ui wu so	261
 金交所	jb jn so	261
 大降	da jl	260
 概念股	gd nm gu	259
 汇丰银行	hv fg yb hh	259
 套利	tc li	256
-中国企业家	vs go qi ye jx	255
 中联重科	vs lm vs ke	255
 货币战争	ho bi vj vg	254
 物物交换	wu wu jn hr	254
@@ -1662,7 +1632,6 @@ sort: by_weight
 即期	ji qi	239
 目标公司	mu bn gs si	239
 零存整取	lk cy vg qu	239
-中华工商时报	vs hx gs uh ui bc	237
 重仓股	vs ch gu	235
 百花村	bd hx cy	233
 合作协议	he zo xp yi	232
@@ -1695,7 +1664,6 @@ sort: by_weight
 云天化	yy tm hx	209
 人头税	rf tz uv	209
 销卡	xn ka	208
-微观经济学	ww gr jk ji xt	208
 瑞银集团	rv yb ji tr	208
 正兴	vg xk	208
 上海机场	uh hd ji ih	207
@@ -1749,15 +1717,12 @@ sort: by_weight
 九州通	jq vz ts	171
 思达	si da	170
 揽存	lj cy	170
-股权转让协议	gu qr vr rh xp yi	169
 南控	nj ks	169
-新鸿基地产	xb hs ji di ij	169
 江钻	jl zr	168
 麦考林	md kc lb	168
 固定资本	gu dk zi bf	166
 卖空	md ks	165
 补进	bu jb	165
-巴克莱银行	ba ke ld yb hh	165
 三普	sj pu	165
 双币	ul bi	164
 光明乳业	gl mk ru ye	162
@@ -1766,11 +1731,9 @@ sort: by_weight
 建通	jm ts	161
 浦银安盛	pu yb an ug	161
 古越龙山	gu yt ls uj	161
-中国建设银行	vs go jm ue yb hh	161
 筑底	vu di	161
 理财周报	li cd vz bc	161
 煤炭股	mw tj gu	160
-证券市场周刊	vg qr ui ih vz kj	159
 抵押率	di ya lv	159
 税点	uv dm	158
 农化	ns hx	158
@@ -1794,7 +1757,6 @@ sort: by_weight
 光亚	gl ya	144
 宝盈	bc yk	144
 北新路桥	bw xb lu qn	144
-组织机构代码证	zu vi ji gz dd ma vg	144
 桐君阁	ts jy ge	143
 金地集团	jb de ji tr	143
 海欣	hd xb	143
@@ -1805,8 +1767,6 @@ sort: by_weight
 铜城	ts ig	139
 旭光	xu gl	138
 托普	to pu	136
-芝加哥商品交易所	vi jx ge uh pb jn yi so	135
-发票管理办法	fa pn gr li bj fa	135
 动力源	ds li yr	133
 换股	hr gu	132
 高息揽存	gc xi lj cy	132
@@ -1822,8 +1782,6 @@ sort: by_weight
 附单	fu dj	129
 华润集团	hx ry ji tr	128
 波段性	bo dr xk	128
-上海金融学院	uh hd jb rs xt yr	128
-中国人民保险公司	vs go rf mb bc xm gs si	127
 成都路桥	ig du lu qn	127
 博通	bo ts	127
 新财富	xb cd fu	127
@@ -1844,7 +1802,6 @@ sort: by_weight
 爱建	ai jm	121
 宝信	bc xb	120
 多伦股份	do ly gu ff	120
-期货交易管理条例	qi ho jn yi gr li tn li	120
 承诺费	ig no fw	120
 维加	ww jx	118
 空开	ks kd	118
@@ -1855,7 +1812,6 @@ sort: by_weight
 违约率	ww yt lv	117
 福日	fu ri	117
 金普	jb pu	117
-浮动汇率制	fu ds hv lv vi	116
 验旧	yj jq	116
 斯达康	si da kh	113
 提货单	ti ho dj	112
@@ -1863,7 +1819,6 @@ sort: by_weight
 苏宁环球	su nk hr qq	111
 浪莎	lh ua	111
 潮宏基	ic hs ji	110
-泸州老窖股份有限公司	lu vz lc jn gu ff yz xm gs si	108
 到期日	dc qi ri	107
 宝光	bc gl	107
 罗克韦尔	lo ke ww er	107
@@ -1871,17 +1826,13 @@ sort: by_weight
 中国宝安	vs go bc an	106
 成长性	ig vh xk	106
 保增长	bc zg vh	104
-中国信达资产管理公司	vs go xb da zi ij gr li gs si	104
 融资款	rs zi kr	104
 大华银行	da hx yb hh	104
 圣方	ug fh	104
 质押品	vi ya pb	103
 保网	bc wh	103
-资本利得税	zi bf li de uv	103
 创业网	il ye wh	102
-企业所得税法	qi ye so de uv fa	102
 申购款	uf gz kr	101
-互联网周刊	hu lm wh vz kj	101
 试点方案	ui dm fh an	100
 精伦	jk ly	100
 完税证	wj uv vg	100
@@ -1891,9 +1842,7 @@ sort: by_weight
 假账	jx vh	98
 债务国	vd wu go	98
 统计系	ts ji xi	98
-计量经济学	ji ll jk ji xt	97
 朝华	ic hx	97
-国家统计局	go jx ts ji ju	96
 业务线	ye wu xm	96
 衍生产品	yj ug ij pb	96
 增资额	zg zi ee	96
@@ -1905,7 +1854,6 @@ sort: by_weight
 洗盘	xi pj	95
 同济堂	ts ji th	95
 广联达	gl lm da	94
-九龙仓集团	jq ls ch ji tr	94
 收购者	uz gz ve	94
 华联商厦	hx lm uh ua	94
 奖励金	jl li jb	94
@@ -1948,13 +1896,11 @@ sort: by_weight
 第一财经	di yi cd jk	82
 和讯	he xy	82
 信达资产	xb da zi ij	81
-泰达宏利基金	td da hs li ji jb	81
 轮换制	ly hr vi	81
 资本品	zi bf pb	81
 理财金	li cd jb	81
 转换费	vr hr fw	80
 股分	gu ff	80
-中国工商银行	vs go gs uh yb hh	80
 巨潮	ju ic	80
 回档	hv dh	79
 芜湖港	wu hu gh	79
@@ -1971,7 +1917,6 @@ sort: by_weight
 换手率	hr uz lv	76
 贴现率	tp xm lv	74
 冷却期	lg qt qi	74
-香港交易所	xl gh jn yi so	74
 银广夏	yb gl xx	74
 广发银行	gl fa yb hh	74
 贝因美	bw yb mw	73
@@ -1998,11 +1943,9 @@ sort: by_weight
 甘化	gj hx	70
 流通股	lq ts gu	70
 负利率	fu li lv	70
-环球企业家	hr qq qi ye jx	70
 德豪润达	de hc ry da	70
 非现金	fw xm jb	69
 宝诚	bc ig	69
-宝瑞通典当行	bc rv ts dm dh xk	69
 关联公司	gr lm gs si	69
 商通卡	uh ts ka	69
 源发	yr fa	69
@@ -2024,12 +1967,10 @@ sort: by_weight
 中小板指	vs xn bj vi	65
 五矿证券	wu kl vg qr	65
 租方	zu fh	65
-联邦存款保险公司	lm bh cy kr bc xm gs si	64
 挂价	gx jx	64
 寰岛	hr dc	64
 投资协议	tz zi xp yi	64
 热门股	re mf gu	63
-国海富兰克林	go hd fu lj ke lb	63
 天津海运	tm jb hd yy	63
 哈尔斯	ha er si	63
 东方龙	ds fh ls	63
@@ -2054,10 +1995,8 @@ sort: by_weight
 钱经	qm jk	60
 新华百货	xb hx bd ho	59
 联益	lm yi	59
-劳埃德银行	lc ai de yb hh	58
 高新兴	gc xb xk	58
 海兰信	hd lj xb	58
-美丽华酒店	mw li hx jq dm	58
 易货贸易	yi ho mc yi	58
 哈药股份	ha yc gu ff	58
 审计报告	uf ji bc gc	57
@@ -2123,9 +2062,7 @@ sort: by_weight
 前笔	qm bi	46
 速贷通	su dd ts	46
 凯马	kd ma	46
-固定汇率制	gu dk hv lv vi	46
 彩票点	cd pn dm	46
-九阳股份有限公司	jq yh gu ff yz xm gs si	46
 国际商报	go ji uh bc	46
 让渡	rh du	45
 砸盘	za pj	45
@@ -2158,8 +2095,6 @@ sort: by_weight
 配额制	pw ee vi	41
 中国公司	vs go gs si	40
 金路集团	jb lu ji tr	40
-金融许可证	jb rs xu ke vg	40
-全球资本市场	qr qq zi bf ui ih	40
 钢镚儿	gh bg er	40
 中鲁	vs lu	40
 低吸	di xi	39
@@ -2167,7 +2102,6 @@ sort: by_weight
 贵研铂业	gv yj bo ye	39
 交易规则	jn yi gv ze	39
 电力股	dm li gu	38
-外国投资法	wd go tz zi fa	38
 交货价	jn ho jx	38
 自选股	zi xr gu	38
 交易场	jn yi ih	38
@@ -2185,18 +2119,14 @@ sort: by_weight
 上港集团	uh gh ji tr	36
 新华都	xb hx dz	36
 银基集团	yb ji ji tr	36
-广州市广百股份有限公司	gl vz ui gl bd gu ff yz xm gs si	36
-房地产评估	fh di ij pk gu	36
 东富龙	ds fu ls	36
 欧亚集团	ou ya ji tr	36
 中冠	vs gr	36
 南京新港	nj jk xb gh	35
 综合税	zs he uv	35
-厦门国际银行	xx mf go ji yb hh	35
 海联讯	hd lm xy	35
 重庆港九	is qk gh jq	35
 亿阳信通	yi yh xb ts	35
-中国人民建设银行	vs go rf mb jm ue yb hh	35
 伊立浦	yi li pu	35
 秦丰	qb fg	35
 华陶	hx tc	35
@@ -2227,7 +2157,6 @@ sort: by_weight
 运通公司	yy ts gs si	33
 电子城	dm zi ig	32
 中航精机	vs hh jk ji	32
-山东新华制药股份有限公司	uj ds xb hx vi yc gu ff yz xm gs si	32
 绩差股	ji ia gu	32
 承担者	ig dj ve	32
 万丰奥威	wj fg ao ww	32
@@ -2251,7 +2180,6 @@ sort: by_weight
 招标者	vc bn ve	30
 筑信	vu xb	30
 添益宝	tm yi bc	30
-詹姆斯邦德	vj mu si bh de	30
 资本化	zi bf hx	30
 仲裁规则	vs cd gv ze	30
 外国银行	wd go yb hh	29
@@ -2271,7 +2199,6 @@ sort: by_weight
 内蒙君正	nw mg jy vg	28
 华盛达	hx ug da	28
 运通卡	yy ts ka	28
-中国经济网	vs go jk ji wh	28
 团办	tr bj	28
 宏华集团	hs hx ji tr	28
 华菱钢铁	hx lk gh tp	28
@@ -2282,7 +2209,6 @@ sort: by_weight
 惠博普	hv bo pu	28
 中电投	vs dm tz	28
 易方达	yi fh da	28
-资产评估报告	zi ij pk gu bc gc	28
 旗滨集团	qi bb ji tr	28
 付息日	fu xi ri	28
 三房巷	sj fh xl	28
@@ -2299,8 +2225,6 @@ sort: by_weight
 斯普林特	si pu lb te	27
 储备头寸	iu bw tz cy	27
 金宇集团	jb yu ji tr	26
-合肥美菱股份有限公司	he fw mw lk gu ff yz xm gs si	26
-现金流量表	xm jb lq ll bn	26
 标金	bn jb	26
 京运通	jk yy ts	26
 圣莱达	ug ld da	26
@@ -2320,17 +2244,13 @@ sort: by_weight
 修身堂	xq uf th	25
 残值	cj vi	25
 金宇车城	jb yu ie ig	24
-远东经济评论	yr ds jk ji pk ly	24
 达尔曼	da er mj	24
 销售合同	xn uz he ts	24
 亚洲金融	ya vz jb rs	24
 广为流传	gl ww lq ir	24
 阳谷华泰	yh gu hx td	24
-中国财经报	vs go cd jk bc	24
 汇添富	hv tm fu	24
 港华燃气	gh hx rj qi	24
-股市动态分析	gu ui ds td ff xi	24
-广州白云山制药股份有限公司	gl vz bd yy uj vi yc gu ff yz xm gs si	24
 紫光华宇	zi gl hx yu	24
 信息早报	xb xi zc bc	24
 回天胶业	hv tm jn ye	23
@@ -2343,18 +2263,14 @@ sort: by_weight
 综合类	zs he lw	23
 报告期	bc gc qi	23
 零七股份	lk qi gu ff	23
-创业计划书	il ye ji hx uu	23
 世界经济	ui jp jk ji	23
 三全食品	sj qr ui pb	23
 转期	vr qi	23
 异动股	yi ds gu	23
 金飞达	jb fw da	23
 上海地产	uh hd di ij	22
-佳兆业集团	jx vc ye ji tr	22
-艺术品投资	yi uu pb tz zi	22
 大冶特钢	da ye te gh	22
 中国移动	vs go yi ds	22
-全球商业经典	qr qq uh ye jk dm	22
 重庆机电	is qk ji dm	22
 百盛集团	bd ug ji tr	22
 经理费	jk li fw	22
@@ -2393,7 +2309,6 @@ sort: by_weight
 宏智	hs vi	19
 仕奇	ui qi	19
 兰光	lj gl	19
-深圳智多盈	uf vf vi do yk	19
 三元达	sj yr da	19
 中信海直	vs xb hd vi	19
 抵押合同	di ya he ts	19
@@ -2408,7 +2323,6 @@ sort: by_weight
 中银绒业	vs yb rs ye	19
 四洲集团	si vz ji tr	19
 丰林集团	fg lb ji tr	19
-苏宁环球股份有限公司	su nk hr qq gu ff yz xm gs si	19
 广州分行	gl vz ff hh	19
 葛州坝	ge vz ba	19
 三丰智能	sj fg vi ng	19
@@ -2425,7 +2339,6 @@ sort: by_weight
 集琦	ji qi	18
 沧州大化	ch vz da hx	18
 英威腾	yk ww tg	18
-华兰生物工程股份有限公司	hx lj ug wu gs ig gu ff yz xm gs si	18
 工银亚洲	gs yb ya vz	18
 奥维通信	ao ww ts xb	18
 自然人股	zi rj rf gu	18
@@ -2447,7 +2360,6 @@ sort: by_weight
 定向增发	dk xl zg fa	17
 一德	yi de	17
 新开普	xb kd pu	17
-金利来集团	jb li ld ji tr	17
 康赛	kh sd	17
 深安达	uf an da	17
 武汉凡谷	wu hj fj gu	17
@@ -2460,7 +2372,6 @@ sort: by_weight
 清华同方	qk hx ts fh	16
 中原信托	vs yr xb to	16
 航意险	hh yi xm	16
-信达资产管理公司	xb da zi ij gr li gs si	16
 洛玻	lo bo	16
 高斯达	gc si da	16
 贵绳	gv ug	16
@@ -2507,7 +2418,6 @@ sort: by_weight
 东锅	ds go	14
 三木集团	sj mu ji tr	14
 国泰金牛	go td jb nq	14
-海王英特龙	hd wh yk te ls	14
 单币卡	dj bi ka	14
 国泰上证	go td uh vg	14
 超声电子	ic ug dm zi	14
@@ -2518,14 +2428,12 @@ sort: by_weight
 卖方市场	md fh ui ih	14
 钱串子	qm ir zi	14
 东方航空	ds fh hh ks	14
-金融投资报	jb rs tz zi bc	14
 永亨银行	ys hg yb hh	14
 核准制	he vy vi	14
 商务周刊	uh wu vz kj	14
 银承	yb ig	14
 北旅	bw lv	14
 银债	yb vd	14
-洛阳轴研科技股份有限公司	lo yh vz yj ke ji gu ff yz xm gs si	14
 国际金融	go ji jb rs	14
 中信泰富	vs xb td fu	14
 发卡银行	fa qx yb hh	14
@@ -2580,16 +2488,13 @@ sort: by_weight
 红阳能源	hs yh ng yr	12
 众业达	vs ye da	12
 扩仓	ko ch	12
-广东新会美达锦纶股份有限公司	gl ds xb hv mw da jb ly gu ff yz xm gs si	12
 深证综指	uf vg zs vi	12
 三特索道	sj te so dc	12
 被套	bw tc	12
 库藏股	ku ch gu	12
 实益达	ui yi da	12
-海南海药股份有限公司	hd nj hd yc gu ff yz xm gs si	12
 久立特材	jq li te cd	12
 深宝安	uf bc an	12
-华东医药股份有限公司	hx ds yi yc gu ff yz xm gs si	12
 瓦轴	wa vz	12
 三维丝	sj ww si	12
 宝利来	bc li ld	11
@@ -2627,10 +2532,7 @@ sort: by_weight
 烽火通信	fg ho ts xb	11
 健康元	jm kh yr	10
 常柴	ih id	10
-厦门信达股份有限公司	xx mf xb da gu ff yz xm gs si	10
 华商银行	hx uh yb hh	10
-首席财务官	uz xi cd wu gr	10
-大众理财顾问	da vs li cd gu wf	10
 保荐制	bc jm vi	10
 哈慈	ha ci	10
 移仓	yi ch	10
@@ -2646,31 +2548,25 @@ sort: by_weight
 试行标准	ui xk bn vy	10
 枪客	ql ke	10
 富豪酒店	fu hc jq dm	10
-南方建材股份有限公司	nj fh jm cd gu ff yz xm gs si	10
 服务合同	fu wu he ts	10
 奥飞动漫	ao fw ds mj	10
 股票机	gu pn ji	10
 南证	nj vg	10
 路演	lu yj	10
-中集安瑞科	vs ji an rv ke	10
 九九久	jq jq jq	10
 畅丰车桥	ih fg ie qn	10
 国泰纳指	go td na vi	10
 还款期	hd kr qi	10
 华靖	hx jk	10
 中泰化学	vs td hx xt	10
-外国直接投资	wd go vi jp tz zi	10
 金辉集团	jb hv ji tr	10
-英国金融时报	yk go jb rs ui bc	10
 南百	nj bd	10
 逃汇	tc hv	10
 北京分行	bw jk ff hh	9
 酒鬼酒	jq gv jq	9
-增值税普通发票	zg vi uv pu ts fa pn	9
 万泽股份	wj ze gu ff	9
 东光集团	ds gl ji tr	9
 中国经济	vs go jk ji	9
-超级大乐透	ic ji da le tz	9
 双平	ul pk	9
 河化	he hx	9
 基金合同	ji jb he ts	9
@@ -2679,7 +2575,6 @@ sort: by_weight
 外汇宝	wd hv bc	9
 商品期货	uh pb qi ho	9
 新兴市场	xb xk ui ih	9
-证券投资基金	vg qr tz zi ji jb	9
 创兴银行	il xk yb hh	9
 西藏天路	xi zh tm lu	9
 焦作万方	jn zo wj fh	9
@@ -2697,7 +2592,6 @@ sort: by_weight
 残值率	cj vi lv	9
 雄震	xs vf	9
 中金公司	vs jb gs si	9
-中信实业银行	vs xb ui ye yb hh	9
 汇多利	hv do li	9
 北京天桥	bw jk tm qn	8
 鄂绒	ee rs	8
@@ -2705,36 +2599,27 @@ sort: by_weight
 碟型	dp xk	8
 待评	dd pk	8
 银广厦	yb gl ua	8
-云南盐化股份有限公司	yy nj yj hx gu ff yz xm gs si	8
 联油	lm yz	8
 金利华电	jb li hx dm	8
-新鸿基公司	xb hs ji gs si	8
 汇通天下	hv ts tm xx	8
-中国农业银行	vs go ns ye yb hh	8
 炬力	ju li	8
-西南财经大学	xi nj cd jk da xt	8
 天目药业	tm mu yc ye	8
 上提	uh ti	8
-融资租赁合同	rs zi zu lb he ts	8
-证券投资分析	vg qr tz zi ff xi	8
 通金	ts jb	8
 中国食品	vs go ui pb	8
 亚星化学	ya xk hx xt	8
 试盘	ui pj	8
-大中华集团	da vs hx ji tr	8
 魏桥纺织	ww qn fh vi	8
 长盛环球	vh ug hr qq	8
 恒泰大通	hg td da ts	8
 科达机电	ke da ji dm	8
 中航科工	vs hh ke gs	8
 西陇化工	xi ls hx gs	8
-南宁糖业股份有限公司	nj nk th ye gu ff yz xm gs si	8
 深赛格	uf sd ge	8
 金枫酒业	jb fg jq ye	8
 英化	yk hx	8
 鑫新	xb xb	8
 广发证券	gl fa vg qr	8
-中国国际招标网	vs go go ji vc bn wh	8
 小牌	xn pd	8
 银行券	yb hh qr	8
 长盛基金	vh ug ji jb	8
@@ -2746,7 +2631,6 @@ sort: by_weight
 新嘉联	xb jx lm	8
 松辽汽车	ss ln qi ie	8
 朗伯德街	lh bo de jp	8
-发票领购簿	fa pn lk gz bu	8
 深纺织	uf fh vi	8
 限售期	xm uz qi	8
 苏物	su wu	8
@@ -2764,23 +2648,18 @@ sort: by_weight
 新希望	xb xi wh	8
 万顺昌	wj uy ih	7
 通道制	ts dc vi	7
-证券市场红周刊	vg qr ui ih hs vz kj	7
 美联银行	mw lm yb hh	7
 开放经济	kd fh jk ji	7
 还款计划	hd kr ji hx	7
 豫能	yu ng	7
 中化国际	vs hx go ji	7
 金普卡	jb pu ka	7
-南京红太阳股份有限公司	nj jk hs td yh gu ff yz xm gs si	7
 国泰金鼎	go td jb dk	7
-实际控制人	ui ji ks vi rf	7
 拓日新能	ta ri xb ng	7
 宜华木业	yi hx mu ye	7
 购买区	gz md qu	7
 通知期	ts vi qi	7
-鲁泰纺织股份有限公司	lu td fh vi gu ff yz xm gs si	7
 精工集团	jk gs ji tr	7
-上海证券交易所	uh hd vg qr jn yi so	7
 深物业	uf wu ye	7
 合富辉煌	he fu hv hl	7
 流动电讯	lq ds dm xy	7
@@ -2793,19 +2672,15 @@ sort: by_weight
 物贸中心	wu mc vs xb	7
 国际投资	go ji tz zi	7
 上电	uh dm	7
-招商局国际	vc uh ju go ji	7
 西南合成	xi nj he ig	7
 新奥燃气	xb ao rj qi	7
 实施标准	ui ui bn vy	7
 上海金陵	uh hd jb lk	7
 梅花伞	mw hx sj	7
 廉租房	lm zu fh	7
-机构投资者	ji gz tz zi ve	7
 壹传媒	yi ir mw	7
 易联众	yi lm vs	7
 云南马龙	yy nj ma ls	7
-经济观察网	jk ji gr ia wh	7
-中国联合商报	vs go lm he uh bc	7
 中科健	vs ke jm	7
 区域型	qu yu xk	7
 龙头股	ls tz gu	7
@@ -2827,13 +2702,10 @@ sort: by_weight
 新华基金	xb hx ji jb	6
 锦化	jb hx	6
 雅戈	ya ge	6
-当代金融家	dh dd jb rs jx	6
 三普药业	sj pu yc ye	6
-西北轴承股份有限公司	xi bw vz ig gu ff yz xm gs si	6
 平均利率	pk jy li lv	6
 东控	ds ks	6
 深华发	uf hx fa	6
-当代经理人	dh dd jk li rf	6
 湖北迈亚	hu bw md ya	6
 万昌科技	wj ih ke ji	6
 广州国光	gl vz go gl	6
@@ -2845,9 +2717,7 @@ sort: by_weight
 中国石油	vs go ui yz	6
 国泰金鹿	go td jb lu	6
 条形图	tn xk tu	6
-浙江三花股份有限公司	ve jl sj hx gu ff yz xm gs si	6
 安凯客车	an kd ke ie	6
-停业通知书	tk ye ts vi uu	6
 中国重汽	vs go vs qi	6
 国研网	go yj wh	6
 金利通	jb li ts	6
@@ -2861,24 +2731,19 @@ sort: by_weight
 实德环球	ui de hr qq	6
 新太	xb td	6
 天利高新	tm li gc xb	6
-山东鲁阳股份有限公司	uj ds lu yh gu ff yz xm gs si	6
 振新	vf xb	6
 重单	vs dj	6
 上海绿新	uh hd lv xb	6
 青鸟华光	qk nn hx gl	6
 绩差公司	ji ia gs si	6
 二纺	er fh	6
-安徽华星化工股份有限公司	an hv hx xk hx gs gu ff yz xm gs si	6
-基金委员会	ji jb ww yr hv	6
 投票门	tz pn mf	6
 东吴嘉禾	ds wu jx he	6
 风险提示	fg xm ti ui	6
 新锦华	xb jb hx	6
 针线街	vf xm jp	6
 中国国贸	vs go go mc	6
-烟台氨纶股份有限公司	yj td an ly gu ff yz xm gs si	6
 东方明珠	ds fh mk vu	5
-国际金融市场	go ji jb rs ui ih	5
 北京君正	bw jk jy vg	5
 认沽期权	rf gu qi qr	5
 清算协议	qk sr xp yi	5
@@ -2888,7 +2753,6 @@ sort: by_weight
 借报	jp bc	5
 几维鸟	ji ww nn	5
 深深房	uf uf fh	5
-管理有限公司	gr li yz xm gs si	5
 计世网	ji ui wh	5
 广州冷机	gl vz lg ji	5
 征管处	vg gr iu	5
@@ -2899,12 +2763,9 @@ sort: by_weight
 亨通光电	hg ts gl dm	5
 成商集团	ig uh ji tr	5
 齐星铁塔	qi xk tp ta	5
-海外投资法	hd wd tz zi fa	5
-深圳市通产丽星股份有限公司	uf vf ui ts ij li xk gu ff yz xm gs si	5
 出票人	iu pn rf	5
 上海物贸	uh hd wu mc	5
 实股	ui gu	5
-上海科华生物工程股份有限公司	uh hd ke hx ug wu gs ig gu ff yz xm gs si	5
 深泰	uf td	5
 交货单	jn ho dj	5
 常胜网	ih ug wh	5
@@ -2915,23 +2776,19 @@ sort: by_weight
 泰复	td fu	5
 厦门厦工	xx mf ua gs	5
 渤海银行	bo hd yb hh	5
-大连冷冻机股份有限公司	da lm lg ds ji gu ff yz xm gs si	5
 万向德农	wj xl de ns	5
 炒汇者	ic hv ve	5
 友达光电	yz da gl dm	5
 南油物业	nj yz wu ye	5
 期货公司	qi ho gs si	5
 双赔	ul pw	5
-山东恒邦冶炼股份有限公司	uj ds hg bh ye lm gu ff yz xm gs si	5
 出口人	iu kz rf	5
 迟付	ii fu	5
 投标书	tz bn uu	5
 评估标准	pk gu bn vy	5
 钛金	td jb	5
 国际融资	go ji rs zi	5
-光大保德信	gl da bc de xb	5
 中瑞思创	vs rv si il	5
-浦银安盛基金	pu yb an ug ji jb	5
 海正药业	hd vg yc ye	5
 胜景山河	ug jk uj he	5
 送股	ss gu	5
@@ -2956,13 +2813,11 @@ sort: by_weight
 东方金钰	ds fh jb yu	5
 中辽	vs ln	5
 吉利汽车	ji li qi ie	5
-投资与合作	tz zi yu he zo	5
 多佳	do jx	5
 湖南海利	hu nj hd li	5
 中国投资	vs go tz zi	5
 海信电器	hd xb dm qi	5
 华北制药	hx bw vi yc	5
-黑色星期五	hw se xk qi wu	5
 达创	da il	5
 龙双	ls ul	5
 英唐智控	yk th vi ks	5
@@ -2974,9 +2829,7 @@ sort: by_weight
 信达期货	xb da qi ho	4
 上海建工	uh hd jm gs	4
 空中网	ks vs wh	4
-雅居乐地产	ya ju le di ij	4
 兴业卡	xk ye ka	4
-信息披露制度	xb xi pi lu vi du	4
 大银行	da yb hh	4
 奥运卡	ao yy ka	4
 骗线	pm xm	4
@@ -2986,7 +2839,6 @@ sort: by_weight
 山东矿机	uj ds kl ji	4
 广百股份	gl bd gu ff	4
 证券周刊	vg qr vz kj	4
-投资者关系	tz zi ve gr xi	4
 股票界	gu pn jp	4
 注销户	vu xn hu	4
 苏三山	su sj uj	4
@@ -3018,7 +2870,6 @@ sort: by_weight
 海螺型材	hd lo xk cd	4
 兴利集团	xk li ji tr	4
 不便宜	bu bm yi	4
-风险提示函	fg xm ti ui hj	4
 中原特钢	vs yr te gh	4
 高银地产	gc yb di ij	4
 大萧条	da xn tn	4
@@ -3043,7 +2894,6 @@ sort: by_weight
 发展战略	fa vj vj lt	4
 国泰金马	go td jb ma	4
 哈飞航空	ha fw hh ks	4
-中国科健股份有限公司	vs go ke jm gu ff yz xm gs si	4
 粤宏远	yt hs yr	4
 日线图	ri xm tu	4
 金瑞科技	jb rv ke ji	4
@@ -3051,18 +2901,14 @@ sort: by_weight
 湖北宜化	hu bw yi hx	4
 业务发展	ye wu fa vj	4
 上海科技	uh hd ke ji	4
-湖北沙隆达股份有限公司	hu bw ua ls da gu ff yz xm gs si	4
 对外资	dv wd zi	4
 金种子	jb vs zi	4
 万威国际	wj ww go ji	4
 警示教育	jk ui jn yu	4
 易基	yi ji	4
-新疆金风科技股份有限公司	xb jl jb fg ke ji gu ff yz xm gs si	4
 采掘业	cd jt ye	4
 商务英语	uh wu yk yu	4
 免代理费	mm dd li fw	4
-中国国际信托投资公司	vs go go ji xb to tz zi gs si	4
-南京港股份有限公司	nj jk gh gu ff yz xm gs si	4
 授予者	uz yu ve	4
 中国凤凰	vs go fg hl	4
 潞安环能	lu an hr ng	4
@@ -3081,20 +2927,15 @@ sort: by_weight
 宁波韵升	nk bo yy ug	3
 创业教育	il ye jn yu	3
 大富科技	da fu ke ji	3
-易方达基金	yi fh da ji jb	3
 宇信易诚	yu xb yi ig	3
 杭汽轮	hh qi ly	3
 林州重机	lb vz vs ji	3
 三井银行	sj jk yb hh	3
-中国有色金属	vs go yz se jb uu	3
 华力创通	hx li il ts	3
 黑白菜	hw bd cd	3
 巨龙管业	ju ls gr ye	3
-中央结算公司	vs yh jp sr gs si	3
 经济增长	jk ji zg vh	3
-红利通知书	hs li ts vi uu	3
 储蓄券	iu xu qr	3
-广东百灵信	gl ds bd lk xb	3
 云南盐化	yy nj yj hx	3
 杜约翰	du yt hj	3
 特别措施	te bp co ui	3
@@ -3111,32 +2952,26 @@ sort: by_weight
 出售方	iu uz fh	3
 格令	ge lk	3
 银河银泰	yb he yb td	3
-德累斯顿银行	de lw si dy yb hh	3
 四川圣达	si ir ug da	3
 翻三番	fj sj fj	3
 财经论坛	cd jk ly tj	3
 长控	vh ks	3
-四川经济日报	si ir jk ji ri bc	3
 中集集团	vs ji ji tr	3
 融资协议	rs zi xp yi	3
 浙江永强	ve jl ys ql	3
 新浪财经	xb lh cd jk	3
 恒泰艾普	hg td ai pu	3
 南方航空	nj fh hh ks	3
-信诚四季红	xb ig si ji hs	3
 支取凭证	vi qu pk vg	3
 国信证券	go xb vg qr	3
 金马股份	jb ma gu ff	3
 新低点	xb di dm	3
-汇丰晋信龙腾	hv fg jb xb ls tg	3
 理文集团	li wf ji tr	3
 中国人寿	vs go rf uz	3
 中信控股	vs xb ks gu	3
 投资参考	tz zi cj kc	3
-有效市场假说	yz xn ui ih jx uo	3
 评估方案	pk gu fh an	3
 东华能源	ds hx ng yr	3
-货币银行学	ho bi yb hh xt	3
 深圳方大	uf vf fh da	3
 上海辅仁	uh hd fu rf	3
 可用资产	ke ys zi ij	3
@@ -3146,10 +2981,8 @@ sort: by_weight
 攀渝钛业	pj yu td ye	3
 深能	uf ng	3
 风险管理	fg xm gr li	3
-华融资产管理公司	hx rs zi ij gr li gs si	3
 中恒电气	vs hg dm qi	3
 天广消防	tm gl xn fh	3
-中国星集团	vs go xk ji tr	3
 法郎区	fa lh qu	3
 苏州恒久	su vz hg jq	3
 全球商业	qr qq uh ye	3
@@ -3159,7 +2992,6 @@ sort: by_weight
 莱英达	ld yk da	3
 新华财经	xb hx cd jk	3
 浙江海纳	ve jl hd na	3
-上海海隆软件股份有限公司	uh hd hd ls rr jm gu ff yz xm gs si	3
 辅导期	fu dc qi	3
 威胜集团	ww ug ji tr	3
 安全管理	an qr gr li	3
@@ -3169,7 +3001,6 @@ sort: by_weight
 德信集团	de xb ji tr	3
 环康集团	hr kh ji tr	3
 创业板	il ye bj	3
-汤姆逊路透	th mu xy lu tz	3
 深高	uf gc	3
 财经频道	cd jk pb dc	3
 广州珠江	gl vz vu jl	3
@@ -3178,7 +3009,6 @@ sort: by_weight
 信德集团	xb de ji tr	3
 万象集团	wj xl ji tr	3
 现手	xm uz	3
-深圳市海王生物工程股份有限公司	uf vf ui hd wh ug wu gs ig gu ff yz xm gs si	3
 分行制	ff hh vi	3
 友邦华泰	yz bh hx td	3
 轧空	ya ks	3
@@ -3190,15 +3020,12 @@ sort: by_weight
 收费收据	uz fw uz ju	3
 南山铝业	nj uj lv ye	3
 管理公司	gr li gs si	3
-存款保险制度	cy kr bc xm vi du	3
 西祠胡同	xi ci hu ts	3
 长城集团	ih ig ji tr	3
 方正富邦	fh vg fu bh	3
-深圳市证通电子股份有限公司	uf vf ui vg ts dm zi gu ff yz xm gs si	3
 长百集团	vh bd ji tr	2
 中银卡	vs yb ka	2
 上海港机	uh hd gh ji	2
-国联安双禧	go lm an ul xi	2
 认购权证	rf gz qr vg	2
 账户表	vh hu bn	2
 解决方案	jp jt fh an	2
@@ -3224,18 +3051,14 @@ sort: by_weight
 龙源电力	ls yr dm li	2
 总负债	zs fu vd	2
 操作流程	cc zo lq ig	2
-中核华原钛白股份有限公司	vs he hx yr td bd gu ff yz xm gs si	2
 焦点问题	jn dm wf ti	2
 深特力	uf te li	2
 中国北车	vs go bw ie	2
 东方银行	ds fh yb hh	2
 广汽长丰	gl qi vh fg	2
-武汉凯迪电力股份有限公司	wu hj kd di dm li gu ff yz xm gs si	2
-重庆桐君阁股份有限公司	is qk ts jy ge gu ff yz xm gs si	2
 赛格三星	sd ge sj xk	2
 鹰美	yk mw	2
 华昌化工	hx ih hx gs	2
-招募说明书	vc mu uo mk uu	2
 股城网	gu ig wh	2
 投资指南	tz zi vi nj	2
 英飞拓	yk fw ta	2
@@ -3257,22 +3080,16 @@ sort: by_weight
 金隅股份	jb yu gu ff	2
 鼎盛天工	dk ug tm gs	2
 新闻集团	xb wf ji tr	2
-川化股份有限公司	ir hx gu ff yz xm gs si	2
 代领人	dd lk rf	2
 厦门国贸	xx mf go mc	2
 技术条件	ji uu tn jm	2
 金城股份	jb ig gu ff	2
-深圳赤湾港航股份有限公司	uf vf ii wj gh hh gu ff yz xm gs si	2
 在线咨询	zd xm zi xy	2
 钱袋网	qm dd wh	2
 重点关注	vs dm gr vu	2
 汤臣集团	th if ji tr	2
-可再生能源	ke zd ug ng yr	2
 罗平锌电	lo pk xb dm	2
 商业银行	uh ye yb hh	2
-流动资金量	lq ds zi jb ll	2
-安徽安纳达钛业股份有限公司	an hv an na da td ye gu ff yz xm gs si	2
-天津一汽夏利汽车股份有限公司	tm jb yi qi xx li qi ie gu ff yz xm gs si	2
 新疆屯河	xb jl ty he	2
 百圆裤业	bd yr ku ye	2
 亚夏汽车	ya xx qi ie	2
@@ -3282,12 +3099,10 @@ sort: by_weight
 金马集团	jb ma ji tr	2
 四方达	si fh da	2
 瑞立集团	rv li ji tr	2
-伟易达集团	ww yi da ji tr	2
 认定标准	rf dk bn vy	2
 派息日	pd xi ri	2
 积成电子	ji ig dm zi	2
 伦敦金	ly dy jb	2
-深圳海王星辰	uf vf hd wh xk if	2
 温商网	wf uh wh	2
 证券市场	vg qr ui ih	2
 期权费	qi qr fw	2
@@ -3295,14 +3110,11 @@ sort: by_weight
 机电股	ji dm gu	2
 卓越理财	vo yt li cd	2
 特区经济	te qu jk ji	2
-浙江海亮股份有限公司	ve jl hd ll gu ff yz xm gs si	2
-员工持股计划	yr gs ii gu ji hx	2
 泛海酒店	fj hd jq dm	2
 风神股份	fg uf gu ff	2
 双色球	ul se qq	2
 凤竹纺织	fg vu fh vi	2
 经济政策	jk ji vg ce	2
-济南柴油机股份有限公司	ji nj id yz ji gu ff yz xm gs si	2
 金源米业	jb yr mi ye	2
 天目药	tm mu yc	2
 重庆中药	is qk vs yc	2
@@ -3313,9 +3125,7 @@ sort: by_weight
 评价中心	pk jx vs xb	2
 海王生物	hd wh ug wu	2
 次新股	ci xb gu	2
-瑞士银行公司	rv ui yb hh gs si	2
 投资收藏	tz zi uz ch	2
-税收缴款书	uv uz jn kr uu	2
 重庆华亚	is qk hx ya	2
 反馈单	fj kv dj	2
 齐鲁石化	qi lu ui hx	2
@@ -3329,9 +3139,7 @@ sort: by_weight
 南天信息	nj tm xb xi	2
 南京新百	nj jk xb bd	2
 长盛中证	vh ug vs vg	2
-中国经济报告	vs go jk ji bc gc	2
 国泰双利	go td ul li	2
-现代商业银行	xm dd uh ye yb hh	2
 南宁糖业	nj nk th ye	2
 宁夏恒力	nk xx hg li	2
 公营化	gs yk hx	2
@@ -3353,7 +3161,6 @@ sort: by_weight
 备抵	bw di	2
 三安光电	sj an gl dm	2
 焦点话题	jn dm hx ti	2
-焦作万方铝业股份有限公司	jn zo wj fh lv ye gu ff yz xm gs si	2
 华龙集团	hx ls ji tr	2
 大众交通	da vs jn ts	2
 上海机电	uh hd ji dm	2
@@ -3364,7 +3171,6 @@ sort: by_weight
 财务会计	cd wu kk ji	2
 北海集团	bw hd ji tr	2
 民间借贷	mb jm jp dd	2
-南方汇通股份有限公司	nj fh hv ts gu ff yz xm gs si	2
 节能减排	jp ng jm pd	2
 净利润率	jk li ry lv	2
 行业标准	hh ye bn vy	2
@@ -3376,11 +3182,9 @@ sort: by_weight
 北亚集团	bw ya ji tr	2
 买断型	md dr xk	2
 江苏吴中	jl su wu vs	2
-保利达资产	bc li da zi ij	2
 浙大海纳	ve da hd na	2
 经济杂志	jk ji za vi	2
 三五互联	sj wu hu lm	2
-招商局中国基金	vc uh ju vs go ji jb	2
 投资有道	tz zi yz dc	2
 金马投票	jb ma tz pn	2
 联华超市	lm hx ic ui	2
@@ -3392,7 +3196,6 @@ sort: by_weight
 思捷环球	si jp hr qq	2
 高盛集团	gc ug ji tr	2
 普天债券	pu tm vd qr	2
-金朝阳集团	jb vc yh ji tr	2
 北京科锐	bw jk ke rv	2
 资信证明	zi xb vg mk	2
 产品介绍	ij pb jp uc	2
@@ -3403,9 +3206,7 @@ sort: by_weight
 信托投资	xb to tz zi	2
 金融大街	jb rs da jp	2
 太光	td gl	2
-艾略特波浪理论	ai lt te bo lh li ly	2
 苏州固锝	su vz gu de	2
-联邦破产法	lm bh po ij fa	2
 总成本	zs ig bf	2
 侨兴环球	qn xk hr qq	2
 行权价	xk qr jx	2
@@ -3422,9 +3223,7 @@ sort: by_weight
 不成文法	bu ig wf fa	1
 股票市价	gu pn ui jx	1
 不可撤销	bu ke ie xn	1
-晋察冀边区银行	jb ia ji bm qu yb hh	1
 同洲电子	ts vz dm zi	1
-力合股份有限公司	li he gu ff yz xm gs si	1
 厦工股份	ua gs gu ff	1
 虚拟卡	xu ni ka	1
 华阳科技	hx yh ke ji	1
@@ -3436,7 +3235,6 @@ sort: by_weight
 国际结算	go ji jp sr	1
 石化债	ui hx vd	1
 康美债	kh mw vd	1
-银行承兑汇票	yb hh ig dv hv pn	1
 百利电气	bd li dm qi	1
 受理人	uz li rf	1
 中钢吉炭	vs gh ji tj	1
@@ -3458,16 +3256,13 @@ sort: by_weight
 履约保函	lv yt bc hj	1
 金智科技	jb vi ke ji	1
 石劝业	ui qr ye	1
-中国管理传播网	vs go gr li ir bo wh	1
 华资实业	hx zi ui ye	1
 诚聘英才	ig pb yk cd	1
 塑料钞	su ln ic	1
 金融体系	jb rs ti xi	1
 公司理财	gs si li cd	1
 投资组合	tz zi zu he	1
-吉林制药股份有限公司	ji lb vi yc gu ff yz xm gs si	1
 大众投资	da vs tz zi	1
-中国有色金属报	vs go yz se jb uu bc	1
 交钥匙	jn yc ui	1
 中川国际	vs ir go ji	1
 中国股市	vs go gu ui	1
@@ -3476,7 +3271,6 @@ sort: by_weight
 微利股	ww li gu	1
 渝钛白	yu td bd	1
 山推股份	uj tv gu ff	1
-襄阳汽车轴承股份有限公司	xl yh qi ie vz ig gu ff yz xm gs si	1
 凯迪电力	kd di dm li	1
 美国国际	mw go go ji	1
 广东科德	gl ds ke de	1
@@ -3492,11 +3286,9 @@ sort: by_weight
 抚顺特钢	fu uy te gh	1
 死股	si gu	1
 高价股	gc jx gu	1
-中国报告大厅	vs go bc gc da tk	1
 赛格达声	sd ge da ug	1
 银基发展	yb ji fa vj	1
 渝太地产	yu td di ij	1
-发票领购本	fa pn lk gz bf	1
 浙商银行	ve uh yb hh	1
 上海佳豪	uh hd jx hc	1
 温氏集团	wf ui ji tr	1
@@ -3504,7 +3296,6 @@ sort: by_weight
 中盘股	vs pj gu	1
 康盛股份	kh ug gu ff	1
 国际收支	go ji uz vi	1
-注意力经济	vu yi li jk ji	1
 财产保险	cd ij bc xm	1
 南开戈德	nj kd ge de	1
 日贷	ri dd	1
@@ -3530,10 +3321,7 @@ sort: by_weight
 中国中铁	vs go vs tp	1
 政策工具	vg ce gs ju	1
 内部控制	nw bu ks vi	1
-湖南有色金属	hu nj yz se jb uu	1
-汇丰晋信基金	hv fg jb xb ji jb	1
 证券资讯	vg qr zi xy	1
-中国水业集团	vs go uv ye ji tr	1
 普天债	pu tm vd	1
 五洲明珠	wu vz mk vu	1
 双箭股份	ul jm gu ff	1
@@ -3547,7 +3335,6 @@ sort: by_weight
 银行管理	yb hh gr li	1
 中科创业	vs ke il ye	1
 上海普天	uh hd pu tm	1
-中国资本市场	vs go zi bf ui ih	1
 社保基金	ue bc ji jb	1
 苏常远东	su ih yr ds	1
 中国远洋	vs go yr yh	1
@@ -3559,7 +3346,6 @@ sort: by_weight
 金风科技	jb fg ke ji	1
 莎拉李	ua la li	1
 卡夫食品	ka fu ui pb	1
-海南省信托投资公司	hd nj ug xb to tz zi gs si	1
 入股协议	ru gu xp yi	1
 把握机遇	ba wo ji yu	1
 新动力	xb ds li	1
@@ -3577,7 +3363,6 @@ sort: by_weight
 黔凯涤	qm kd di	1
 阳光城	yh gl ig	1
 资本预算	zi bf yu sr	1
-财务状况表	cd wu vl kl bn	1
 华联综超	hx lm zs ic	1
 北海银行	bw hd yb hh	1
 表首	bn uz	1
@@ -3586,11 +3371,7 @@ sort: by_weight
 主要措施	vu yc co ui	1
 毒笔	du bi	1
 永大集团	ys da ji tr	1
-福建工商时报	fu jm gs uh ui bc	1
 宁波银行	nk bo yb hh	1
-东北财经大学	ds bw cd jk da xt	1
-黄山金马股份有限公司	hl uj jb ma gu ff yz xm gs si	1
-山东德棉股份有限公司	uj ds de mm gu ff yz xm gs si	1
 桂林旅游	gv lb lv yz	1
 云南城投	yy nj ig tz	1
 陕西长安	uj xi ih an	1
@@ -3600,7 +3381,6 @@ sort: by_weight
 交银添利	jn yb tm li	1
 准贷记卡	vy dd ji ka	1
 债务危机	vd wu ww ji	1
-史密森协定	ui mi sf xp dk	1
 卖空者	md ks ve	1
 凤凰股	fg hl gu	1
 航天机电	hh tm ji dm	1
@@ -3612,29 +3392,22 @@ sort: by_weight
 主力资金	vu li zi jb	1
 一汽金杯	yi qi jb bw	1
 隆基机械	ls ji ji xp	1
-广州冷机股份有限公司	gl vz lg ji gu ff yz xm gs si	1
 黄金网	hl jb wh	1
 山东墨龙	uj ds mo ls	1
 鼎泰新材	dk td xb cd	1
-江苏法尔胜股份有限公司	jl su fa er ug gu ff yz xm gs si	1
 再买	zd md	1
 软通货	rr ts ho	1
 青岛碱业	qk dc jm ye	1
 电广实业	dm gl ui ye	1
 看涨者	kj vh ve	1
-大通曼哈顿银行	da ts mj ha dy yb hh	1
 兴业银行	xk ye yb hh	1
 益民红利	yi mb hs li	1
 外汇交易	wd hv jn yi	1
-深圳赛格股份有限公司	uf vf sd ge gu ff yz xm gs si	1
-上海有色金属网	uh hd yz se jb uu wh	1
 科诺威德	ke no ww de	1
-税收完税证	uv uz wj uv vg	1
 自买	zi md	1
 交易指南	jn yi vi nj	1
 互太纺织	hu td fh vi	1
 软控股份	rr ks gu ff	1
-销售代理协议	xn uz dd li xp yi	1
 诺安平衡	no an pk hg	1
 一汽富维	yi qi fu ww	1
 雷鸣科化	lw mk ke hx	1
@@ -3645,7 +3418,6 @@ sort: by_weight
 股市快讯	gu ui kk xy	1
 国际视野	go ji ui ye	1
 创新低	il xb di	1
-比亚迪股份	bi ya di gu ff	1
 一汽夏利	yi qi xx li	1
 世界银行	ui jp yb hh	1
 自助银行	zi vu yb hh	1
@@ -3656,7 +3428,6 @@ sort: by_weight
 珠江实业	vu jl ui ye	1
 贸易通	mc yi ts	1
 黑盒子	hw he zi	1
-合并资产负债表	he bk zi ij fu vd bn	1
 盘活资产	pj ho zi ij	1
 信用评级	xb ys pk ji	1
 一本通	yi bf ts	1
@@ -3667,13 +3438,11 @@ sort: by_weight
 上市公司	uh ui gs si	1
 超图软件	ic tu rr jm	1
 高度关注	gc du gr vu	1
-股权分置改革方案	gu qr ff vi gd ge fh an	1
 工新	gs xb	1
 东方锆业	ds fh gc ye	1
 中国玻璃	vs go bo li	1
 郑州燃气	vg vz rj qi	1
 证券导刊	vg qr dc kj	1
-东方报业集团	ds fh bc ye ji tr	1
 福特赛	fu te sd	1
 山东如意	uj ds ru yi	1
 中国消防	vs go xn fh	1
@@ -3687,7 +3456,6 @@ sort: by_weight
 鲁商置业	lu uh vi ye	1
 川金路	ir jb lu	1
 嘉实恒生	jx ui hg ug	1
-投资者教育	tz zi ve jn yu	1
 潍柴重机	ww id vs ji	1
 金利科技	jb li ke ji	1
 中国服装	vs go fu vl	1
@@ -3705,7 +3473,6 @@ sort: by_weight
 拉高均价	la gc jy jx	1
 华北银行	hx bw yb hh	1
 实际公司	ui ji gs si	1
-安泰科技股份有限公司	an td ke ji gu ff yz xm gs si	1
 赛格股份	sd ge gu ff	1
 雷柏科技	lw bd ke ji	1
 价税	jx uv	1
@@ -3727,7 +3494,6 @@ sort: by_weight
 固额	gu ee	1
 次贷危机	ci dd ww ji	1
 信托资产	xb to zi ij	1
-大亚科技股份有限公司	da ya ke ji gu ff yz xm gs si	1
 销货清单	xn ho qk dj	1
 黑牡丹	hw mu dj	1
 戴尔电脑	dd er dm nc	1
@@ -3737,7 +3503,6 @@ sort: by_weight
 华芳纺织	hx fh fh vi	1
 折价率	ve jx lv	1
 工银保本	gs yb bc bf	1
-五年期以上	wu nm qi yi uh	1
 新宏信	xb hs xb	1
 持本单	ii bf dj	1
 跳动点	tn ds dm	1
@@ -3745,17 +3510,13 @@ sort: by_weight
 国际商务	go ji uh wu	1
 收还	uz hd	1
 永辉超市	ys hv ic ui	1
-股东大会决议	gu ds da hv jt yi	1
 浦银红利	pu yb hs li	1
-追加保证金	vv jx bc vg jb	1
 中航地产	vs hh di ij	1
 五矿期货	wu kl qi ho	1
 项目融资	xl mu rs zi	1
-交银施罗德	jn yb ui lo de	1
 空换	ks hr	1
 内蒙宏峰	nw mg hs fg	1
 美罗药业	mw lo yc ye	1
-风险投资商	fg xm tz zi uh	1
 大莱卡	da ld ka	1
 深南光	uf nj gl	1
 重要公告	vs yc gs gc	1
@@ -3806,16 +3567,12 @@ sort: by_weight
 阿比银行	aa bi yb hh	1
 指标股	vi bn gu	1
 宁天龙	nk tm ls	1
-荷兰万贝银行	he lj wj bw yb hh	1
 六福集团	lq fu ji tr	1
 博耳电力	bo er dm li	1
 成长先锋	ig vh xm fg	1
 交银环球	jn yb hr qq	1
 国电南自	go dm nj zi	1
 金融投资	jb rs tz zi	1
-注册会计师	vu ce kk ji ui	1
-安徽省皖能股份有限公司	an hv ug wj ng gu ff yz xm gs si	1
-江苏金智科技股份有限公司	jl su jb vi ke ji gu ff yz xm gs si	1
 士兰微	ui lj ww	1
 鹏博士	pg bo ui	1
 国九条	go jq tn	1
@@ -3825,11 +3582,7 @@ sort: by_weight
 和而泰	he er td	1
 上海证券	uh hd vg qr	1
 中国医疗	vs go yi ln	1
-东方汇理银行	ds fh hv li yb hh	1
 巨星科技	ju xk ke ji	1
-梅花伞业股份有限公司	mw hx sj ye gu ff yz xm gs si	1
-中国民营经济周刊	vs go mb yk jk ji vz kj	1
-瓦房店轴承股份有限公司	wa fh dm vz ig gu ff yz xm gs si	1
 东碳	ds tj	1
 华银电力	hx yb dm li	1
 资本运作	zi bf yy zo	1
