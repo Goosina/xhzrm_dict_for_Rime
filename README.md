@@ -55,8 +55,6 @@ THUOCL（THU Open Chinese Lexicon）是由清华大学自然语言处理与社�
 
 ## 4. 其他
 
-1. 本项目提供了rime全拼词库转双拼词库的脚本。如果需要新增词库，可以考虑使用。
+1. 其他软件的词库转到rime词库可以使用深蓝词库转换，项目地址:https://github.com/studyzy/imewlconverter
 
-2. 其他软件的词库转到rime词库可以使用深蓝词库转换，项目地址:https://github.com/studyzy/imewlconverter
-
-3. 如果要使用本词库的辅助码，需要在schema.yaml文件中的speller:algebra:加入- derive/^(\w+);\w+$/$1/。
+2. 如果要使用本词库的辅助码，需要在schema.yaml文件中的speller:algebra:加入- derive/^(\w+);\w+$/$1/。
