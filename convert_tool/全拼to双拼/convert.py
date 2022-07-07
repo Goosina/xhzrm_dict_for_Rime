@@ -1,6 +1,6 @@
 import os
 
-string = "没有	mei you	44397392"
+string = "guan jian zhi biao 	关键指标	c=3 d=2.89011e-08 t=1705"
 
 shengmu_list1 = ['zh','ch','sh']
 shengmu_list2 = ['b','p','m','f','d','t','n','l','g','k','h','j','q','x','r','s','c','z','y','w']
@@ -34,9 +34,11 @@ def output_shengmu_and_yunmu(word):
 
 def convert(string):
     if '\t' in string:
-        ci,pinyin_whole,freq = string.split('\t')
+        #ci,pinyin_whole,freq = string.split('\t')
+        pinyin_whole,ci,freq = string.split('\t')
         pinyin_whole_new=''
-        for pinyin in pinyin_whole.split(' '):
+        for pinyin in pinyin_whole.rstrip ().split(' '):
+            print(pinyin)
             shengmu,yunmu = output_shengmu_and_yunmu(pinyin)
             try:
                 if shengmu == '':
@@ -48,7 +50,8 @@ def convert(string):
                 pinyin_whole_new += shengmu+yunmu+' '
             except:
                 return None
-        return ci+'\t'+pinyin_whole_new.rstrip ()+'\t'+freq
+        #return ci+'\t'+pinyin_whole_new.rstrip ()+'\t'+freq
+        return pinyin_whole_new+'\t'+ci+'\t'+freq
     else:
         return string
 
@@ -73,4 +76,8 @@ def convert_files():
         read_and_write('./ku/'+file,'./ku-convert/'+file.split('.dict')[0]+'.dict.yaml')
 
 convert_files()
+
+#print(convert(string))
+
+
 

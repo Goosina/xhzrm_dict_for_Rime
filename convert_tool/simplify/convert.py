@@ -7,7 +7,7 @@ import os
 def is_retain(string):
     if "\t" in string:
         phase1,code,freq=string.split("\t")
-        if len(phase1) >=5 or int(freq)==0:
+        if len(phase1) >=4 or int(freq)==0:
             return False
         else:
             return True
