@@ -55,6 +55,7 @@ engine:
     - matcher
     - abc_segmentor
     - punct_segmentor
+    - table_translator
     - fallback_segmentor
   translators:
     - punct_translator
